@@ -23,6 +23,7 @@ The project demonstrates the steps a Data Analyst takes to move from messy, raw 
 ---
 
 ## 📂 Repository Structure
+```text
 policy-management-portfolio/
 │
 ├── data/        # Datasets (raw and cleaned CSVs)
