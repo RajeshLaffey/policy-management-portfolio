@@ -12,5 +12,6 @@ I’ll be updating this repository as I learn and make progress.
 ---
 
 ## 📅 Progress Log
+###📖 See [CHANGELOG](analysis/CHANGELOG.md) for detailed project updates.
 
 - **2025-09-01**: Created project folder structure (`data/`, `excel/`, `powerbi/`, `sql/`) and uploaded both raw (uncleaned) and clean CSV files into the `data/` folder.  
