@@ -23,16 +23,16 @@ The project demonstrates the steps a Data Analyst takes to move from messy, raw 
 ---
 
 ## 📂 Repository Structure
-```text
+
 policy-management-portfolio/
-│
-├── data/        # Datasets (raw and cleaned CSVs)
-├── excel/       # Excel cleaning files
-├── powerbi/     # Power BI dashboard file (.pbix) and screenshots
-├── sql/         # SQL scripts and queries
-├── analysis/    # Changelog and decision notes
-├── docs/        # Additional project documentation
-└── README.md    # Project overview (this file)
+    │
+    ├── data/        # Datasets (raw and cleaned CSVs)
+    ├── excel/       # Excel cleaning files
+    ├── powerbi/     # Power BI dashboard file (.pbix) and screenshots
+    ├── sql/         # SQL scripts and queries
+    ├── analysis/    # Changelog and decision notes
+    ├── docs/        # Additional project documentation
+    └── README.md    # Project overview (this file)
 
 ---
 
