@@ -8,3 +8,9 @@ The goal is to practice the full analytics workflow using a synthetic dataset:
 3. **SQL (SQLite/DBLite)** – load clean data and run analysis queries  
 
 I’ll be updating this repository as I learn and make progress.  
+
+---
+
+## 📅 Progress Log
+
+- **2025-09-01**: Created project folder structure (`data/`, `excel/`, `powerbi/`, `sql/`) and uploaded both raw (uncleaned) and clean CSV files into the `data/` folder.  
