@@ -39,7 +39,7 @@ The project demonstrates the steps a Data Analyst takes to move from messy, raw 
 
 ## 📅 Progress Log
 - **2025-09-01**: Created project folder structure (`data/`, `excel/`, `powerbi/`, `sql/`) and uploaded both raw (uncleaned) and clean CSV files into the `data/` folder.
-- **2025-09-0**: Created project folder structure (`productowner/`)
+- **2025-09-06**: Created project folder structure (`productowner/`)
 
 📖 For a detailed history of updates, see the [CHANGELOG](analysis/CHANGELOG.md).
 
