@@ -5,7 +5,14 @@ Entries are listed in reverse chronological order (newest first).
 
 ---
 
-## [2025-09-01] – Initial Setup
+## [2025-09-06] – Initial Setup v02
+### Added
+- Created base folder structure:
+  - `productowner/` for product owner documentation (vision board, persona documentation, etc..)
+  
+---
+
+## [2025-09-01] – Initial Setup v01
 ### Added
 - Created base folder structure:
   - `data/` for datasets (`raw/` and `clean/` subfolders)
