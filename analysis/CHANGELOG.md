@@ -5,6 +5,12 @@ Entries are listed in reverse chronological order (newest first).
 
 ---
 
+## [2025-09-07] – Initial Setup v03
+### Added
+- Uploaded clean csv files to `data/`
+  
+---
+
 ## [2025-09-06] – Initial Setup v02
 ### Added
 - Created base folder structure:
@@ -17,7 +23,6 @@ Entries are listed in reverse chronological order (newest first).
 ### Added
 - Created base folder structure:
   - `data/` for datasets (`raw/` and `clean/` subfolders)
-  - `excel/` for Excel cleaning files
   - `powerbi/` for Power BI dashboard
   - `productowner/` for product documentation (vision board, persona template, etc..).
   - `sql/` for SQL scripts and queries
