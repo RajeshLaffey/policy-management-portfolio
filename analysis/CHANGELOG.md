@@ -9,7 +9,7 @@ Entries are listed in reverse chronological order (newest first).
 ### Added
 - Created base folder structure:
   - `productowner/` for product owner documentation (vision board, persona documentation, etc..)
-  - Uploaded **Product Vision Board** into `productowner/`.
+  - Uploaded **Policy Insights Hub Vision Board** into `productowner/`.
   
 ---
 
