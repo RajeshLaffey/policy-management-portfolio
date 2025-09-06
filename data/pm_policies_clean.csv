@@ -1,0 +1,301 @@
+PolicyID,PolicyTitle,PolicyType,Status,OwnerDepartmentID,EffectiveDate,LastApprovedDate,NextReview
+POL-0001,Policy 1: Conduct Management,HR,Retired,DEP-004,5/28/10,6/18/24,6/18/27
+POL-0002,Policy 2: Security Management,Employer,Approved,DEP-010,4/21/23,11/13/24,11/13/27
+POL-0003,Policy 3: Access Management,Operations,Under Review,DEP-001,10/19/19,8/7/24,8/7/27
+POL-0004,Policy 4: Leave Management,Risk,Retired,DEP-001,7/26/24,7/5/23,7/4/26
+POL-0005,Policy 5: Retention Management,IT,Approved,DEP-008,12/28/20,9/26/24,9/26/27
+POL-0006,Policy 6: Travel Management,Employer,Retired,DEP-001,3/6/25,10/31/24,10/31/27
+POL-0007,Policy 7: Conduct Management,IT,Under Review,DEP-012,6/9/06,6/11/24,6/11/27
+POL-0008,Policy 8: Retention Management,IT,Under Review,DEP-001,3/14/18,7/9/24,7/9/27
+POL-0009,Policy 9: Records Management,IT,Under Review,DEP-003,7/7/06,11/24/23,11/23/26
+POL-0010,Policy 10: Security Management,Risk,Approved,DEP-005,5/4/10,12/16/24,12/16/27
+POL-0011,Policy 11: Conduct Management,Risk,Under Review,DEP-008,12/20/07,12/7/23,12/6/26
+POL-0012,Policy 12: Risk Management,Employer,Approved,DEP-002,6/14/10,9/16/24,9/16/27
+POL-0013,Policy 13: Conduct Management,Compliance,Approved,DEP-005,3/6/07,9/22/23,9/21/26
+POL-0014,Policy 14: Procurement Management,Member,Approved,DEP-001,6/23/15,3/26/24,3/26/27
+POL-0015,Policy 15: Security Management,Admin,Draft,DEP-008,1/12/14,6/5/24,6/5/27
+POL-0016,Policy 16: Conduct Management,IT,Under Review,DEP-008,4/8/09,1/5/24,1/4/27
+POL-0017,Policy 17: Procurement Management,Operations,Retired,DEP-001,4/1/11,5/24/24,5/24/27
+POL-0018,Policy 18: Training Management,Risk,Approved,DEP-014,3/14/07,6/21/24,6/21/27
+POL-0019,Policy 19: Security Management,IT,Retired,DEP-003,9/24/08,8/16/23,8/15/26
+POL-0020,Policy 20: Conduct Management,Compliance,Under Review,DEP-009,3/29/25,11/20/23,11/19/26
+POL-0021,Policy 21: Procurement Management,Finance,Approved,DEP-001,8/3/22,5/14/24,5/14/27
+POL-0022,Policy 22: Procurement Management,Risk,Retired,DEP-001,11/6/19,7/19/24,7/19/27
+POL-0023,Policy 23: Conduct Management,Finance,Approved,DEP-002,11/19/09,10/13/23,10/12/26
+POL-0024,Policy 24: Retention Management,HR,Approved,DEP-003,10/11/21,12/23/24,12/23/27
+POL-0025,Policy 25: Risk Management,Employer,Under Review,DEP-007,4/12/16,12/26/24,12/26/27
+POL-0026,Policy 26: Access Management,HR,Approved,DEP-014,5/23/16,9/19/24,9/19/27
+POL-0027,Policy 27: Risk Management,Compliance,Retired,DEP-013,2/23/20,2/1/23,1/31/26
+POL-0028,Policy 28: Security Management,Admin,Retired,DEP-008,7/10/10,6/10/24,6/10/27
+POL-0029,Policy 29: Risk Management,Compliance,Under Review,DEP-001,5/28/14,5/22/24,5/22/27
+POL-0030,Policy 30: Conduct Management,IT,Approved,DEP-001,1/9/20,8/29/24,8/29/27
+POL-0031,Policy 31: Leave Management,Member,Approved,DEP-004,12/9/07,10/10/24,10/10/27
+POL-0032,Policy 32: Training Management,Legal,Approved,DEP-012,11/12/21,8/28/23,8/27/26
+POL-0033,Policy 33: Training Management,Admin,Approved,DEP-002,8/18/17,6/7/24,6/7/27
+POL-0034,Policy 34: Retention Management,IT,Approved,DEP-001,5/7/16,10/30/23,10/29/26
+POL-0035,Policy 35: Security Management,IT,Retired,DEP-001,4/16/13,10/21/24,10/21/27
+POL-0036,Policy 36: Retention Management,Finance,Under Review,DEP-011,9/20/18,2/1/24,1/31/27
+POL-0037,Policy 37: Records Management,Risk,Approved,DEP-001,9/19/11,11/29/21,11/28/24
+POL-0038,Policy 38: Access Management,Finance,Approved,DEP-010,8/4/07,7/12/24,7/12/27
+POL-0039,Policy 39: Retention Management,Operations,Draft,DEP-011,2/10/11,6/16/23,6/15/26
+POL-0040,Policy 40: Travel Management,IT,Under Review,DEP-004,6/2/20,8/17/23,8/16/26
+POL-0041,Policy 41: Retention Management,Employer,Approved,DEP-012,8/20/10,1/22/24,1/21/27
+POL-0042,Policy 42: Security Management,Member,Draft,DEP-003,5/7/16,2/3/23,2/2/26
+POL-0043,Policy 43: Travel Management,Operations,Approved,DEP-003,4/17/19,4/12/23,4/11/26
+POL-0044,Policy 44: Training Management,Risk,Approved,DEP-010,10/29/20,10/17/24,10/17/27
+POL-0045,Policy 45: Security Management,Compliance,Approved,DEP-013,10/22/24,8/2/24,8/2/27
+POL-0046,Policy 46: Retention Management,HR,Approved,DEP-001,9/21/23,11/6/24,11/6/27
+POL-0047,Policy 47: Access Management,Member,Approved,DEP-010,11/11/07,3/7/22,3/6/25
+POL-0048,Policy 48: Travel Management,IT,Approved,DEP-011,4/19/20,11/12/21,11/11/24
+POL-0049,Policy 49: Travel Management,Risk,Approved,DEP-006,10/30/24,12/9/24,12/9/27
+POL-0050,Policy 50: Conduct Management,Operations,Under Review,DEP-001,12/10/22,10/10/24,10/10/27
+POL-0051,Policy 51: Procurement Management,HR,Approved,DEP-001,1/9/09,10/21/24,10/21/27
+POL-0052,Policy 52: Procurement Management,IT,Approved,DEP-003,12/26/10,11/12/24,11/12/27
+POL-0053,Policy 53: Procurement Management,HR,Under Review,DEP-013,4/4/24,4/19/22,4/18/25
+POL-0054,Policy 54: Training Management,Legal,Approved,DEP-004,11/6/11,3/25/24,3/25/27
+POL-0055,Policy 55: Conduct Management,HR,Draft,DEP-001,10/21/19,11/18/24,11/18/27
+POL-0056,Policy 56: Security Management,Finance,Under Review,DEP-002,11/16/12,12/24/24,12/24/27
+POL-0057,Policy 57: Retention Management,Legal,Approved,DEP-013,8/15/05,12/31/24,12/31/27
+POL-0058,Policy 58: Risk Management,Finance,Retired,DEP-008,11/10/05,6/20/24,6/20/27
+POL-0059,Policy 59: Travel Management,Member,Retired,DEP-011,8/7/18,9/3/21,9/2/24
+POL-0060,Policy 60: Procurement Management,Admin,Approved,DEP-013,4/7/09,11/27/23,11/26/26
+POL-0061,Policy 61: Procurement Management,HR,Retired,DEP-011,8/30/16,8/15/23,8/14/26
+POL-0062,Policy 62: Conduct Management,Legal,Under Review,DEP-003,9/4/14,10/10/23,10/9/26
+POL-0063,Policy 63: Access Management,Admin,Approved,DEP-001,1/16/12,10/15/24,10/15/27
+POL-0064,Policy 64: Leave Management,Risk,Retired,DEP-011,12/9/11,2/21/24,2/20/27
+POL-0065,Policy 65: Procurement Management,HR,Approved,DEP-001,6/8/17,7/23/24,7/23/27
+POL-0066,Policy 66: Procurement Management,Operations,Under Review,DEP-005,10/22/18,4/17/24,4/17/27
+POL-0067,Policy 67: Retention Management,Admin,Approved,DEP-001,10/26/11,10/7/24,10/7/27
+POL-0068,Policy 68: Risk Management,Admin,Approved,DEP-014,9/8/19,10/5/23,10/4/26
+POL-0069,Policy 69: Training Management,IT,Approved,DEP-006,6/19/16,4/29/24,4/29/27
+POL-0070,Policy 70: Access Management,Compliance,Retired,DEP-004,5/14/11,2/5/24,2/4/27
+POL-0071,Policy 71: Risk Management,Legal,Under Review,DEP-014,2/5/07,10/31/19,10/30/22
+POL-0072,Policy 72: Conduct Management,Finance,Approved,DEP-006,1/15/10,11/29/22,11/28/25
+POL-0073,Policy 73: Records Management,HR,Draft,DEP-002,6/29/10,11/7/23,11/6/26
+POL-0074,Policy 74: Security Management,Employer,Approved,DEP-008,11/24/13,12/31/24,12/31/27
+POL-0075,Policy 75: Procurement Management,Compliance,Approved,DEP-001,12/18/13,10/1/24,10/1/27
+POL-0076,Policy 76: Security Management,Member,Under Review,DEP-013,11/28/09,3/14/22,3/13/25
+POL-0077,Policy 77: Training Management,HR,Approved,DEP-001,7/3/17,9/26/24,9/26/27
+POL-0078,Policy 78: Training Management,Operations,Under Review,DEP-014,12/23/22,11/29/24,11/29/27
+POL-0079,Policy 79: Retention Management,Admin,Approved,DEP-009,2/13/12,12/14/23,12/13/26
+POL-0080,Policy 80: Risk Management,Risk,Approved,DEP-002,7/28/14,3/3/21,3/2/24
+POL-0081,Policy 81: Training Management,Operations,Approved,DEP-004,9/6/21,6/25/24,6/25/27
+POL-0082,Policy 82: Leave Management,IT,Approved,DEP-008,11/3/23,10/15/21,10/14/24
+POL-0083,Policy 83: Training Management,IT,Approved,DEP-001,2/28/11,3/28/24,3/28/27
+POL-0084,Policy 84: Conduct Management,Finance,Under Review,DEP-003,7/14/12,11/25/22,11/24/25
+POL-0085,Policy 85: Security Management,Operations,Approved,DEP-001,5/20/08,7/30/24,7/30/27
+POL-0086,Policy 86: Access Management,IT,Draft,DEP-009,6/11/06,7/3/23,7/2/26
+POL-0087,Policy 87: Retention Management,Employer,Draft,DEP-006,4/30/14,9/11/23,9/10/26
+POL-0088,Policy 88: Procurement Management,Admin,Under Review,DEP-008,8/7/20,6/3/24,6/3/27
+POL-0089,Policy 89: Procurement Management,Employer,Approved,DEP-009,2/18/05,11/30/23,11/29/26
+POL-0090,Policy 90: Procurement Management,Member,APProved,DEP-013,1/27/17,2/10/23,2/9/26
+POL-0091,Policy 91: Risk Management,IT,Under Review,DEP-003,12/14/15,11/29/24,11/29/27
+POL-0092,Policy 92: Training Management,HR,Retired,DEP-013,4/6/12,7/21/23,7/20/26
+POL-0093,Policy 93: Access Management,Employer,Approved,DEP-002,5/10/11,6/20/23,6/19/26
+POL-0094,Policy 94: Procurement Management,Admin,Approved,DEP-011,8/29/17,5/2/23,5/1/26
+POL-0095,Policy 95: Procurement Management,Operations,Under Review,DEP-007,6/11/24,10/25/24,10/25/27
+POL-0096,Policy 96: Leave Management,Member,Retired,DEP-001,5/5/12,5/24/24,5/24/27
+POL-0097,Policy 97: Travel Management,Member,Approved,DEP-013,3/30/11,2/27/24,2/26/27
+POL-0098,Policy 98: Leave Management,Compliance,Approved,DEP-003,7/20/15,8/7/24,8/7/27
+POL-0099,Policy 99: Travel Management,IT,Retired,DEP-010,8/1/19,11/5/24,11/5/27
+POL-0100,Policy 100: Records Management,IT,Approved,DEP-013,6/22/09,10/11/24,10/11/27
+POL-0101,Policy 101: Access Management,IT,Draft,DEP-008,11/1/07,5/14/24,5/14/27
+POL-0102,Policy 102: Risk Management,IT,Retired,DEP-001,6/7/15,9/25/24,9/25/27
+POL-0103,Policy 103: Travel Management,Operations,Draft,DEP-008,8/4/18,12/30/24,12/30/27
+POL-0104,Policy 104: Access Management,Finance,Approved,DEP-001,6/5/07,9/23/24,9/23/27
+POL-0105,Policy 105: Risk Management,IT,Under Review,DEP-001,11/24/13,11/25/24,11/25/27
+POL-0106,Policy 106: Security Management,Admin,Approved,DEP-007,6/28/20,9/22/22,9/21/25
+POL-0107,Policy 107: Security Management,Finance,Under Review,DEP-009,1/27/24,7/1/24,7/1/27
+POL-0108,Policy 108: Risk Management,HR,Under Review,DEP-010,10/15/12,4/29/24,4/29/27
+POL-0109,Policy 109: Security Management,Risk,Approved,DEP-003,7/11/19,2/17/23,2/16/26
+POL-0110,Policy 110: Training Management,Compliance,Approved,DEP-009,9/22/14,3/15/23,3/14/26
+POL-0111,Policy 111: Training Management,Operations,Approved,DEP-009,10/8/14,7/19/24,7/19/27
+POL-0112,Policy 112: Leave Management,Admin,Approved,DEP-001,2/16/23,4/29/24,4/29/27
+POL-0113,Policy 113: Retention Management,Employer,Approved,DEP-002,10/9/14,12/2/24,12/2/27
+POL-0114,Policy 114: Leave Management,Legal,Approved,DEP-014,2/8/24,10/28/24,10/28/27
+POL-0115,Policy 115: Leave Management,Employer,Approved,DEP-013,6/21/10,8/19/24,8/19/27
+POL-0116,Policy 116: Risk Management,Member,Approved,DEP-011,7/18/12,6/20/24,6/20/27
+POL-0117,Policy 117: Access Management,Employer,Approved,DEP-007,10/4/09,1/3/23,1/2/26
+POL-0118,Policy 118: Travel Management,Finance,Approved,DEP-001,9/29/24,7/5/23,7/4/26
+POL-0119,Policy 119: Retention Management,HR,Draft,DEP-002,8/3/16,10/7/24,10/7/27
+POL-0120,Policy 120: Conduct Management,Member,Under Review,DEP-008,12/17/15,12/18/23,12/17/26
+POL-0121,Policy 121: Training Management,Employer,Retired,DEP-013,1/20/15,8/7/24,8/7/27
+POL-0122,Policy 122: Leave Management,IT,Approved,DEP-013,1/26/14,10/6/22,10/5/25
+POL-0123,Policy 123: Risk Management,Legal,Retired,DEP-001,8/13/15,12/11/23,12/10/26
+POL-0124,Policy 124: Procurement Management,Risk,Retired,DEP-005,6/2/12,2/3/23,2/2/26
+POL-0125,Policy 125: Leave Management,Finance,Retired,DEP-014,8/22/10,10/28/24,10/28/27
+POL-0126,Policy 126: Travel Management,Compliance,Approved,DEP-003,8/30/21,4/30/24,4/30/27
+POL-0127,Policy 127: Access Management,IT,Approved,DEP-012,11/8/05,12/23/24,12/23/27
+POL-0128,Policy 128: Travel Management,Risk,draft,DEP-001,5/21/18,12/11/23,12/10/26
+POL-0129,Policy 129: Conduct Management,Finance,Approved,DEP-013,2/7/10,7/24/24,7/24/27
+POL-0130,Policy 130: Retention Management,Risk,Draft,DEP-007,11/3/07,11/29/24,11/29/27
+POL-0131,Policy 131: Retention Management,Finance,Retired,DEP-008,5/3/13,11/18/24,11/18/27
+POL-0132,Policy 132: Training Management,Compliance,Approved,DEP-001,7/29/24,5/1/24,5/1/27
+POL-0133,Policy 133: Training Management,Employer,Approved,DEP-012,8/23/12,10/15/24,10/15/27
+POL-0134,Policy 134: Training Management,Compliance,Retired,DEP-009,6/10/23,12/16/24,12/16/27
+POL-0135,Policy 135: Risk Management,HR,Approved,DEP-004,5/27/08,9/18/23,9/17/26
+POL-0136,Policy 136: Security Management,IT,Approved,DEP-011,11/24/13,12/17/24,12/17/27
+POL-0137,Policy 137: Risk Management,Admin,Retired,DEP-012,9/26/22,12/30/24,12/30/27
+POL-0138,Policy 138: Procurement Management,Employer,Approved,DEP-006,5/18/25,7/18/22,7/17/25
+POL-0139,Policy 139: Procurement Management,Finance,Approved,DEP-011,10/3/17,1/31/24,1/30/27
+POL-0140,Policy 140: Security Management,IT,Approved,DEP-009,1/12/19,12/3/24,12/3/27
+POL-0141,Policy 141: Access Management,IT,Approved,DEP-013,11/24/08,10/7/24,10/7/27
+POL-0142,Policy 142: Records Management,Member,Draft,DEP-004,2/8/15,8/2/23,8/1/26
+POL-0143,Policy 143: Leave Management,HR,Draft,DEP-007,3/12/10,2/5/24,2/4/27
+POL-0144,Policy 144: Training Management,Compliance,Approved,DEP-005,6/2/20,12/23/24,12/23/27
+POL-0145,Policy 145: Risk Management,IT,Approved,DEP-002,7/15/14,10/1/24,10/1/27
+POL-0146,Policy 146: Records Management,Finance,Draft,DEP-001,7/17/23,4/19/23,4/18/26
+POL-0147,Policy 147: Leave Management,Admin,Approved,DEP-011,10/19/21,2/20/24,2/19/27
+POL-0148,Policy 148: Training Management,Compliance,Approved,DEP-001,7/7/15,8/17/23,8/16/26
+POL-0149,Policy 149: Procurement Management,Finance,Under Review,DEP-011,3/23/16,4/18/24,4/18/27
+POL-0150,Policy 150: Security Management,Admin,Draft,DEP-008,11/23/05,10/23/23,10/22/26
+POL-0151,Policy 151: Travel Management,Admin,Under Review,DEP-001,8/14/10,10/3/24,10/3/27
+POL-0152,Policy 152: Risk Management,HR,Approved,DEP-007,2/25/22,10/25/23,10/24/26
+POL-0153,Policy 153: Risk Management,HR,Retired,DEP-010,2/12/22,2/26/24,2/25/27
+POL-0154,Policy 154: Retention Management,Employer,Approved,DEP-006,7/19/25,5/1/23,4/30/26
+POL-0155,Policy 155: Procurement Management,Employer,Approved,DEP-011,1/18/07,3/30/22,3/29/25
+POL-0156,Policy 156: Travel Management,Legal,Draft,DEP-005,1/12/20,10/10/23,10/9/26
+POL-0157,Policy 157: Procurement Management,Employer,Approved,DEP-001,6/20/11,10/16/23,10/15/26
+POL-0158,Policy 158: Retention Management,HR,Approved,DEP-012,3/15/15,12/2/24,12/2/27
+POL-0159,Policy 159: Security Management,Member,Under Review,DEP-004,5/26/24,5/23/24,5/23/27
+POL-0160,Policy 160: Retention Management,Employer,Approved,DEP-001,4/9/14,8/5/24,8/5/27
+POL-0161,Policy 161: Risk Management,Employer,Approved,DEP-007,1/11/19,10/14/22,10/13/25
+POL-0162,Policy 162: Conduct Management,Finance,Approved,DEP-009,4/27/17,7/26/24,7/26/27
+POL-0163,Policy 163: Training Management,Compliance,Approved,DEP-014,8/25/05,7/25/24,7/25/27
+POL-0164,Policy 164: Conduct Management,Operations,Approved,DEP-007,12/21/11,9/22/22,9/21/25
+POL-0165,Policy 165: Procurement Management,Compliance,Under Review,DEP-005,1/15/10,5/2/24,5/2/27
+POL-0166,Policy 166: Training Management,Compliance,Approved,DEP-004,7/13/19,5/28/24,5/28/27
+POL-0167,Policy 167: Leave Management,Risk,Under Review,DEP-015,10/27/20,12/17/24,12/17/27
+POL-0168,Policy 168: Training Management,Employer,Draft,DEP-001,6/20/10,12/12/24,12/12/27
+POL-0169,Policy 169: Security Management,IT,Approved,DEP-015,6/12/18,12/24/24,12/24/27
+POL-0170,Policy 170: Security Management,Finance,Draft,DEP-006,5/1/22,9/9/24,9/9/27
+POL-0171,Policy 171: Travel Management,Risk,Approved,DEP-006,12/29/10,9/28/23,9/27/26
+POL-0172,Policy 172: Leave Management,Admin,Approved,DEP-001,5/3/13,8/9/24,8/9/27
+POL-0173,Policy 173: Access Management,Employer,Approved,DEP-004,1/30/17,10/11/22,10/10/25
+POL-0174,Policy 174: Retention Management,Risk,Draft,DEP-008,6/18/13,9/9/24,9/9/27
+POL-0175,Policy 175: Conduct Management,IT,Approved,DEP-004,10/29/17,8/15/24,8/15/27
+POL-0176,Policy 176: Records Management,Legal,Retired,DEP-006,9/14/21,9/25/23,9/24/26
+POL-0177,Policy 177: Procurement Management,Operations,Under Review,DEP-009,2/10/16,9/16/24,9/16/27
+POL-0178,Policy 178: Retention Management,Admin,Approved,DEP-001,6/12/12,4/18/24,4/18/27
+POL-0179,Policy 179: Security Management,Risk,Approved,DEP-001,6/3/25,10/29/24,10/29/27
+POL-0180,Policy 180: Procurement Management,Operations,Approved,DEP-013,9/5/06,7/15/24,7/15/27
+POL-0181,Policy 181: Travel Management,Admin,Approved,DEP-004,7/15/20,9/25/23,9/24/26
+POL-0182,Policy 182: Travel Management,Risk,Approved,DEP-005,7/11/13,10/15/21,10/14/24
+POL-0183,Policy 183: Retention Management,HR,Approved,DEP-014,11/7/18,10/22/24,10/22/27
+POL-0184,Policy 184: Conduct Management,IT,Draft,DEP-014,9/26/14,9/23/24,9/23/27
+POL-0185,Policy 185: Security Management,Employer,Draft,DEP-001,9/24/08,12/30/24,12/30/27
+POL-0186,Policy 186: Records Management,HR,Draft,DEP-001,11/10/22,11/17/22,11/16/25
+POL-0187,Policy 187: Procurement Management,Operations,Approved,DEP-001,6/24/10,9/9/24,9/9/27
+POL-0188,Policy 188: Access Management,Operations,Approved,DEP-001,11/24/13,12/12/24,12/12/27
+POL-0189,Policy 189: Risk Management,IT,Draft,DEP-012,2/29/16,9/21/20,9/21/23
+POL-0190,Policy 190: Conduct Management,Employer,Approved,DEP-011,4/23/19,11/12/24,11/12/27
+POL-0191,Policy 191: Records Management,Employer,Approved,DEP-001,3/19/25,10/25/23,10/24/26
+POL-0192,Policy 192: Access Management,Compliance,Retired,DEP-008,11/28/14,9/19/24,9/19/27
+POL-0193,Policy 193: Leave Management,Member,Approved,DEP-010,4/24/11,11/4/24,11/4/27
+POL-0194,Policy 194: Leave Management,IT,Under Review,DEP-002,8/18/13,8/21/24,8/21/27
+POL-0195,Policy 195: Conduct Management,Compliance,Approved,DEP-010,10/30/17,2/4/21,2/4/24
+POL-0196,Policy 196: Leave Management,HR,Approved,DEP-014,8/14/23,10/31/24,10/31/27
+POL-0197,Policy 197: Records Management,Admin,Approved,DEP-004,5/27/24,11/18/21,11/17/24
+POL-0198,Policy 198: Records Management,Admin,Retired,DEP-003,9/18/21,1/4/24,1/3/27
+POL-0199,Policy 199: Conduct Management,Admin,Approved,DEP-015,12/27/22,11/19/24,11/19/27
+POL-0200,Policy 200: Conduct Management,Admin,Approved,DEP-010,8/16/10,12/30/24,12/30/27
+POL-0201,Policy 201: Access Management,Compliance,Retired,DEP-001,4/6/25,4/29/24,4/29/27
+POL-0202,Policy 202: Leave Management,Employer,Approved,DEP-006,10/1/05,12/26/24,12/26/27
+POL-0203,Policy 203: Access Management,Compliance,Retired,DEP-003,5/27/25,1/16/24,1/15/27
+POL-0204,Policy 204: Procurement Management,Operations,Retired,DEP-004,7/3/09,2/2/24,2/1/27
+POL-0205,Policy 205: Retention Management,Admin,Draft,DEP-013,6/28/25,1/22/24,1/21/27
+POL-0206,Policy 206: Leave Management,Employer,Retired,DEP-003,2/2/23,4/1/24,4/1/27
+POL-0207,Policy 207,Compliance,Approved,DEP-015,7/4/15,9/4/24,9/4/27
+POL-0208,Policy 208: Conduct Management,Member,Approved,DEP-008,12/21/23,5/3/24,5/3/27
+POL-0209,Policy 209: Security Management,Member,Approved,DEP-002,4/25/05,8/30/23,8/29/26
+POL-0210,Policy 210: Training Management,Legal,Approved,DEP-009,2/3/20,11/18/24,11/18/27
+POL-0211,Policy 211: Risk Management,Member,Approved,DEP-011,6/13/23,5/31/22,5/30/25
+POL-0212,Policy 212: Security Management,IT,Approved,DEP-001,7/30/15,8/15/24,8/15/27
+POL-0213,Policy 213: Risk Management,IT,Approved,DEP-001,7/12/19,12/2/24,12/2/27
+POL-0214,Policy 214: Leave Management,Member,Approved,DEP-005,8/14/07,5/11/23,5/10/26
+POL-0215,Policy 215: Training Management,Compliance,Under Review,DEP-003,3/8/07,12/27/22,12/26/25
+POL-0216,Policy 216: Access Management,Member,Approved,DEP-001,3/6/15,7/10/23,7/9/26
+POL-0217,Policy 207: Risk Management,Member,Under Review,DEP-008,1/15/10,10/14/22,10/13/25
+POL-0218,Policy 218: Procurement Management,Compliance,Approved,DEP-001,9/13/23,7/22/24,7/22/27
+POL-0219,Policy 219: Leave Management,HR,Approved,DEP-001,6/25/20,10/13/22,10/12/25
+POL-0220,Policy 220: Training Management,IT,Draft,DEP-010,3/9/24,5/31/23,5/30/26
+POL-0221,Policy 221: Retention Management,Legal,Retired,DEP-001,5/12/06,3/11/24,3/11/27
+POL-0222,Policy 222: Security Management,Employer,Approved,DEP-004,1/21/08,12/24/24,12/24/27
+POL-0223,Policy 223: Risk Management,HR,Retired,DEP-011,2/19/06,1/6/23,1/5/26
+POL-0224,Policy 224: Access Management,Admin,Approved,DEP-014,8/9/09,10/29/24,10/29/27
+POL-0225,Policy 225: Conduct Management,Admin,Draft,DEP-004,11/5/09,1/8/24,1/7/27
+POL-0226,Policy 217: Conduct Management,Operations,Approved,DEP-011,10/1/05,2/14/24,2/13/27
+POL-0227,Policy 227: Leave Management,Operations,Retired,DEP-005,12/1/07,10/31/23,10/30/26
+POL-0228,Policy 228: Security Management,HR,Approved,DEP-001,12/16/07,8/8/24,8/8/27
+POL-0229,Policy 229: Conduct Management,Admin,Approved,DEP-001,4/6/12,10/28/24,10/28/27
+POL-0230,Policy 230: Access Management,Member,Under Review,DEP-001,10/19/16,2/5/24,2/4/27
+POL-0231,Policy 231: Training Management,Legal,Approved,DEP-001,7/6/16,12/18/24,12/18/27
+POL-0232,Policy 232: Retention Management,IT,Approved,DEP-010,3/9/24,10/15/24,10/15/27
+POL-0233,Policy 233: Leave Management,Employer,Approved,DEP-014,6/7/19,8/5/24,8/5/27
+POL-0234,Policy 234: Training Management,Member,Retired,DEP-002,4/7/18,11/1/24,11/1/27
+POL-0235,Policy 235: Training Management,Compliance,Retired,DEP-001,3/3/25,2/2/23,2/1/26
+POL-0236,Policy 236: Security Management,Operations,Retired,DEP-001,3/3/11,4/18/23,4/17/26
+POL-0237,Policy 237: Retention Management,Legal,Retired,DEP-001,7/18/13,4/10/24,4/10/27
+POL-0238,Policy 238: Leave Management,Employer,Retired,DEP-006,5/4/16,9/24/24,9/24/27
+POL-0239,Policy 239: Security Management,Risk,Approved,DEP-001,3/3/21,12/30/24,12/30/27
+POL-0240,Policy 240: Training Management,IT,Approved,DEP-014,7/14/06,11/4/24,11/4/27
+POL-0241,Policy 241: Procurement Management,Member,Approved,DEP-008,5/3/13,9/13/24,9/13/27
+POL-0242,Policy 242: Leave Management,Legal,Approved,DEP-005,6/4/08,12/23/24,12/23/27
+POL-0243,Policy 226: Procurement Management,Compliance,Retired,DEP-007,8/28/23,1/22/24,1/21/27
+POL-0244,Policy 244: Travel Management,Operations,Approved,DEP-001,6/24/17,10/15/24,10/15/27
+POL-0245,Policy 245: Travel Management,Compliance,Retired,DEP-014,3/20/14,3/13/24,3/13/27
+POL-0246,Policy 246: Records Management,Finance,Approved,DEP-005,6/20/18,10/15/24,10/15/27
+POL-0247,Policy 247: Risk Management,Risk,Under Review,DEP-002,10/9/09,8/2/24,8/2/27
+POL-0248,Policy 248: Security Management,Legal,Approved,DEP-005,12/18/23,3/31/23,3/30/26
+POL-0249,Policy 249: Leave Management,Admin,Draft,DEP-007,5/3/13,9/30/24,9/30/27
+POL-0250,Policy 250: Risk Management,Admin,Retired,DEP-014,2/21/20,4/18/22,4/17/25
+POL-0251,Policy 251: Risk Management,Finance,Approved,DEP-009,8/26/05,5/20/24,5/20/27
+POL-0252,Policy 252: Leave Management,Legal,Approved,DEP-003,11/15/12,1/22/24,1/21/27
+POL-0253,Policy 253: Risk Management,Member,Under Review,DEP-009,7/25/06,7/29/24,7/29/27
+POL-0254,Policy 254: Security Management,Risk,Approved,DEP-013,10/29/09,11/20/24,11/20/27
+POL-0255,Policy 255: Travel Management,Operations,Approved,DEP-014,5/7/16,8/19/24,8/19/27
+POL-0256,Policy 256: Risk Management,Admin,Approved,DEP-008,11/27/06,12/1/21,11/30/24
+POL-0257,Policy 257: Access Management,Admin,Retired,DEP-013,2/12/06,4/18/23,4/17/26
+POL-0258,Policy 258: Training Management,Member,Draft,DEP-001,11/23/15,11/4/24,11/4/27
+POL-0259,Policy 259: Leave Management,IT,Approved,DEP-004,12/7/21,10/16/24,10/16/27
+POL-0260,Policy 260: Procurement Management,Compliance,Under Review,DEP-014,5/10/11,11/14/23,11/13/26
+POL-0261,Policy 261: Training Management,Risk,Approved,DEP-008,12/19/19,11/16/22,11/15/25
+POL-0262,Policy 262: Procurement Management,Admin,Approved,DEP-014,3/25/06,10/10/23,10/9/26
+POL-0263,Policy 263: Access Management,Finance,Approved,DEP-012,6/30/11,5/24/24,5/24/27
+POL-0264,Policy 264: Training Management,Member,Approved,DEP-005,12/10/08,8/19/24,8/19/27
+POL-0265,Policy 265: Conduct Management,Risk,Retired,DEP-001,11/24/13,4/15/24,4/15/27
+POL-0266,Policy 266: Security Management,Member,Retired,DEP-011,4/30/24,12/18/24,12/18/27
+POL-0267,Policy 267: Records Management,Employer,Approved,DEP-014,8/30/25,11/18/24,11/18/27
+POL-0268,Policy 268: Procurement Management,Admin,Retired,DEP-011,1/27/14,12/23/24,12/23/27
+POL-0269,Policy 269: Leave Management,Compliance,Under Review,DEP-012,4/6/12,7/9/24,7/9/27
+POL-0270,Policy 270: Risk Management,Employer,Under Review,DEP-005,8/30/23,8/16/23,8/15/26
+POL-0271,Policy 271: Security Management,Member,Approved,DEP-014,12/11/23,12/16/24,12/16/27
+POL-0272,Policy 272: Procurement Management,Risk,Approved,DEP-001,10/7/06,8/21/23,8/20/26
+POL-0273,Policy 243: Security Management,IT,Approved,DEP-008,6/21/12,10/23/24,10/23/27
+POL-0274,Policy 274: Retention Management,Compliance,Approved,DEP-015,11/25/16,7/5/24,7/5/27
+POL-0275,Policy 275: Travel Management,Legal,Approved,DEP-006,4/24/11,12/23/24,12/23/27
+POL-0276,Policy 276: Access Management,HR,Retired,DEP-006,4/23/07,4/29/24,4/29/27
+POL-0277,Policy 277: Risk Management,Operations,Approved,DEP-007,1/19/22,8/29/24,8/29/27
+POL-0278,Policy 278: Access Management,Employer,Approved,DEP-012,5/29/15,6/27/23,6/26/26
+POL-0279,Policy 279: Risk Management,Employer,Draft,DEP-001,4/11/20,1/24/24,1/23/27
+POL-0280,Policy 280: Risk Management,Legal,Approved,DEP-010,5/20/24,2/5/24,2/4/27
+POL-0281,Policy 281: Access Management,Employer,Under Review,DEP-009,7/14/06,12/4/24,12/4/27
+POL-0282,Policy 282: Leave Management,Finance,Draft,DEP-001,4/7/18,10/16/24,10/16/27
+POL-0283,Policy 273: Conduct Management,Employer,Approved,DEP-003,7/14/06,1/16/24,1/15/27
+POL-0284,Policy 284: Leave Management,Compliance,Approved,DEP-004,5/7/16,10/4/24,10/4/27
+POL-0285,Policy 285: Risk Management,Admin,Approved,DEP-013,10/1/05,2/27/23,2/26/26
+POL-0286,Policy 286: Retention Management,HR,Approved,DEP-006,2/2/15,10/31/24,10/31/27
+POL-0287,Policy 287: Conduct Management,Legal,Approved,DEP-004,7/28/18,10/28/24,10/28/27
+POL-0288,Policy 288: Records Management,Employer,Retired,DEP-012,4/28/07,5/9/24,5/9/27
+POL-0289,Policy 289: Security Management,Risk,Retired,DEP-001,6/30/19,2/3/23,2/2/26
+POL-0290,Policy 290: Training Management,Risk,Approved,DEP-006,9/22/16,12/5/24,12/5/27
+POL-0291,Policy 291: Travel Management,Finance,Retired,DEP-005,9/9/13,9/27/24,9/27/27
+POL-0292,Policy 292: Risk Management,HR,Approved,DEP-006,7/14/06,7/30/24,7/30/27
+POL-0293,Policy 293: Security Management,Legal,Under Review,DEP-008,2/14/07,8/28/23,8/27/26
+POL-0294,Policy 294: Leave Management,Finance,Under Review,DEP-001,3/26/21,12/3/20,12/3/23
+POL-0295,Policy 295: Access Management,Legal,Under Review,DEP-001,10/30/06,7/18/24,7/18/27
+POL-0296,Policy 296: Travel Management,Finance,Approved,DEP-001,9/19/19,9/20/24,9/20/27
+POL-0297,Policy 297: Access Management,Admin,Approved,DEP-001,11/24/20,1/12/24,1/11/27
+POL-0298,Policy 298: Retention Management,Member,Approved,DEP-013,6/8/19,6/26/24,6/26/27
+POL-0299,Policy 299: Retention Management,Compliance,Under Review,DEP-009,6/29/19,9/9/24,9/9/27
+POL-0300,Policy 300: Travel Management,HR,Draft,DEP-001,2/18/13,6/7/22,6/6/25

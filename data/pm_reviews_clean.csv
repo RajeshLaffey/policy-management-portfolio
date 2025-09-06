@@ -1,0 +1,2046 @@
+ReviewID,PolicyID,ReviewerEmployeeID,ReviewDate,ReviewStatus,Comments
+REV-00001,POL-0159,EMP-0028,1/2/19,Approved,Looks good.
+REV-00002,POL-0136,EMP-0011,1/2/19,Approved,Looks good.
+REV-00003,POL-0008,EMP-0028,1/3/19,Approved,Update section 2.
+REV-00004,POL-0241,EMP-0027,1/3/19,Approved,Formatting changes only.
+REV-00005,POL-0288,EMP-0032,1/4/19,Approved,Formatting changes only.
+REV-00006,POL-0006,EMP-0027,1/4/19,Approved,Looks good.
+REV-00007,POL-0013,EMP-0011,1/7/19,Approved,Looks good.
+REV-00008,POL-0278,EMP-0011,1/7/19,Approved,Looks good.
+REV-00009,POL-0299,EMP-0033,1/8/19,Approved,Update section 3.
+REV-00010,POL-0249,EMP-0011,1/8/19,Rejected,Formatting changes only.
+REV-00011,POL-0135,EMP-0033,1/9/19,Approved,Please verify citation.
+REV-00012,POL-0250,EMP-0027,1/10/19,Approved,Looks good.
+REV-00013,POL-0132,EMP-0030,1/10/19,Approved,Minor edits requested.
+REV-00014,POL-0165,EMP-0031,1/14/19,Approved,Minor edits requested.
+REV-00015,POL-0007,EMP-0027,1/14/19,Approved,Minor edits requested.
+REV-00016,POL-0033,EMP-0034,1/15/19,Rejected,Please verify citation.
+REV-00017,POL-0048,EMP-0032,1/17/19,Approved,Looks good.
+REV-00018,POL-0296,EMP-0033,1/18/19,Approved,Update section 4.
+REV-00019,POL-0135,EMP-0030,1/22/19,Approved,Please verify citation.
+REV-00020,POL-0133,EMP-0027,1/22/19,Approved,Update section 4.
+REV-00021,POL-0231,EMP-0034,1/22/19,Approved,Looks good.
+REV-00022,POL-0203,EMP-0029,1/22/19,Rejected,Please verify citation.
+REV-00023,POL-0132,EMP-0030,1/22/19,Approved,Update section 5.
+REV-00024,POL-0212,EMP-0029,1/22/19,Approved,Update section 1.
+REV-00025,POL-0257,EMP-0028,1/23/19,Approved,Update section 1.
+REV-00026,POL-0157,EMP-0025,1/24/19,Approved,Minor edits requested.
+REV-00027,POL-0094,EMP-0032,1/25/19,Approved,Update section 1.
+REV-00028,POL-0196,EMP-0034,1/25/19,Approved,Update section 1.
+REV-00029,POL-0038,EMP-0032,1/31/19,Approved,Formatting changes only.
+REV-00030,POL-0265,EMP-0027,1/31/19,Approved,Looks good.
+REV-00031,POL-0110,EMP-0029,2/1/19,Approved,Update section 3.
+REV-00032,POL-0184,EMP-0029,2/1/19,Approved,Update section 3.
+REV-00033,POL-0028,EMP-0027,2/4/19,Approved,Update section 2.
+REV-00034,POL-0081,EMP-0025,2/5/19,Approved,Looks good.
+REV-00035,POL-0162,EMP-0029,2/6/19,Approved,Please verify citation.
+REV-00036,POL-0295,EMP-0011,2/7/19,Approved,Minor edits requested.
+REV-00037,POL-0256,EMP-0030,2/8/19,Approved,Update section 1.
+REV-00038,POL-0069,EMP-0027,2/11/19,Approved,Update section 3.
+REV-00039,POL-0189,EMP-0031,2/11/19,Approved,Update section 2.
+REV-00040,POL-0031,EMP-0030,2/12/19,Approved,Please verify citation.
+REV-00041,POL-0100,EMP-0025,2/14/19,Approved,Please verify citation.
+REV-00042,POL-0270,EMP-0033,2/19/19,Approved,Minor edits requested.
+REV-00043,POL-0291,EMP-0030,2/19/19,Approved,Please verify citation.
+REV-00044,POL-0284,EMP-0031,2/19/19,Approved,Please verify citation.
+REV-00045,POL-0010,EMP-0033,2/19/19,Approved,Formatting changes only.
+REV-00046,POL-0200,EMP-0031,2/19/19,Approved,Minor edits requested.
+REV-00047,POL-0106,EMP-0011,2/21/19,Approved,Please verify citation.
+REV-00048,POL-0086,EMP-0028,2/21/19,Rejected,Please verify citation.
+REV-00049,POL-0035,EMP-0031,2/21/19,Approved,Update section 3.
+REV-00050,POL-0057,EMP-0029,2/22/19,Approved,Update section 3.
+REV-00051,POL-0033,EMP-0031,2/22/19,Approved,Formatting changes only.
+REV-00052,POL-0120,EMP-0025,2/22/19,Approved,Update section 4.
+REV-00053,POL-0218,EMP-0027,2/25/19,Approved,Formatting changes only.
+REV-00054,POL-0108,EMP-0026,2/25/19,Approved,Formatting changes only.
+REV-00055,POL-0281,EMP-0029,2/25/19,Approved,Update section 4.
+REV-00056,POL-0283,EMP-0027,2/26/19,Approved,Minor edits requested.
+REV-00057,POL-0016,EMP-0032,2/27/19,Approved,Update section 3.
+REV-00057,POL-0016,EMP-0025,2/26/19,Rejected,Update section 3.
+REV-00058,POL-0216,EMP-0027,2/27/19,Rejected,Looks good.
+REV-00059,POL-0167,EMP-0033,3/1/19,Approved,Formatting changes only.
+REV-00060,POL-0086,EMP-0027,3/4/19,Approved,Minor edits requested.
+REV-00061,POL-0077,EMP-0034,3/4/19,Rejected,Looks good.
+REV-00062,POL-0220,EMP-0028,3/5/19,Approved,Minor edits requested.
+REV-00063,POL-0183,EMP-0025,3/5/19,Approved,Please verify citation.
+REV-00064,POL-0033,EMP-0030,3/6/19,Approved,Update section 5.
+REV-00065,POL-0167,EMP-0033,3/6/19,Approved,Minor edits requested.
+REV-00066,POL-0192,EMP-0025,3/7/19,Approved,Minor edits requested.
+REV-00067,POL-0251,EMP-0026,3/7/19,Approved,Minor edits requested.
+REV-00068,POL-0237,EMP-0030,3/11/19,Approved,Formatting changes only.
+REV-00069,POL-0221,EMP-0027,3/12/19,Approved,Minor edits requested.
+REV-00070,POL-0050,EMP-0034,3/12/19,Approved,Formatting changes only.
+REV-00071,POL-0184,EMP-0031,3/15/19,Rejected,Please verify citation.
+REV-00072,POL-0095,EMP-0030,3/18/19,Approved,Formatting changes only.
+REV-00073,POL-0130,EMP-0026,3/18/19,Approved,Update section 3.
+REV-00074,POL-0155,EMP-0034,3/18/19,Approved,Minor edits requested.
+REV-00075,POL-0058,EMP-0025,3/20/19,Approved,Update section 6.
+REV-00076,POL-0221,EMP-0025,3/22/19,Approved,Minor edits requested.
+REV-00077,POL-0191,EMP-0030,3/22/19,Approved,Please verify citation.
+REV-00078,POL-0070,EMP-0034,3/25/19,Approved,Formatting changes only.
+REV-00079,POL-0278,EMP-0032,3/25/19,Rejected,Update section 3.
+REV-00080,POL-0184,EMP-0031,3/25/19,Rejected,Please verify citation.
+REV-00081,POL-0227,EMP-0032,3/25/19,Approved,Formatting changes only.
+REV-00082,POL-0271,EMP-0026,3/26/19,Approved,Formatting changes only.
+REV-00083,POL-0065,EMP-0025,3/26/19,Approved,Please verify citation.
+REV-00084,POL-0050,EMP-0034,3/28/19,Approved,Looks good.
+REV-00085,POL-0208,EMP-0031,3/29/19,Approved,Looks good.
+REV-00086,POL-0245,EMP-0031,4/1/19,Approved,Formatting changes only.
+REV-00087,POL-0162,EMP-0029,4/1/19,Approved,Update section 7.
+REV-00088,POL-0286,EMP-0030,4/1/19,Approved,Looks good.
+REV-00089,POL-0239,EMP-0033,4/4/19,Approved,Minor edits requested.
+REV-00090,POL-0194,EMP-0026,4/4/19,Approved,Please verify citation.
+REV-00091,POL-0293,EMP-0027,4/4/19,Approved,Minor edits requested.
+REV-00092,POL-0179,EMP-0026,4/5/19,Approved,Formatting changes only.
+REV-00093,POL-0016,EMP-0030,4/9/19,Approved,Update section 8.
+REV-00094,POL-0081,EMP-0025,4/11/19,Approved,Update section 3.
+REV-00095,POL-0210,EMP-0032,4/11/19,Approved,Please verify citation.
+REV-00096,POL-0133,EMP-0034,4/11/19,Approved,Minor edits requested.
+REV-00097,POL-0258,EMP-0033,4/12/19,Approved,Please verify citation.
+REV-00098,POL-0265,EMP-0027,4/12/19,Approved,Looks good.
+REV-00099,POL-0281,EMP-0011,4/15/19,Approved,Update section 9.
+REV-00100,POL-0014,EMP-0029,4/15/19,Approved,Formatting changes only.
+REV-00101,POL-0040,EMP-0025,4/16/19,Approved,Formatting changes only.
+REV-00102,POL-0268,EMP-0011,4/17/19,Approved,Minor edits requested.
+REV-00103,POL-0126,EMP-0011,4/17/19,Approved,Please verify citation.
+REV-00104,POL-0110,EMP-0031,4/18/19,Approved,Looks good.
+REV-00105,POL-0125,EMP-0029,4/19/19,Approved,Please verify citation.
+REV-00106,POL-0268,EMP-0031,4/22/19,Approved,Looks good.
+REV-00107,POL-0192,EMP-0026,4/22/19,Rejected,Update section 3.
+REV-00108,POL-0259,EMP-0032,4/22/19,Approved,Please verify citation.
+REV-00109,POL-0268,EMP-0034,4/23/19,Approved,Please verify citation.
+REV-00110,POL-0283,EMP-0032,4/24/19,Approved,Update section 1.
+REV-00111,POL-0236,EMP-0031,4/25/19,Approved,Update section 3.
+REV-00112,POL-0207,EMP-0031,4/29/19,Approved,Update section 3.
+REV-00113,POL-0062,EMP-0031,4/30/19,Approved,Update section 1.
+REV-00114,POL-0209,EMP-0030,5/1/19,Approved,Formatting changes only.
+REV-00115,POL-0144,EMP-0034,5/1/19,Approved,Update section 3.
+REV-00116,POL-0098,EMP-0030,5/2/19,Approved,Looks good.
+REV-00117,POL-0279,EMP-0026,5/2/19,Approved,Please verify citation.
+REV-00118,POL-0137,EMP-0034,5/6/19,Approved,Update section 3.
+REV-00119,POL-0300,EMP-0011,5/6/19,Approved,Update section 2.
+REV-00120,POL-0272,EMP-0011,5/6/19,Approved,Minor edits requested.
+REV-00121,POL-0233,EMP-0033,5/6/19,Approved,Minor edits requested.
+REV-00122,POL-0075,EMP-0030,5/7/19,Approved,Please verify citation.
+REV-00123,POL-0244,EMP-0011,5/7/19,Approved,Minor edits requested.
+REV-00124,POL-0128,EMP-0025,5/7/19,Approved,Please verify citation.
+REV-00125,POL-0032,EMP-0025,5/7/19,Approved,Formatting changes only.
+REV-00126,POL-0182,EMP-0027,5/7/19,Approved,Please verify citation.
+REV-00127,POL-0021,EMP-0034,5/9/19,Approved,Formatting changes only.
+REV-00128,POL-0069,EMP-0026,5/10/19,Approved,Please verify citation.
+REV-00129,POL-0086,EMP-0029,5/13/19,Approved,Formatting changes only.
+REV-00130,POL-0295,EMP-0029,5/13/19,Approved,Update section 2.
+REV-00131,POL-0255,EMP-0026,5/13/19,Approved,Update section 4.
+REV-00132,POL-0236,EMP-0034,5/13/19,Approved,Looks good.
+REV-00133,POL-0183,EMP-0026,5/13/19,Approved,Formatting changes only.
+REV-00134,POL-0276,EMP-0029,5/13/19,Approved,Formatting changes only.
+REV-00135,POL-0219,EMP-0026,5/13/19,Rejected,Formatting changes only.
+REV-00136,POL-0114,EMP-0027,5/16/19,Approved,Looks good.
+REV-00137,POL-0134,EMP-0027,5/20/19,Approved,Update section 3.
+REV-00138,POL-0236,EMP-0011,5/24/19,Rejected,Looks good.
+REV-00139,POL-0079,EMP-0029,5/24/19,Rejected,Update section 3.
+REV-00140,POL-0236,EMP-0028,5/28/19,Approved,Minor edits requested.
+REV-00141,POL-0049,EMP-0029,5/28/19,Approved,Formatting changes only.
+REV-00142,POL-0118,EMP-0032,5/30/19,Approved,Update section 3.
+REV-00143,POL-0031,EMP-0032,6/3/19,Approved,Please verify citation.
+REV-00144,POL-0161,EMP-0034,6/3/19,Rejected,Looks good.
+REV-00145,POL-0217,EMP-0026,6/3/19,Approved,Minor edits requested.
+REV-00146,POL-0130,EMP-0034,6/10/19,Approved,Looks good.
+REV-00147,POL-0110,EMP-0011,6/10/19,Approved,Minor edits requested.
+REV-00148,POL-0096,EMP-0025,6/10/19,Approved,Update section 3.
+REV-00149,POL-0083,EMP-0034,6/11/19,Rejected,Minor edits requested.
+REV-00150,POL-0079,EMP-0026,6/13/19,Approved,Looks good.
+REV-00151,POL-0148,EMP-0028,6/14/19,Approved,Update section 4.
+REV-00152,POL-0096,EMP-0030,6/17/19,Approved,Update section 3.
+REV-00153,POL-0126,EMP-0032,6/17/19,Approved,Update section 3.
+REV-00154,POL-0030,EMP-0029,6/17/19,Approved,Looks good.
+REV-00155,POL-0013,EMP-0029,6/19/19,Rejected,Minor edits requested.
+REV-00156,POL-0214,EMP-0026,6/20/19,Approved,Minor edits requested.
+REV-00157,POL-0290,EMP-0031,6/21/19,Approved,Formatting changes only.
+REV-00158,POL-0270,EMP-0027,6/21/19,Approved,Please verify citation.
+REV-00159,POL-0061,EMP-0031,6/24/19,Approved,Update section 3.
+REV-00160,POL-0084,EMP-0029,6/24/19,Approved,Formatting changes only.
+REV-00161,POL-0225,EMP-0025,6/25/19,Approved,Minor edits requested.
+REV-00162,POL-0013,EMP-0011,6/27/19,Approved,Update section 5.
+REV-00163,POL-0200,EMP-0034,7/1/19,Approved,Please verify citation.
+REV-00164,POL-0169,EMP-0011,7/1/19,Approved,Update section 1.
+REV-00165,POL-0090,EMP-0028,7/3/19,Approved,Please verify citation.
+REV-00166,POL-0133,EMP-0026,7/3/19,Rejected,Formatting changes only.
+REV-00167,POL-0020,EMP-0030,7/5/19,Rejected,Update section 1.
+REV-00168,POL-0114,EMP-0033,7/5/19,Approved,Minor edits requested.
+REV-00169,POL-0090,EMP-0030,7/8/19,Approved,Looks good.
+REV-00170,POL-0153,EMP-0030,7/8/19,Approved,Please verify citation.
+REV-00171,POL-0064,EMP-0028,7/9/19,Rejected,Update section 1.
+REV-00172,POL-0090,EMP-0030,7/10/19,Rejected,Update section 2.
+REV-00173,POL-0062,EMP-0028,7/10/19,Approved,Please verify citation.
+REV-00174,POL-0125,EMP-0027,7/15/19,Approved,Please verify citation.
+REV-00175,POL-0091,EMP-0025,7/15/19,Approved,Minor edits requested.
+REV-00176,POL-0245,EMP-0033,7/15/19,Approved,Update section 3.
+REV-00177,POL-0141,EMP-0032,7/16/19,Rejected,Minor edits requested.
+REV-00178,POL-0071,EMP-0028,7/16/19,Approved,Please verify citation.
+REV-00179,POL-0034,EMP-0033,7/16/19,Approved,Minor edits requested.
+REV-00180,POL-0252,EMP-0028,7/17/19,Approved,Minor edits requested.
+REV-00181,POL-0025,EMP-0011,7/17/19,Approved,Update section 2.
+REV-00182,POL-0103,EMP-0028,7/17/19,Approved,Minor edits requested.
+REV-00183,POL-0224,EMP-0032,7/19/19,Approved,Update section 3.
+REV-00184,POL-0154,EMP-0028,7/22/19,Approved,Please verify citation.
+REV-00185,POL-0280,EMP-0031,7/22/19,Rejected,Please verify citation.
+REV-00186,POL-0058,EMP-0030,7/23/19,Approved,Please verify citation.
+REV-00187,POL-0107,EMP-0030,7/24/19,Approved,Formatting changes only.
+REV-00188,POL-0269,EMP-0028,7/29/19,Approved,Please verify citation.
+REV-00189,POL-0286,EMP-0026,7/29/19,Approved,Update section 4.
+REV-00190,POL-0176,EMP-0011,7/29/19,Approved,Update section 3.
+REV-00191,POL-0293,EMP-0025,7/29/19,Approved,Update section 4.
+REV-00192,POL-0121,EMP-0028,7/29/19,Approved,Please verify citation.
+REV-00193,POL-0255,EMP-0011,7/29/19,Approved,Formatting changes only.
+REV-00194,POL-0037,EMP-0025,7/30/19,Approved,Looks good.
+REV-00195,POL-0284,EMP-0029,8/1/19,Approved,Formatting changes only.
+REV-00196,POL-0177,EMP-0028,8/2/19,Approved,Update section 3.
+REV-00197,POL-0045,EMP-0033,8/5/19,Approved,Update section 3.
+REV-00198,POL-0086,EMP-0033,8/5/19,Approved,Please verify citation.
+REV-00199,POL-0085,EMP-0027,8/6/19,Approved,Formatting changes only.
+REV-00200,POL-0150,EMP-0032,8/8/19,Approved,Update section 3.
+REV-00201,POL-0026,EMP-0028,8/8/19,Approved,Minor edits requested.
+REV-00202,POL-0258,EMP-0030,8/9/19,Approved,Update section 5.
+REV-00203,POL-0198,EMP-0011,8/9/19,Approved,Formatting changes only.
+REV-00204,POL-0071,EMP-0028,8/9/19,Approved,Minor edits requested.
+REV-00205,POL-0035,EMP-0034,8/12/19,Rejected,Please verify citation.
+REV-00206,POL-0055,EMP-0030,8/13/19,Approved,Update section 6.
+REV-00207,POL-0213,EMP-0030,8/13/19,Approved,Update section 3.
+REV-00208,POL-0138,EMP-0025,8/14/19,Approved,Minor edits requested.
+REV-00209,POL-0199,EMP-0031,8/15/19,Rejected,Formatting changes only.
+REV-00210,POL-0083,EMP-0032,8/15/19,Approved,Update section 3.
+REV-00211,POL-0085,EMP-0032,8/16/19,Approved,Looks good.
+REV-00212,POL-0138,EMP-0030,8/19/19,Rejected,Minor edits requested.
+REV-00213,POL-0181,EMP-0033,8/19/19,Approved,Update section 7.
+REV-00214,POL-0037,EMP-0032,8/19/19,Approved,Update section 8.
+REV-00215,POL-0213,EMP-0031,8/19/19,Approved,Formatting changes only.
+REV-00216,POL-0171,EMP-0025,8/19/19,Approved,Update section 9.
+REV-00217,POL-0226,EMP-0034,8/19/19,Rejected,Formatting changes only.
+REV-00218,POL-0229,EMP-0027,8/19/19,Approved,Formatting changes only.
+REV-00219,POL-0190,EMP-0026,8/19/19,Approved,Please verify citation.
+REV-00220,POL-0048,EMP-0028,8/19/19,Approved,Formatting changes only.
+REV-00221,POL-0061,EMP-0028,8/19/19,Approved,Formatting changes only.
+REV-00222,POL-0206,EMP-0032,8/20/19,Approved,Minor edits requested.
+REV-00223,POL-0192,EMP-0027,8/20/19,Approved,Update section 1.
+REV-00224,POL-0039,EMP-0030,8/21/19,Approved,Please verify citation.
+REV-00225,POL-0094,EMP-0029,8/22/19,Approved,Formatting changes only.
+REV-00226,POL-0050,EMP-0011,8/22/19,Approved,Update section 3.
+REV-00227,POL-0201,EMP-0032,8/26/19,Approved,Update section 3.
+REV-00228,POL-0026,EMP-0034,8/26/19,Approved,Formatting changes only.
+REV-00229,POL-0136,EMP-0032,8/26/19,Approved,Update section 1.
+REV-00230,POL-0123,EMP-0032,8/26/19,Approved,Please verify citation.
+REV-00231,POL-0157,EMP-0031,8/27/19,Rejected,Minor edits requested.
+REV-00232,POL-0226,EMP-0028,8/30/19,Approved,Please verify citation.
+REV-00232,POL-0226,EMP-0030,8/28/19,Approved,Please verify citation.
+REV-00233,POL-0120,EMP-0029,8/30/19,Approved,Looks good.
+REV-00234,POL-0097,EMP-0033,8/30/19,Approved,Update section 1.
+REV-00235,POL-0082,EMP-0026,9/4/19,Approved,Minor edits requested.
+REV-00236,POL-0106,EMP-0026,9/5/19,Approved,Formatting changes only.
+REV-00237,POL-0136,EMP-0034,9/6/19,Rejected,Update section 2.
+REV-00238,POL-0061,EMP-0029,9/6/19,Approved,Please verify citation.
+REV-00239,POL-0143,EMP-0030,9/9/19,Approved,Please verify citation.
+REV-00240,POL-0042,EMP-0033,9/9/19,Approved,Please verify citation.
+REV-00241,POL-0158,EMP-0026,9/9/19,Approved,Update section 3.
+REV-00242,POL-0111,EMP-0034,9/9/19,Approved,Looks good.
+REV-00243,POL-0065,EMP-0030,9/9/19,Approved,Looks good.
+REV-00244,POL-0063,EMP-0029,9/9/19,Approved,Update section 3.
+REV-00245,POL-0254,EMP-0025,9/9/19,Approved,Minor edits requested.
+REV-00246,POL-0142,EMP-0027,9/9/19,Approved,Please verify citation.
+REV-00247,POL-0166,EMP-0025,9/12/19,Approved,Formatting changes only.
+REV-00248,POL-0209,EMP-0032,9/12/19,Approved,Update section 2.
+REV-00249,POL-0122,EMP-0027,9/12/19,Approved,Minor edits requested.
+REV-00250,POL-0078,EMP-0026,9/13/19,Approved,Formatting changes only.
+REV-00251,POL-0045,EMP-0029,9/13/19,Approved,Formatting changes only.
+REV-00252,POL-0028,EMP-0032,9/16/19,Approved,Minor edits requested.
+REV-00253,POL-0146,EMP-0029,9/18/19,Approved,Looks good.
+REV-00254,POL-0223,EMP-0030,9/20/19,Approved,Update section 3.
+REV-00255,POL-0189,EMP-0027,9/20/19,Approved,Formatting changes only.
+REV-00256,POL-0131,EMP-0011,9/23/19,Approved,Formatting changes only.
+REV-00257,POL-0161,EMP-0028,9/23/19,Approved,Please verify citation.
+REV-00258,POL-0162,EMP-0027,9/23/19,Rejected,Formatting changes only.
+REV-00259,POL-0096,EMP-0029,9/24/19,Approved,Update section 3.
+REV-00260,POL-0079,EMP-0026,9/27/19,Approved,Update section 4.
+REV-00261,POL-0211,EMP-0032,9/30/19,Approved,Please verify citation.
+REV-00262,POL-0203,EMP-0028,9/30/19,Approved,Please verify citation.
+REV-00263,POL-0181,EMP-0025,9/30/19,Approved,Looks good.
+REV-00264,POL-0178,EMP-0030,10/2/19,Approved,Update section 3.
+REV-00265,POL-0037,EMP-0011,10/2/19,Approved,Looks good.
+REV-00266,POL-0176,EMP-0032,10/7/19,Approved,Please verify citation.
+REV-00267,POL-0016,EMP-0025,10/7/19,Approved,Update section 3.
+REV-00268,POL-0178,EMP-0026,10/7/19,Approved,Update section 3.
+REV-00269,POL-0276,EMP-0025,10/7/19,Rejected,Update section 4.
+REV-00270,POL-0091,EMP-0025,10/8/19,Approved,Formatting changes only.
+REV-00271,POL-0032,EMP-0029,10/9/19,Approved,Update section 3.
+REV-00272,POL-0202,EMP-0031,10/9/19,Approved,Formatting changes only.
+REV-00273,POL-0145,EMP-0033,10/9/19,Approved,Update section 5.
+REV-00274,POL-0069,EMP-0030,10/10/19,Approved,No Changes Required.
+REV-00275,POL-0186,EMP-0029,10/10/19,Approved,No Changes Required.
+REV-00276,POL-0066,EMP-0032,10/15/19,Approved,No Changes Required.
+REV-00276,POL-0066,EMP-0030,10/15/19,Approved,Update section 8.
+REV-00277,POL-0084,EMP-0030,10/15/19,Approved,Looks good.
+REV-00278,POL-0088,EMP-0033,10/16/19,Approved,Formatting changes only.
+REV-00279,POL-0249,EMP-0030,10/18/19,Approved,Update section 3.
+REV-00280,POL-0065,EMP-0029,10/21/19,Approved,Update section 3.
+REV-00281,POL-0134,EMP-0032,10/21/19,Approved,Formatting changes only.
+REV-00282,POL-0063,EMP-0032,10/22/19,Approved,Formatting changes only.
+REV-00283,POL-0220,EMP-0032,10/28/19,Approved,Looks good.
+REV-00284,POL-0112,EMP-0031,10/28/19,Approved,Please verify citation.
+REV-00285,POL-0294,EMP-0025,10/29/19,Approved,No Changes Required.
+REV-00286,POL-0071,EMP-0027,10/31/19,Approved,Update section 3.
+REV-00287,POL-0126,EMP-0031,11/1/19,Approved,Please verify citation.
+REV-00288,POL-0121,EMP-0027,11/4/19,Approved,Looks good.
+REV-00289,POL-0135,EMP-0031,11/4/19,Rejected,Looks good.
+REV-00290,POL-0122,EMP-0034,11/4/19,Approved,Formatting changes only.
+REV-00291,POL-0296,EMP-0029,11/4/19,Approved,Formatting changes only.
+REV-00292,POL-0057,EMP-0028,11/5/19,Approved,No Changes Required.
+REV-00293,POL-0038,EMP-0031,11/12/19,Rejected,No Changes Required.
+REV-00294,POL-0164,EMP-0030,11/12/19,Approved,No Changes Required.
+REV-00295,POL-0023,EMP-0027,11/13/19,Approved,Formatting changes only.
+REV-00296,POL-0130,EMP-0032,11/18/19,Approved,Formatting changes only.
+REV-00297,POL-0278,EMP-0031,11/18/19,Approved,Update section 3.
+REV-00298,POL-0067,EMP-0034,11/18/19,Approved,Looks good.
+REV-00299,POL-0069,EMP-0028,11/18/19,Approved,Please verify citation.
+REV-00300,POL-0123,EMP-0028,11/18/19,Rejected,Formatting changes only.
+REV-00301,POL-0234,EMP-0033,11/18/19,Approved,Please verify citation.
+REV-00302,POL-0085,EMP-0029,11/21/19,Approved,Minor edits requested.
+REV-00303,POL-0163,EMP-0030,11/21/19,Approved,Please verify citation.
+REV-00304,POL-0281,EMP-0025,11/25/19,Approved,Minor edits requested.
+REV-00305,POL-0236,EMP-0031,11/25/19,Approved,Please verify citation.
+REV-00306,POL-0029,EMP-0029,11/26/19,Approved,Formatting changes only.
+REV-00307,POL-0276,EMP-0026,11/26/19,Approved,Update section 3.
+REV-00308,POL-0156,EMP-0031,11/27/19,Approved,Formatting changes only.
+REV-00309,POL-0123,EMP-0028,11/29/19,Approved,Minor edits requested.
+REV-00310,POL-0212,EMP-0034,11/29/19,Approved,Looks good.
+REV-00311,POL-0225,EMP-0034,11/29/19,Approved,Looks good.
+REV-00312,POL-0022,EMP-0029,12/2/19,Approved,Looks good.
+REV-00313,POL-0114,EMP-0025,12/2/19,Approved,Formatting changes only.
+REV-00314,POL-0042,EMP-0028,12/2/19,Approved,No Changes Required.
+REV-00315,POL-0220,EMP-0034,12/2/19,Approved,Please verify citation.
+REV-00316,POL-0096,EMP-0029,12/3/19,Approved,Update section 3.
+REV-00317,POL-0273,EMP-0034,12/4/19,Approved,Looks good.
+REV-00318,POL-0076,EMP-0029,12/5/19,Approved,No Changes Required.
+REV-00319,POL-0267,EMP-0025,12/6/19,Approved,Update section 2.
+REV-00320,POL-0122,EMP-0031,12/9/19,Rejected,No Changes Required.
+REV-00321,POL-0289,EMP-0027,12/9/19,Approved,Formatting changes only.
+REV-00322,POL-0298,EMP-0025,12/9/19,Approved,Looks good.
+REV-00323,POL-0053,EMP-0030,12/12/19,Approved,Update section 3.
+REV-00324,POL-0019,EMP-0032,12/12/19,Approved,Minor edits requested.
+REV-00325,POL-0145,EMP-0033,12/16/19,Approved,Looks good.
+REV-00326,POL-0266,EMP-0026,12/16/19,Approved,Looks good.
+REV-00327,POL-0067,EMP-0029,12/17/19,Approved,Looks good.
+REV-00328,POL-0023,EMP-0032,12/18/19,Approved,No Changes Required.
+REV-00329,POL-0271,EMP-0011,12/19/19,Approved,Please verify citation.
+REV-00330,POL-0255,EMP-0029,12/20/19,Approved,Minor edits requested.
+REV-00331,POL-0145,EMP-0029,12/20/19,Approved,Update section 3.
+REV-00332,POL-0021,EMP-0032,12/23/19,Approved,Formatting changes only.
+REV-00333,POL-0204,EMP-0030,12/23/19,Approved,Looks good.
+REV-00334,POL-0163,EMP-0029,12/26/19,Approved,Update section 3.
+REV-00335,POL-0294,EMP-0030,12/27/19,Approved,Looks good.
+REV-00336,POL-0005,EMP-0025,12/30/19,Approved,Minor edits requested.
+REV-00337,POL-0077,EMP-0031,12/30/19,Approved,Please verify citation.
+REV-00338,POL-0096,EMP-0025,12/30/19,Approved,Looks good.
+REV-00339,POL-0037,EMP-0030,12/30/19,Rejected,Looks good.
+REV-00340,POL-0049,EMP-0025,12/30/19,Approved,Looks good.
+REV-00341,POL-0188,EMP-0028,12/31/19,Approved,Formatting changes only.
+REV-00342,POL-0100,EMP-0031,12/31/19,Approved,Update section 3.
+REV-00343,POL-0068,EMP-0030,1/2/20,Approved,Looks good.
+REV-00344,POL-0216,EMP-0030,1/2/20,Approved,Looks good.
+REV-00345,POL-0082,EMP-0027,1/3/20,Approved,Looks good.
+REV-00346,POL-0163,EMP-0033,1/6/20,Approved,No Changes Required.
+REV-00347,POL-0185,EMP-0025,1/6/20,Approved,No Changes Required.
+REV-00348,POL-0086,EMP-0032,1/6/20,Approved,Update section 3.
+REV-00349,POL-0213,EMP-0027,1/7/20,Rejected,Looks good.
+REV-00350,POL-0226,EMP-0026,1/7/20,Approved,No Changes Required.
+REV-00351,POL-0111,EMP-0027,1/8/20,Approved,Update section 3.
+REV-00352,POL-0274,EMP-0025,1/8/20,Approved,Please verify citation.
+REV-00353,POL-0089,EMP-0026,1/8/20,Approved,No Changes Required.
+REV-00354,POL-0210,EMP-0033,1/9/20,Approved,Please verify citation.
+REV-00355,POL-0183,EMP-0029,1/9/20,Approved,No Changes Required.
+REV-00356,POL-0268,EMP-0027,1/10/20,Approved,Formatting changes only.
+REV-00357,POL-0034,EMP-0032,1/10/20,Rejected,Minor edits requested.
+REV-00358,POL-0110,EMP-0033,1/13/20,Approved,Formatting changes only.
+REV-00359,POL-0173,EMP-0028,1/13/20,Approved,No Changes Required.
+REV-00360,POL-0018,EMP-0011,1/14/20,Approved,No Changes Required.
+REV-00361,POL-0031,EMP-0027,1/16/20,Approved,Please verify citation.
+REV-00362,POL-0107,EMP-0031,1/16/20,Approved,Minor edits requested.
+REV-00363,POL-0251,EMP-0027,1/21/20,Approved,No Changes Required.
+REV-00364,POL-0158,EMP-0025,1/21/20,Approved,Update section 3.
+REV-00365,POL-0059,EMP-0029,1/27/20,Approved,Minor edits requested.
+REV-00366,POL-0193,EMP-0033,1/27/20,Approved,Formatting changes only.
+REV-00367,POL-0049,EMP-0032,1/29/20,Approved,Update section 3.
+REV-00368,POL-0025,EMP-0027,2/5/20,Approved,Please verify citation.
+REV-00368,POL-0025,EMP-0025,2/3/20,Approved,Please verify citation.
+REV-00369,POL-0138,EMP-0026,2/5/20,Approved,Formatting changes only.
+REV-00370,POL-0153,EMP-0034,2/6/20,Approved,No Changes Required.
+REV-00371,POL-0097,EMP-0033,2/7/20,Approved,Formatting changes only.
+REV-00372,POL-0026,EMP-0026,2/10/20,Approved,No Changes Required.
+REV-00373,POL-0252,EMP-0031,2/10/20,Rejected,Looks good.
+REV-00374,POL-0209,EMP-0032,2/10/20,Rejected,Update section 3.
+REV-00375,POL-0035,EMP-0027,2/10/20,Approved,No Changes Required.
+REV-00376,POL-0093,EMP-0011,2/12/20,Approved,Please verify citation.
+REV-00376,POL-0093,EMP-0033,2/11/20,Approved,Please verify citation.
+REV-00377,POL-0192,EMP-0028,2/13/20,Approved,Minor edits requested.
+REV-00378,POL-0295,EMP-0033,2/13/20,Approved,Please verify citation.
+REV-00379,POL-0141,EMP-0028,2/13/20,Approved,No Changes Required.
+REV-00380,POL-0053,EMP-0011,2/13/20,Approved,Please verify citation.
+REV-00381,POL-0169,EMP-0026,2/18/20,Approved,No Changes Required.
+REV-00382,POL-0114,EMP-0025,2/18/20,Rejected,Update section 3.
+REV-00383,POL-0232,EMP-0034,2/18/20,Approved,Please verify citation.
+REV-00384,POL-0011,EMP-0030,2/19/20,Approved,No Changes Required.
+REV-00385,POL-0258,EMP-0025,2/24/20,Approved,No Changes Required.
+REV-00386,POL-0032,EMP-0034,2/24/20,Approved,Please verify citation.
+REV-00387,POL-0231,EMP-0025,2/24/20,Rejected,No Changes Required.
+REV-00388,POL-0038,EMP-0026,2/24/20,Rejected,Update section 3.
+REV-00389,POL-0030,EMP-0029,2/26/20,Approved,Please verify citation.
+REV-00390,POL-0048,EMP-0031,2/27/20,Rejected,Looks good.
+REV-00391,POL-0269,EMP-0028,2/27/20,Approved,Please verify citation.
+REV-00392,POL-0223,EMP-0034,2/27/20,Approved,Formatting changes only.
+REV-00393,POL-0094,EMP-0028,2/28/20,Approved,Minor edits requested.
+REV-00394,POL-0158,EMP-0033,3/2/20,Approved,Formatting changes only.
+REV-00395,POL-0028,EMP-0032,3/3/20,Approved,Minor edits requested.
+REV-00396,POL-0013,EMP-0033,3/4/20,Approved,No Changes Required.
+REV-00397,POL-0034,EMP-0026,3/5/20,Approved,Update section 3.
+REV-00398,POL-0167,EMP-0033,3/9/20,Approved,No Changes Required.
+REV-00399,POL-0298,EMP-0029,3/9/20,Approved,Looks good.
+REV-00400,POL-0190,EMP-0033,3/10/20,Approved,Please verify citation.
+REV-00401,POL-0227,EMP-0025,3/11/20,Approved,Update section 3.
+REV-00402,POL-0299,EMP-0034,3/13/20,Approved,No Changes Required.
+REV-00403,POL-0159,EMP-0027,3/16/20,Approved,No Changes Required.
+REV-00404,POL-0135,EMP-0033,3/16/20,Approved,Update section 2.
+REV-00405,POL-0235,EMP-0027,3/18/20,Approved,Update section 3.
+REV-00406,POL-0161,EMP-0025,3/19/20,Approved,Looks good.
+REV-00407,POL-0288,EMP-0027,3/19/20,Approved,Formatting changes only.
+REV-00408,POL-0105,EMP-0011,3/23/20,Approved,Looks good.
+REV-00409,POL-0002,EMP-0030,3/23/20,Approved,Minor edits requested.
+REV-00410,POL-0065,EMP-0025,3/23/20,Approved,No Changes Required.
+REV-00411,POL-0260,EMP-0027,3/23/20,Approved,Minor edits requested.
+REV-00412,POL-0079,EMP-0028,3/23/20,Rejected,No Changes Required.
+REV-00413,POL-0185,EMP-0027,3/23/20,Approved,Minor edits requested.
+REV-00414,POL-0266,EMP-0032,3/24/20,Approved,Update section 3.
+REV-00415,POL-0096,EMP-0027,3/24/20,Approved,No Changes Required.
+REV-00416,POL-0145,EMP-0025,3/24/20,Approved,No Changes Required.
+REV-00417,POL-0168,EMP-0025,3/25/20,Approved,Please verify citation.
+REV-00418,POL-0157,EMP-0025,3/26/20,Approved,Update section 3.
+REV-00419,POL-0045,EMP-0034,3/26/20,Rejected,Formatting changes only.
+REV-00420,POL-0091,EMP-0033,3/30/20,Approved,Minor edits requested.
+REV-00421,POL-0070,EMP-0026,4/6/20,Rejected,Minor edits requested.
+REV-00422,POL-0048,EMP-0029,4/6/20,Approved,Minor edits requested.
+REV-00423,POL-0109,EMP-0011,4/8/20,Approved,Update section 3.
+REV-00424,POL-0277,EMP-0033,4/10/20,Approved,Update section 3.
+REV-00425,POL-0027,EMP-0029,4/13/20,Approved,Minor edits requested.
+REV-00426,POL-0122,EMP-0026,4/13/20,Approved,Looks good.
+REV-00427,POL-0145,EMP-0032,4/14/20,Approved,No Changes Required.
+REV-00428,POL-0002,EMP-0032,4/15/20,Rejected,Formatting changes only.
+REV-00429,POL-0279,EMP-0025,4/15/20,Approved,Update section 3.
+REV-00430,POL-0163,EMP-0031,4/15/20,Approved,Update section 3.
+REV-00431,POL-0042,EMP-0033,4/17/20,Approved,Formatting changes only.
+REV-00432,POL-0223,EMP-0031,4/17/20,Approved,Minor edits requested.
+REV-00433,POL-0228,EMP-0034,4/20/20,Rejected,Update section 3.
+REV-00434,POL-0206,EMP-0026,4/20/20,Approved,Please verify citation.
+REV-00435,POL-0005,EMP-0032,4/20/20,Rejected,Update section 3.
+REV-00436,POL-0199,EMP-0011,4/20/20,Approved,Formatting changes only.
+REV-00437,POL-0181,EMP-0011,4/21/20,Approved,No Changes Required.
+REV-00438,POL-0229,EMP-0029,4/22/20,Approved,Please verify citation.
+REV-00439,POL-0165,EMP-0029,4/23/20,Approved,Looks good.
+REV-00440,POL-0124,EMP-0029,4/27/20,Approved,Formatting changes only.
+REV-00441,POL-0251,EMP-0025,4/27/20,Approved,Formatting changes only.
+REV-00442,POL-0218,EMP-0029,4/27/20,Approved,Update section 3.
+REV-00443,POL-0047,EMP-0027,4/27/20,Approved,No Changes Required.
+REV-00443,POL-0047,EMP-0030,4/27/20,Approved,Update section 5.
+REV-00444,POL-0186,EMP-0025,4/27/20,Approved,Please verify citation.
+REV-00445,POL-0032,EMP-0027,4/28/20,Approved,Please verify citation.
+REV-00446,POL-0182,EMP-0011,4/28/20,Rejected,Minor edits requested.
+REV-00447,POL-0128,EMP-0030,4/30/20,Approved,Formatting changes only.
+REV-00448,POL-0044,EMP-0033,5/4/20,Rejected,Minor edits requested.
+REV-00448,POL-0044,EMP-0027,5/1/20,Rejected,Minor edits requested.
+REV-00449,POL-0087,EMP-0031,5/4/20,Approved,Update section 4.
+REV-00450,POL-0232,EMP-0031,5/6/20,Approved,No Changes Required.
+REV-00451,POL-0162,EMP-0033,5/6/20,Rejected,Minor edits requested.
+REV-00452,POL-0018,EMP-0033,5/7/20,Approved,Update section 3.
+REV-00453,POL-0204,EMP-0029,5/8/20,Approved,Update section 3.
+REV-00454,POL-0289,EMP-0029,5/11/20,Approved,No Changes Required.
+REV-00455,POL-0062,EMP-0034,5/14/20,Approved,Minor edits requested.
+REV-00456,POL-0284,EMP-0033,5/14/20,Approved,No Changes Required.
+REV-00457,POL-0013,EMP-0030,5/15/20,Approved,Minor edits requested.
+REV-00458,POL-0109,EMP-0028,5/15/20,Approved,Looks good.
+REV-00459,POL-0108,EMP-0026,5/18/20,Rejected,Looks good.
+REV-00460,POL-0298,EMP-0011,5/18/20,Approved,Minor edits requested.
+REV-00461,POL-0241,EMP-0032,5/18/20,Approved,Update section 3.
+REV-00462,POL-0174,EMP-0027,5/20/20,Approved,Formatting changes only.
+REV-00463,POL-0267,EMP-0030,5/20/20,Rejected,Formatting changes only.
+REV-00464,POL-0052,EMP-0026,5/22/20,Approved,No Changes Required.
+REV-00465,POL-0126,EMP-0026,5/26/20,Approved,Please verify citation.
+REV-00466,POL-0267,EMP-0033,5/26/20,Approved,No Changes Required.
+REV-00467,POL-0159,EMP-0029,5/26/20,Approved,Minor edits requested.
+REV-00468,POL-0197,EMP-0031,5/26/20,Approved,No Changes Required.
+REV-00469,POL-0192,EMP-0033,5/27/20,Rejected,Minor edits requested.
+REV-00470,POL-0096,EMP-0011,5/29/20,Approved,Update section 3.
+REV-00471,POL-0066,EMP-0029,6/4/20,Approved,Formatting changes only.
+REV-00472,POL-0098,EMP-0034,6/4/20,Approved,Formatting changes only.
+REV-00473,POL-0003,EMP-0030,6/4/20,Approved,Update section 3.
+REV-00474,POL-0125,EMP-0030,6/8/20,Approved,No Changes Required.
+REV-00475,POL-0197,EMP-0029,6/8/20,Approved,Update section 3.
+REV-00476,POL-0029,EMP-0011,6/11/20,Approved,Formatting changes only.
+REV-00477,POL-0298,EMP-0029,6/12/20,Approved,Please verify citation.
+REV-00478,POL-0189,EMP-0034,6/15/20,Approved,Looks good.
+REV-00479,POL-0276,EMP-0033,6/15/20,Rejected,Looks good.
+REV-00480,POL-0080,EMP-0029,6/15/20,Approved,No Changes Required.
+REV-00481,POL-0028,EMP-0025,6/17/20,Approved,Please verify citation.
+REV-00482,POL-0152,EMP-0026,6/19/20,Approved,Please verify citation.
+REV-00483,POL-0035,EMP-0027,6/22/20,Approved,Update section 3.
+REV-00484,POL-0187,EMP-0032,6/22/20,Approved,Update section 3.
+REV-00485,POL-0172,EMP-0027,6/24/20,Approved,Looks good.
+REV-00486,POL-0094,EMP-0033,6/25/20,Approved,Update section 3.
+REV-00487,POL-0058,EMP-0030,6/29/20,Approved,Looks good.
+REV-00488,POL-0086,EMP-0028,6/29/20,Approved,Please verify citation.
+REV-00489,POL-0103,EMP-0033,6/29/20,Approved,No Changes Required.
+REV-00490,POL-0211,EMP-0028,6/30/20,Approved,Looks good.
+REV-00491,POL-0244,EMP-0032,7/1/20,Approved,Please verify citation.
+REV-00492,POL-0300,EMP-0011,7/1/20,Approved,No Changes Required.
+REV-00493,POL-0042,EMP-0027,7/6/20,Approved,Formatting changes only.
+REV-00494,POL-0289,EMP-0030,7/8/20,Rejected,Looks good.
+REV-00495,POL-0078,EMP-0011,7/9/20,Approved,No Changes Required.
+REV-00496,POL-0155,EMP-0025,7/13/20,Approved,Update section 4.
+REV-00497,POL-0238,EMP-0011,7/15/20,Approved,Please verify citation.
+REV-00498,POL-0270,EMP-0027,7/16/20,Approved,Update section 3.
+REV-00499,POL-0252,EMP-0032,7/17/20,Approved,Please verify citation.
+REV-00500,POL-0255,EMP-0034,7/17/20,Approved,No Changes Required.
+REV-00501,POL-0125,EMP-0034,7/21/20,Approved,No Changes Required.
+REV-00502,POL-0154,EMP-0028,7/22/20,Approved,Formatting changes only.
+REV-00503,POL-0274,EMP-0028,7/22/20,Approved,Looks good.
+REV-00504,POL-0069,EMP-0025,7/23/20,Rejected,Formatting changes only.
+REV-00505,POL-0131,EMP-0011,7/24/20,Approved,Update section 5.
+REV-00506,POL-0057,EMP-0025,7/27/20,Approved,Minor edits requested.
+REV-00507,POL-0193,EMP-0032,7/27/20,Approved,No Changes Required.
+REV-00508,POL-0066,EMP-0034,7/27/20,Approved,Formatting changes only.
+REV-00509,POL-0175,EMP-0027,7/27/20,Approved,Formatting changes only.
+REV-00510,POL-0242,EMP-0033,7/27/20,Approved,Please verify citation.
+REV-00511,POL-0009,EMP-0026,7/27/20,Approved,Looks good.
+REV-00512,POL-0242,EMP-0033,7/30/20,Approved,Minor edits requested.
+REV-00513,POL-0146,EMP-0025,7/30/20,Approved,Please verify citation.
+REV-00514,POL-0093,EMP-0029,7/31/20,Approved,Minor edits requested.
+REV-00515,POL-0143,EMP-0029,7/31/20,Approved,Please verify citation.
+REV-00516,POL-0221,EMP-0027,8/3/20,Rejected,Formatting changes only.
+REV-00517,POL-0031,EMP-0027,8/3/20,Approved,Update section 3.
+REV-00518,POL-0249,EMP-0026,8/4/20,Approved,No Changes Required.
+REV-00519,POL-0284,EMP-0032,8/4/20,Rejected,Looks good.
+REV-00520,POL-0211,EMP-0028,8/5/20,Approved,Looks good.
+REV-00521,POL-0262,EMP-0026,8/5/20,Approved,Looks good.
+REV-00522,POL-0009,EMP-0027,8/5/20,Approved,Update section 3.
+REV-00523,POL-0212,EMP-0034,8/7/20,Approved,No Changes Required.
+REV-00524,POL-0073,EMP-0032,8/10/20,Approved,Please verify citation.
+REV-00525,POL-0004,EMP-0033,8/10/20,Approved,Update section 3.
+REV-00526,POL-0289,EMP-0034,8/11/20,Approved,Please verify citation.
+REV-00527,POL-0287,EMP-0029,8/12/20,Approved,Formatting changes only.
+REV-00528,POL-0086,EMP-0031,8/13/20,Approved,Formatting changes only.
+REV-00529,POL-0015,EMP-0025,8/13/20,Approved,No Changes Required.
+REV-00530,POL-0180,EMP-0034,8/17/20,Approved,Update section 3.
+REV-00531,POL-0287,EMP-0025,8/19/20,Approved,Minor edits requested.
+REV-00532,POL-0060,EMP-0027,8/20/20,Approved,Minor edits requested.
+REV-00533,POL-0281,EMP-0030,8/21/20,Approved,Looks good.
+REV-00534,POL-0218,EMP-0030,8/24/20,Approved,Formatting changes only.
+REV-00535,POL-0289,EMP-0025,8/24/20,Approved,No Changes Required.
+REV-00536,POL-0098,EMP-0011,8/24/20,Approved,No Changes Required.
+REV-00537,POL-0296,EMP-0027,8/24/20,Approved,Update section 3.
+REV-00538,POL-0224,EMP-0028,8/25/20,Approved,Looks good.
+REV-00539,POL-0064,EMP-0034,8/27/20,Approved,Minor edits requested.
+REV-00540,POL-0227,EMP-0027,8/27/20,Approved,No Changes Required.
+REV-00541,POL-0265,EMP-0031,8/31/20,Rejected,No Changes Required.
+REV-00542,POL-0271,EMP-0027,8/31/20,Approved,Formatting changes only.
+REV-00543,POL-0086,EMP-0026,8/31/20,Approved,Update section 3.
+REV-00544,POL-0096,EMP-0031,8/31/20,Approved,Update section 3.
+REV-00545,POL-0291,EMP-0025,9/1/20,Approved,No Changes Required.
+REV-00546,POL-0041,EMP-0034,9/3/20,Approved,No Changes Required.
+REV-00547,POL-0092,EMP-0029,9/3/20,Approved,Looks good.
+REV-00548,POL-0145,EMP-0026,9/8/20,Rejected,Update section 3.
+REV-00549,POL-0039,EMP-0028,9/8/20,Approved,Formatting changes only.
+REV-00550,POL-0015,EMP-0031,9/10/20,Approved,Update section 3.
+REV-00551,POL-0006,EMP-0011,9/14/20,Rejected,Update section 6.
+REV-00552,POL-0273,EMP-0029,9/14/20,Approved,No Changes Required.
+REV-00553,POL-0006,EMP-0029,9/14/20,Approved,Minor edits requested.
+REV-00554,POL-0188,EMP-0011,9/16/20,Approved,Looks good.
+REV-00555,POL-0201,EMP-0011,9/17/20,Approved,Formatting changes only.
+REV-00556,POL-0189,EMP-0034,9/21/20,Approved,Please verify citation.
+REV-00557,POL-0025,EMP-0030,9/21/20,Approved,Formatting changes only.
+REV-00558,POL-0193,EMP-0029,9/21/20,Approved,Minor edits requested.
+REV-00559,POL-0210,EMP-0026,9/21/20,Approved,No Changes Required.
+REV-00559,POL-0210,EMP-0025,9/21/20,Approved,Update section 7.
+REV-00560,POL-0130,EMP-0033,9/21/20,Approved,Please verify citation.
+REV-00561,POL-0057,EMP-0028,9/23/20,Approved,Update section 7.
+REV-00562,POL-0017,EMP-0033,9/25/20,Rejected,No Changes Required.
+REV-00563,POL-0162,EMP-0028,9/25/20,Approved,Update section 3.
+REV-00564,POL-0110,EMP-0028,9/25/20,Approved,Looks good.
+REV-00565,POL-0234,EMP-0027,9/25/20,Approved,No Changes Required.
+REV-00566,POL-0164,EMP-0025,9/28/20,Approved,Please verify citation.
+REV-00567,POL-0248,EMP-0030,9/28/20,Approved,Formatting changes only.
+REV-00568,POL-0125,EMP-0025,9/29/20,Approved,Please verify citation.
+REV-00569,POL-0232,EMP-0027,10/2/20,Approved,Formatting changes only.
+REV-00570,POL-0168,EMP-0031,10/13/20,Approved,Formatting changes only.
+REV-00571,POL-0262,EMP-0027,10/13/20,Approved,Update section 3.
+REV-00572,POL-0217,EMP-0034,10/13/20,Rejected,Looks good.
+REV-00573,POL-0235,EMP-0025,10/13/20,Approved,Please verify citation.
+REV-00574,POL-0176,EMP-0034,10/14/20,Rejected,No Changes Required.
+REV-00574,POL-0176,EMP-0030,10/14/20,Rejected,Update section 1.
+REV-00575,POL-0050,EMP-0029,10/14/20,Rejected,Looks good.
+REV-00576,POL-0226,EMP-0034,10/15/20,Approved,Update section 3.
+REV-00577,POL-0183,EMP-0026,10/16/20,Approved,Formatting changes only.
+REV-00578,POL-0125,EMP-0034,10/20/20,Approved,Update section 1.
+REV-00578,POL-0125,EMP-0025,10/19/20,Approved,No Changes Required.
+REV-00579,POL-0270,EMP-0027,10/20/20,Approved,No Changes Required.
+REV-00580,POL-0121,EMP-0033,10/21/20,Approved,Looks good.
+REV-00581,POL-0245,EMP-0033,10/22/20,Approved,Update section 3.
+REV-00582,POL-0090,EMP-0034,10/26/20,Approved,Formatting changes only.
+REV-00583,POL-0218,EMP-0028,10/26/20,Approved,Update section 3.
+REV-00584,POL-0003,EMP-0033,10/26/20,Approved,Formatting changes only.
+REV-00585,POL-0279,EMP-0027,10/26/20,Approved,Please verify citation.
+REV-00586,POL-0064,EMP-0028,10/26/20,Approved,No Changes Required.
+REV-00587,POL-0203,EMP-0027,10/26/20,Approved,No Changes Required.
+REV-00588,POL-0017,EMP-0031,10/27/20,Approved,Please verify citation.
+REV-00589,POL-0284,EMP-0032,10/27/20,Approved,Please verify citation.
+REV-00590,POL-0119,EMP-0025,10/29/20,Approved,Formatting changes only.
+REV-00591,POL-0204,EMP-0034,10/30/20,Approved,No Changes Required.
+REV-00592,POL-0020,EMP-0030,11/2/20,Approved,No Changes Required.
+REV-00593,POL-0145,EMP-0031,11/2/20,Approved,Please verify citation.
+REV-00594,POL-0036,EMP-0031,11/2/20,Approved,No Changes Required.
+REV-00595,POL-0186,EMP-0026,11/2/20,Approved,No Changes Required.
+REV-00596,POL-0069,EMP-0026,11/3/20,Approved,Looks good.
+REV-00597,POL-0267,EMP-0011,11/3/20,Rejected,Please verify citation.
+REV-00598,POL-0113,EMP-0029,11/4/20,Approved,Looks good.
+REV-00599,POL-0145,EMP-0031,11/6/20,Approved,Formatting changes only.
+REV-00600,POL-0226,EMP-0033,11/12/20,Rejected,No Changes Required.
+REV-00601,POL-0219,EMP-0029,11/13/20,Approved,Minor edits requested.
+REV-00602,POL-0292,EMP-0027,11/16/20,Approved,Minor edits requested.
+REV-00603,POL-0254,EMP-0030,11/16/20,Approved,Update section 3.
+REV-00604,POL-0156,EMP-0027,11/17/20,Approved,No Changes Required.
+REV-00605,POL-0222,EMP-0026,11/17/20,Approved,Looks good.
+REV-00606,POL-0175,EMP-0033,11/17/20,Approved,Minor edits requested.
+REV-00607,POL-0222,EMP-0030,11/18/20,Approved,Formatting changes only.
+REV-00608,POL-0154,EMP-0034,11/20/20,Approved,Formatting changes only.
+REV-00609,POL-0282,EMP-0026,11/23/20,Approved,Update section 8.
+REV-00610,POL-0073,EMP-0033,11/23/20,Approved,No Changes Required.
+REV-00611,POL-0297,EMP-0025,11/23/20,Approved,Update section 3.
+REV-00612,POL-0031,EMP-0030,11/23/20,Approved,Update section 9.
+REV-00613,POL-0017,EMP-0028,11/25/20,Approved,Update section 3.
+REV-00614,POL-0118,EMP-0031,11/30/20,Approved,Looks good.
+REV-00614,POL-0118,EMP-0029,11/27/20,Approved,Looks good.
+REV-00615,POL-0044,EMP-0034,11/30/20,Approved,Minor edits requested.
+REV-00616,POL-0073,EMP-0029,11/30/20,Approved,Minor edits requested.
+REV-00617,POL-0263,EMP-0034,11/30/20,Approved,Formatting changes only.
+REV-00618,POL-0006,EMP-0025,12/1/20,Approved,Looks good.
+REV-00619,POL-0294,EMP-0027,12/3/20,Approved,Update section 3.
+REV-00620,POL-0015,EMP-0028,12/8/20,Approved,Minor edits requested.
+REV-00621,POL-0234,EMP-0032,12/9/20,Approved,Update section 1.
+REV-00622,POL-0285,EMP-0034,12/9/20,Approved,No Changes Required.
+REV-00623,POL-0263,EMP-0011,12/10/20,Approved,Minor edits requested.
+REV-00624,POL-0289,EMP-0034,12/11/20,Approved,Looks good.
+REV-00625,POL-0218,EMP-0031,12/14/20,Approved,Please verify citation.
+REV-00626,POL-0182,EMP-0025,12/15/20,Approved,Formatting changes only.
+REV-00627,POL-0122,EMP-0032,12/18/20,Approved,Looks good.
+REV-00628,POL-0192,EMP-0011,12/18/20,Approved,No Changes Required.
+REV-00629,POL-0268,EMP-0029,12/21/20,Rejected,Minor edits requested.
+REV-00630,POL-0004,EMP-0032,12/21/20,Approved,No Changes Required.
+REV-00631,POL-0217,EMP-0032,12/21/20,Approved,No Changes Required.
+REV-00632,POL-0045,EMP-0027,12/22/20,Approved,Looks good.
+REV-00632,POL-0045,EMP-0029,12/21/20,Approved,Looks good.
+REV-00633,POL-0291,EMP-0011,12/22/20,Approved,No Changes Required.
+REV-00634,POL-0169,EMP-0033,12/23/20,Approved,No Changes Required.
+REV-00635,POL-0074,EMP-0033,12/23/20,Approved,Please verify citation.
+REV-00636,POL-0057,EMP-0027,12/23/20,Approved,Update section 3.
+REV-00637,POL-0130,EMP-0034,12/24/20,Approved,No Changes Required.
+REV-00638,POL-0233,EMP-0030,12/28/20,Rejected,No Changes Required.
+REV-00639,POL-0107,EMP-0011,12/28/20,Approved,Please verify citation.
+REV-00640,POL-0207,EMP-0031,12/28/20,Approved,Formatting changes only.
+REV-00641,POL-0202,EMP-0030,12/29/20,Rejected,No Changes Required.
+REV-00642,POL-0067,EMP-0029,12/29/20,Approved,Update section 3.
+REV-00643,POL-0259,EMP-0026,12/30/20,Approved,Update section 3.
+REV-00644,POL-0244,EMP-0031,12/31/20,Approved,No Changes Required.
+REV-00645,POL-0185,EMP-0029,12/31/20,Approved,No Changes Required.
+REV-00646,POL-0277,EMP-0027,1/4/21,Approved,No Changes Required.
+REV-00647,POL-0095,EMP-0030,1/4/21,Approved,Update section 3.
+REV-00648,POL-0120,EMP-0025,1/6/21,Approved,No Changes Required.
+REV-00649,POL-0165,EMP-0033,1/6/21,Approved,Looks good.
+REV-00650,POL-0106,EMP-0030,1/7/21,Approved,Update section 3.
+REV-00651,POL-0056,EMP-0028,1/8/21,Approved,No Changes Required.
+REV-00652,POL-0230,EMP-0030,1/8/21,Rejected,Minor edits requested.
+REV-00653,POL-0253,EMP-0029,1/11/21,Rejected,Minor edits requested.
+REV-00654,POL-0039,EMP-0027,1/11/21,Approved,Formatting changes only.
+REV-00655,POL-0005,EMP-0033,1/11/21,Approved,Update section 3.
+REV-00655,POL-0005,EMP-0031,1/11/21,Approved,Update section 3.
+REV-00656,POL-0137,EMP-0030,1/11/21,Approved,Formatting changes only.
+REV-00657,POL-0139,EMP-0032,1/11/21,Rejected,Looks good.
+REV-00658,POL-0049,EMP-0025,1/12/21,Approved,Update section 3.
+REV-00659,POL-0162,EMP-0032,1/12/21,Approved,Looks good.
+REV-00660,POL-0123,EMP-0029,1/13/21,Approved,No Changes Required.
+REV-00661,POL-0244,EMP-0032,1/14/21,Approved,No Changes Required.
+REV-00662,POL-0159,EMP-0028,1/19/21,Rejected,Looks good.
+REV-00663,POL-0184,EMP-0027,1/19/21,Approved,Minor edits requested.
+REV-00664,POL-0022,EMP-0034,1/19/21,Approved,Please verify citation.
+REV-00665,POL-0106,EMP-0027,1/19/21,Approved,No Changes Required.
+REV-00666,POL-0086,EMP-0030,1/19/21,Approved,Formatting changes only.
+REV-00667,POL-0299,EMP-0011,1/19/21,Approved,No Changes Required.
+REV-00668,POL-0136,EMP-0031,1/20/21,Approved,No Changes Required.
+REV-00669,POL-0151,EMP-0030,1/21/21,Rejected,Looks good.
+REV-00670,POL-0026,EMP-0026,1/22/21,Approved,Update section 3.
+REV-00671,POL-0141,EMP-0032,1/25/21,Approved,No Changes Required.
+REV-00672,POL-0124,EMP-0026,1/25/21,Approved,Minor edits requested.
+REV-00673,POL-0266,EMP-0033,1/26/21,Approved,Minor edits requested.
+REV-00674,POL-0212,EMP-0032,1/27/21,Approved,Looks good.
+REV-00675,POL-0169,EMP-0026,2/2/21,Rejected,Please verify citation.
+REV-00675,POL-0169,EMP-0029,1/29/21,Rejected,Please verify citation.
+REV-00676,POL-0248,EMP-0029,2/2/21,Approved,Minor edits requested.
+REV-00677,POL-0017,EMP-0031,2/4/21,Approved,Please verify citation.
+REV-00678,POL-0252,EMP-0031,2/4/21,Approved,No Changes Required.
+REV-00679,POL-0195,EMP-0030,2/4/21,Approved,Looks good.
+REV-00680,POL-0116,EMP-0026,2/4/21,Approved,Formatting changes only.
+REV-00681,POL-0216,EMP-0028,2/5/21,Approved,Formatting changes only.
+REV-00682,POL-0037,EMP-0026,2/5/21,Approved,Update section 3.
+REV-00683,POL-0228,EMP-0033,2/5/21,Approved,Please verify citation.
+REV-00684,POL-0241,EMP-0026,2/8/21,Approved,Please verify citation.
+REV-00685,POL-0223,EMP-0027,2/8/21,Approved,Update section 3.
+REV-00686,POL-0164,EMP-0011,2/8/21,Approved,No Changes Required.
+REV-00687,POL-0232,EMP-0034,2/8/21,Approved,Looks good.
+REV-00688,POL-0269,EMP-0028,2/9/21,Approved,No Changes Required.
+REV-00689,POL-0260,EMP-0032,2/9/21,Approved,Minor edits requested.
+REV-00690,POL-0241,EMP-0026,2/16/21,Approved,No Changes Required.
+REV-00691,POL-0239,EMP-0030,2/16/21,Approved,Looks good.
+REV-00692,POL-0096,EMP-0032,2/16/21,Approved,Formatting changes only.
+REV-00693,POL-0256,EMP-0027,2/16/21,Rejected,Please verify citation.
+REV-00694,POL-0033,EMP-0030,2/18/21,Approved,Looks good.
+REV-00695,POL-0175,EMP-0026,2/22/21,Approved,Please verify citation.
+REV-00696,POL-0113,EMP-0033,2/23/21,Approved,Please verify citation.
+REV-00697,POL-0130,EMP-0029,2/24/21,Rejected,Please verify citation.
+REV-00698,POL-0117,EMP-0034,2/24/21,Approved,Looks good.
+REV-00699,POL-0134,EMP-0029,3/1/21,Approved,Minor edits requested.
+REV-00700,POL-0080,EMP-0011,3/3/21,Approved,No Changes Required.
+REV-00701,POL-0138,EMP-0033,3/4/21,Approved,Looks good.
+REV-00702,POL-0147,EMP-0028,3/4/21,Approved,Please verify citation.
+REV-00703,POL-0236,EMP-0027,3/5/21,Approved,Minor edits requested.
+REV-00704,POL-0091,EMP-0026,3/8/21,Approved,Minor edits requested.
+REV-00706,POL-0064,EMP-0030,3/8/21,Approved,Please verify citation.
+REV-00707,POL-0058,EMP-0031,3/8/21,Rejected,Please verify citation.
+REV-00708,POL-0234,EMP-0027,3/9/21,Rejected,Minor edits requested.
+REV-00709,POL-0183,EMP-0032,3/15/21,Approved,No Changes Required.
+REV-00710,POL-0090,EMP-0027,3/15/21,Approved,Minor edits requested.
+REV-00711,POL-0110,EMP-0033,3/15/21,Approved,Formatting changes only.
+REV-00712,POL-0109,EMP-0027,3/16/21,Approved,Update section 3.
+REV-00713,POL-0055,EMP-0031,3/17/21,Approved,Formatting changes only.
+REV-00714,POL-0034,EMP-0011,3/18/21,Approved,Formatting changes only.
+REV-00715,POL-0282,EMP-0032,3/19/21,Approved,Minor edits requested.
+REV-00716,POL-0126,EMP-0032,3/22/21,Approved,Looks good.
+REV-00717,POL-0099,EMP-0025,3/23/21,Approved,Update section 3.
+REV-00718,POL-0118,EMP-0025,3/26/21,Approved,Please verify citation.
+REV-00719,POL-0175,EMP-0026,3/30/21,Approved,Looks good.
+REV-00719,POL-0175,EMP-0025,3/29/21,Approved,Looks good.
+REV-00720,POL-0197,EMP-0030,3/31/21,Approved,Looks good.
+REV-00721,POL-0070,EMP-0030,4/1/21,Rejected,Looks good.
+REV-00722,POL-0174,EMP-0027,4/5/21,Approved,Looks good.
+REV-00723,POL-0143,EMP-0028,4/5/21,Approved,No Changes Required.
+REV-00724,POL-0256,EMP-0031,4/5/21,Approved,No Changes Required.
+REV-00725,POL-0162,EMP-0029,4/5/21,Approved,Looks good.
+REV-00726,POL-0027,EMP-0030,4/5/21,Approved,Minor edits requested.
+REV-00727,POL-0117,EMP-0033,4/5/21,Approved,No Changes Required.
+REV-00728,POL-0015,EMP-0011,4/5/21,Approved,Formatting changes only.
+REV-00729,POL-0286,EMP-0028,4/5/21,Approved,Update section 3.
+REV-00730,POL-0091,EMP-0029,4/7/21,Approved,Minor edits requested.
+REV-00731,POL-0283,EMP-0031,4/7/21,Approved,No Changes Required.
+REV-00731,POL-0283,EMP-0025,4/7/21,Approved,Update section 9.
+REV-00732,POL-0034,EMP-0025,4/7/21,Approved,Formatting changes only.
+REV-00733,POL-0111,EMP-0034,4/8/21,Approved,Update section 3.
+REV-00734,POL-0059,EMP-0026,4/12/21,Approved,Minor edits requested.
+REV-00735,POL-0230,EMP-0033,4/12/21,Rejected,Minor edits requested.
+REV-00736,POL-0058,EMP-0025,4/12/21,Approved,Minor edits requested.
+REV-00738,POL-0102,EMP-0025,4/12/21,Approved,No Changes Required.
+REV-00739,POL-0033,EMP-0030,4/12/21,Approved,Please verify citation.
+REV-00740,POL-0005,EMP-0030,4/12/21,Approved,Update section 3.
+REV-00741,POL-0132,EMP-0033,4/14/21,Rejected,Update section 3.
+REV-00742,POL-0043,EMP-0011,4/15/21,Approved,No Changes Required.
+REV-00743,POL-0060,EMP-0033,4/16/21,Approved,Looks good.
+REV-00744,POL-0276,EMP-0026,4/16/21,Approved,Formatting changes only.
+REV-00745,POL-0186,EMP-0034,4/16/21,Approved,Formatting changes only.
+REV-00746,POL-0166,EMP-0027,4/19/21,Approved,No Changes Required.
+REV-00747,POL-0107,EMP-0030,4/19/21,Approved,Update section 3.
+REV-00748,POL-0250,EMP-0026,4/19/21,Approved,Looks good.
+REV-00749,POL-0263,EMP-0011,4/20/21,Approved,No Changes Required.
+REV-00750,POL-0255,EMP-0026,4/26/21,Approved,Minor edits requested.
+REV-00751,POL-0255,EMP-0031,4/26/21,Approved,Update section 1.
+REV-00752,POL-0203,EMP-0011,4/27/21,Approved,Looks good.
+REV-00753,POL-0004,EMP-0025,4/28/21,Approved,Update section 3.
+REV-00754,POL-0142,EMP-0025,4/29/21,Approved,No Changes Required.
+REV-00755,POL-0229,EMP-0030,4/29/21,Approved,Formatting changes only.
+REV-00756,POL-0237,EMP-0030,4/30/21,Approved,Formatting changes only.
+REV-00757,POL-0206,EMP-0026,5/3/21,Approved,Looks good.
+REV-00758,POL-0234,EMP-0030,5/7/21,Approved,Minor edits requested.
+REV-00759,POL-0276,EMP-0028,5/10/21,Approved,No Changes Required.
+REV-00760,POL-0079,EMP-0030,5/10/21,Approved,Update section 3.
+REV-00761,POL-0117,EMP-0011,5/10/21,Rejected,Minor edits requested.
+REV-00762,POL-0281,EMP-0026,5/10/21,Approved,Formatting changes only.
+REV-00763,POL-0086,EMP-0027,5/11/21,Approved,Formatting changes only.
+REV-00764,POL-0178,EMP-0028,5/12/21,Approved,Update section 3.
+REV-00765,POL-0099,EMP-0033,5/12/21,Rejected,No Changes Required.
+REV-00766,POL-0232,EMP-0028,5/13/21,Approved,Update section 3.
+REV-00767,POL-0032,EMP-0027,5/14/21,Approved,Update section 3.
+REV-00768,POL-0069,EMP-0033,5/14/21,Approved,Minor edits requested.
+REV-00769,POL-0235,EMP-0034,5/17/21,Rejected,Formatting changes only.
+REV-00770,POL-0151,EMP-0034,5/17/21,Approved,Please verify citation.
+REV-00771,POL-0180,EMP-0030,5/18/21,Approved,Formatting changes only.
+REV-00772,POL-0170,EMP-0011,5/18/21,Approved,Update section 3.
+REV-00773,POL-0267,EMP-0011,5/19/21,Rejected,Looks good.
+REV-00774,POL-0042,EMP-0026,5/20/21,Approved,No Changes Required.
+REV-00775,POL-0238,EMP-0030,5/24/21,Approved,Formatting changes only.
+REV-00776,POL-0099,EMP-0026,5/24/21,Approved,Formatting changes only.
+REV-00777,POL-0205,EMP-0031,5/25/21,Approved,Minor edits requested.
+REV-00778,POL-0207,EMP-0032,5/26/21,Approved,Update section 2.
+REV-00779,POL-0149,EMP-0027,5/26/21,Approved,Update section 3.
+REV-00780,POL-0191,EMP-0032,5/26/21,Approved,Minor edits requested.
+REV-00781,POL-0155,EMP-0026,5/28/21,Approved,No Changes Required.
+REV-00782,POL-0241,EMP-0031,6/1/21,Approved,No Changes Required.
+REV-00783,POL-0175,EMP-0030,6/1/21,Rejected,Looks good.
+REV-00784,POL-0109,EMP-0030,6/1/21,Approved,Please verify citation.
+REV-00785,POL-0287,EMP-0032,6/1/21,Rejected,Please verify citation.
+REV-00786,POL-0155,EMP-0030,6/1/21,Approved,Minor edits requested.
+REV-00787,POL-0285,EMP-0031,6/1/21,Rejected,Update section 3.
+REV-00788,POL-0191,EMP-0031,6/4/21,Approved,Looks good.
+REV-00789,POL-0180,EMP-0030,6/7/21,Approved,Looks good.
+REV-00790,POL-0121,EMP-0030,6/7/21,Approved,Update section 3.
+REV-00791,POL-0209,EMP-0030,6/10/21,Rejected,No Changes Required.
+REV-00792,POL-0101,EMP-0011,6/14/21,Approved,Minor edits requested.
+REV-00793,POL-0250,EMP-0025,6/14/21,Rejected,Minor edits requested.
+REV-00794,POL-0293,EMP-0025,6/14/21,Approved,Update section 3.
+REV-00795,POL-0017,EMP-0029,6/15/21,Rejected,Looks good.
+REV-00796,POL-0005,EMP-0032,6/15/21,Approved,Minor edits requested.
+REV-00797,POL-0113,EMP-0032,6/16/21,Approved,Please verify citation.
+REV-00798,POL-0286,EMP-0026,6/16/21,Approved,Update section 3.
+REV-00799,POL-0206,EMP-0026,6/16/21,Approved,Formatting changes only.
+REV-00800,POL-0132,EMP-0029,6/17/21,Approved,Minor edits requested.
+REV-00801,POL-0199,EMP-0033,6/21/21,Approved,Looks good.
+REV-00802,POL-0251,EMP-0032,6/21/21,Rejected,Formatting changes only.
+REV-00803,POL-0245,EMP-0011,6/21/21,Approved,Looks good.
+REV-00804,POL-0042,EMP-0011,6/21/21,Rejected,Update section 2.
+REV-00805,POL-0287,EMP-0031,6/23/21,Approved,Looks good.
+REV-00806,POL-0243,EMP-0033,6/23/21,Approved,Update section 4.
+REV-00807,POL-0066,EMP-0033,6/24/21,Approved,Minor edits requested.
+REV-00808,POL-0147,EMP-0032,6/25/21,Approved,Minor edits requested.
+REV-00809,POL-0178,EMP-0011,6/28/21,Approved,Update section 3.
+REV-00809,POL-0178,EMP-0034,6/25/21,Approved,Update section 3.
+REV-00810,POL-0205,EMP-0029,6/28/21,Approved,No Changes Required.
+REV-00811,POL-0240,EMP-0030,7/1/21,Approved,Update section 3.
+REV-00812,POL-0198,EMP-0029,7/2/21,Approved,Update section 3.
+REV-00813,POL-0112,EMP-0033,7/2/21,Rejected,Minor edits requested.
+REV-00814,POL-0199,EMP-0031,7/2/21,Rejected,Formatting changes only.
+REV-00815,POL-0010,EMP-0025,7/6/21,Approved,No Changes Required.
+REV-00816,POL-0245,EMP-0011,7/6/21,Approved,Looks good.
+REV-00817,POL-0167,EMP-0029,7/6/21,Approved,Formatting changes only.
+REV-00818,POL-0133,EMP-0026,7/6/21,Rejected,Looks good.
+REV-00819,POL-0073,EMP-0034,7/12/21,Rejected,Update section 3.
+REV-00820,POL-0058,EMP-0032,7/12/21,Approved,Formatting changes only.
+REV-00821,POL-0240,EMP-0033,7/12/21,Approved,Looks good.
+REV-00822,POL-0300,EMP-0028,7/14/21,Approved,No Changes Required.
+REV-00823,POL-0031,EMP-0034,7/15/21,Approved,Please verify citation.
+REV-00824,POL-0241,EMP-0027,7/19/21,Approved,Minor edits requested.
+REV-00825,POL-0113,EMP-0026,7/19/21,Approved,Minor edits requested.
+REV-00826,POL-0216,EMP-0031,7/19/21,Approved,Looks good.
+REV-00827,POL-0260,EMP-0026,7/19/21,Approved,Formatting changes only.
+REV-00828,POL-0060,EMP-0025,7/19/21,Approved,Update section 3.
+REV-00829,POL-0070,EMP-0030,7/19/21,Approved,Please verify citation.
+REV-00830,POL-0096,EMP-0011,7/19/21,Approved,Formatting changes only.
+REV-00831,POL-0271,EMP-0028,7/19/21,Approved,Formatting changes only.
+REV-00832,POL-0272,EMP-0011,7/20/21,Approved,No Changes Required.
+REV-00833,POL-0011,EMP-0027,7/20/21,Approved,Formatting changes only.
+REV-00834,POL-0283,EMP-0027,7/22/21,Rejected,Minor edits requested.
+REV-00835,POL-0262,EMP-0031,7/22/21,Approved,Looks good.
+REV-00836,POL-0154,EMP-0025,7/22/21,Approved,No Changes Required.
+REV-00837,POL-0021,EMP-0026,7/23/21,Approved,Minor edits requested.
+REV-00838,POL-0106,EMP-0029,7/26/21,Approved,Formatting changes only.
+REV-00839,POL-0104,EMP-0034,7/26/21,Approved,Minor edits requested.
+REV-00840,POL-0181,EMP-0011,7/28/21,Approved,No Changes Required.
+REV-00841,POL-0255,EMP-0027,7/29/21,Approved,Formatting changes only.
+REV-00842,POL-0287,EMP-0034,7/30/21,Rejected,Formatting changes only.
+REV-00843,POL-0139,EMP-0033,7/30/21,Approved,Please verify citation.
+REV-00844,POL-0072,EMP-0028,7/30/21,Approved,Minor edits requested.
+REV-00845,POL-0247,EMP-0033,7/30/21,Approved,Looks good.
+REV-00846,POL-0131,EMP-0027,8/2/21,Approved,Minor edits requested.
+REV-00847,POL-0092,EMP-0030,8/3/21,Approved,Looks good.
+REV-00848,POL-0006,EMP-0033,8/3/21,Approved,Looks good.
+REV-00849,POL-0142,EMP-0029,8/4/21,Approved,No Changes Required.
+REV-00850,POL-0214,EMP-0026,8/9/21,Approved,Looks good.
+REV-00851,POL-0044,EMP-0030,8/9/21,Approved,Minor edits requested.
+REV-00852,POL-0070,EMP-0027,8/9/21,Approved,Please verify citation.
+REV-00853,POL-0085,EMP-0029,8/9/21,Approved,No Changes Required.
+REV-00854,POL-0217,EMP-0031,8/10/21,Approved,Formatting changes only.
+REV-00855,POL-0077,EMP-0032,8/11/21,Approved,Looks good.
+REV-00856,POL-0174,EMP-0032,8/11/21,Approved,Formatting changes only.
+REV-00857,POL-0124,EMP-0034,8/12/21,Approved,Minor edits requested.
+REV-00858,POL-0163,EMP-0027,8/12/21,Approved,Looks good.
+REV-00859,POL-0105,EMP-0031,8/13/21,Approved,Minor edits requested.
+REV-00859,POL-0105,EMP-0029,8/12/21,Approved,Minor edits requested.
+REV-00860,POL-0059,EMP-0034,8/13/21,Approved,Update section 3.
+REV-00861,POL-0200,EMP-0033,8/16/21,Approved,Formatting changes only.
+REV-00862,POL-0261,EMP-0034,8/16/21,Approved,Update section 3.
+REV-00863,POL-0192,EMP-0034,8/18/21,Approved,Looks good.
+REV-00864,POL-0010,EMP-0034,8/18/21,Approved,No Changes Required.
+REV-00865,POL-0285,EMP-0027,8/20/21,Approved,Minor edits requested.
+REV-00866,POL-0263,EMP-0029,8/20/21,Approved,Please verify citation.
+REV-00867,POL-0058,EMP-0027,8/20/21,Rejected,No Changes Required.
+REV-00868,POL-0146,EMP-0026,8/23/21,Approved,Update section 3.
+REV-00869,POL-0219,EMP-0033,8/23/21,Approved,Update section 3.
+REV-00869,POL-0219,EMP-0032,8/23/21,Approved,Update section 3.
+REV-00870,POL-0191,EMP-0032,8/23/21,Approved,No Changes Required.
+REV-00871,POL-0148,EMP-0026,8/23/21,Approved,Looks good.
+REV-00872,POL-0291,EMP-0027,8/24/21,Approved,Minor edits requested.
+REV-00873,POL-0027,EMP-0029,8/25/21,Approved,No Changes Required.
+REV-00874,POL-0040,EMP-0027,8/25/21,Approved,No Changes Required.
+REV-00875,POL-0198,EMP-0033,8/27/21,Approved,Formatting changes only.
+REV-00875,POL-0198,EMP-0029,8/25/21,Approved,Formatting changes only.
+REV-00876,POL-0292,EMP-0027,8/27/21,Approved,Looks good.
+REV-00877,POL-0226,EMP-0027,8/30/21,Rejected,Please verify citation.
+REV-00878,POL-0281,EMP-0011,8/30/21,Approved,No Changes Required.
+REV-00879,POL-0297,EMP-0027,8/31/21,Approved,Minor edits requested.
+REV-00880,POL-0165,EMP-0029,9/1/21,Approved,Please verify citation.
+REV-00881,POL-0041,EMP-0011,9/1/21,Approved,Update section 3.
+REV-00882,POL-0059,EMP-0011,9/3/21,Approved,Update section 3.
+REV-00882,POL-0059,EMP-0027,9/2/21,Approved,Update section 3.
+REV-00883,POL-0273,EMP-0033,9/3/21,Approved,Looks good.
+REV-00884,POL-0219,EMP-0025,9/7/21,Approved,Looks good.
+REV-00885,POL-0040,EMP-0034,9/9/21,Approved,Looks good.
+REV-00886,POL-0275,EMP-0033,9/9/21,Approved,Please verify citation.
+REV-00887,POL-0273,EMP-0034,9/13/21,Approved,Minor edits requested.
+REV-00888,POL-0133,EMP-0011,9/13/21,Approved,Formatting changes only.
+REV-00889,POL-0220,EMP-0011,9/14/21,Approved,Please verify citation.
+REV-00890,POL-0024,EMP-0030,9/15/21,Approved,No Changes Required.
+REV-00891,POL-0283,EMP-0029,9/15/21,Rejected,No Changes Required.
+REV-00892,POL-0132,EMP-0011,9/16/21,Approved,Update section 3.
+REV-00893,POL-0167,EMP-0025,9/17/21,Approved,No Changes Required.
+REV-00894,POL-0239,EMP-0032,9/20/21,Approved,Update section 3.
+REV-00895,POL-0053,EMP-0028,9/21/21,Approved,Formatting changes only.
+REV-00896,POL-0116,EMP-0028,9/21/21,Approved,Update section 3.
+REV-00897,POL-0017,EMP-0025,9/23/21,Approved,Please verify citation.
+REV-00898,POL-0119,EMP-0034,9/23/21,Approved,Please verify citation.
+REV-00899,POL-0155,EMP-0030,9/24/21,Approved,No Changes Required.
+REV-00900,POL-0128,EMP-0029,9/28/21,Approved,No Changes Required.
+REV-00901,POL-0233,EMP-0033,9/29/21,Approved,No Changes Required.
+REV-00902,POL-0299,EMP-0032,9/29/21,Approved,Please verify citation.
+REV-00903,POL-0153,EMP-0032,9/30/21,Approved,Please verify citation.
+REV-00904,POL-0184,EMP-0034,10/1/21,Approved,Formatting changes only.
+REV-00905,POL-0145,EMP-0033,10/4/21,Approved,Looks good.
+REV-00906,POL-0239,EMP-0029,10/4/21,Approved,Update section 3.
+REV-00907,POL-0180,EMP-0034,10/4/21,Approved,Minor edits requested.
+REV-00908,POL-0146,EMP-0032,10/13/21,Approved,Update section 4.
+REV-00909,POL-0187,EMP-0034,10/14/21,Approved,Please verify citation.
+REV-00910,POL-0293,EMP-0025,10/14/21,Approved,No Changes Required.
+REV-00911,POL-0052,EMP-0030,10/15/21,Approved,Formatting changes only.
+REV-00912,POL-0082,EMP-0029,10/15/21,Approved,Formatting changes only.
+REV-00913,POL-0182,EMP-0011,10/15/21,Approved,Minor edits requested.
+REV-00914,POL-0299,EMP-0033,10/18/21,Approved,No Changes Required.
+REV-00915,POL-0077,EMP-0027,10/18/21,Approved,No Changes Required.
+REV-00916,POL-0002,EMP-0030,10/18/21,Approved,Formatting changes only.
+REV-00917,POL-0259,EMP-0028,10/18/21,Approved,Formatting changes only.
+REV-00918,POL-0165,EMP-0025,10/18/21,Approved,No Changes Required.
+REV-00919,POL-0045,EMP-0029,10/18/21,Approved,Formatting changes only.
+REV-00920,POL-0092,EMP-0029,10/19/21,Approved,Minor edits requested.
+REV-00921,POL-0054,EMP-0032,10/20/21,Rejected,Minor edits requested.
+REV-00922,POL-0008,EMP-0030,10/20/21,Approved,Minor edits requested.
+REV-00923,POL-0231,EMP-0027,10/21/21,Approved,Update section 3.
+REV-00924,POL-0152,EMP-0029,10/25/21,Approved,Minor edits requested.
+REV-00925,POL-0008,EMP-0025,10/25/21,Approved,No Changes Required.
+REV-00926,POL-0275,EMP-0033,10/25/21,Approved,Looks good.
+REV-00927,POL-0043,EMP-0011,10/26/21,Approved,No Changes Required.
+REV-00928,POL-0039,EMP-0030,10/26/21,Approved,Update section 3.
+REV-00929,POL-0157,EMP-0029,10/27/21,Approved,Please verify citation.
+REV-00930,POL-0117,EMP-0032,10/28/21,Approved,Please verify citation.
+REV-00931,POL-0236,EMP-0025,10/28/21,Rejected,Formatting changes only.
+REV-00932,POL-0101,EMP-0030,10/29/21,Approved,Update section 3.
+REV-00933,POL-0243,EMP-0031,11/1/21,Rejected,Update section 3.
+REV-00934,POL-0038,EMP-0025,11/1/21,Approved,Minor edits requested.
+REV-00935,POL-0262,EMP-0030,11/1/21,Approved,Formatting changes only.
+REV-00936,POL-0230,EMP-0033,11/2/21,Approved,Formatting changes only.
+REV-00937,POL-0134,EMP-0026,11/3/21,Approved,Minor edits requested.
+REV-00938,POL-0252,EMP-0029,11/3/21,Approved,Formatting changes only.
+REV-00939,POL-0166,EMP-0025,11/8/21,Approved,No Changes Required.
+REV-00940,POL-0252,EMP-0028,11/8/21,Approved,Minor edits requested.
+REV-00941,POL-0084,EMP-0027,11/8/21,Approved,Please verify citation.
+REV-00942,POL-0116,EMP-0011,11/8/21,Approved,Formatting changes only.
+REV-00943,POL-0248,EMP-0029,11/8/21,Rejected,Update section 3.
+REV-00944,POL-0196,EMP-0032,11/8/21,Rejected,No Changes Required.
+REV-00945,POL-0079,EMP-0027,11/10/21,Approved,Looks good.
+REV-00946,POL-0045,EMP-0029,11/12/21,Approved,No Changes Required.
+REV-00947,POL-0048,EMP-0028,11/12/21,Approved,Please verify citation.
+REV-00948,POL-0264,EMP-0030,11/12/21,Approved,Looks good.
+REV-00949,POL-0151,EMP-0031,11/12/21,Approved,Update section 3.
+REV-00950,POL-0203,EMP-0027,11/15/21,Approved,Update section 3.
+REV-00951,POL-0285,EMP-0031,11/15/21,Approved,No Changes Required.
+REV-00952,POL-0196,EMP-0027,11/16/21,Approved,No Changes Required.
+REV-00953,POL-0052,EMP-0030,11/17/21,Rejected,Update section 3.
+REV-00954,POL-0131,EMP-0027,11/17/21,Approved,Please verify citation.
+REV-00955,POL-0197,EMP-0026,11/18/21,Approved,No Changes Required.
+REV-00956,POL-0013,EMP-0028,11/19/21,Rejected,Please verify citation.
+REV-00957,POL-0148,EMP-0011,11/22/21,Approved,Formatting changes only.
+REV-00958,POL-0043,EMP-0033,11/23/21,Approved,Minor edits requested.
+REV-00959,POL-0068,EMP-0026,11/23/21,Approved,Update section 3.
+REV-00960,POL-0036,EMP-0028,11/24/21,Rejected,Please verify citation.
+REV-00961,POL-0188,EMP-0034,11/24/21,Approved,Minor edits requested.
+REV-00962,POL-0202,EMP-0032,11/26/21,Approved,Update section 5.
+REV-00963,POL-0037,EMP-0028,11/29/21,Approved,Minor edits requested.
+REV-00964,POL-0300,EMP-0034,11/29/21,Approved,Minor edits requested.
+REV-00965,POL-0010,EMP-0027,11/29/21,Approved,Minor edits requested.
+REV-00966,POL-0054,EMP-0025,12/1/21,Approved,Looks good.
+REV-00967,POL-0256,EMP-0034,12/1/21,Approved,Formatting changes only.
+REV-00968,POL-0063,EMP-0027,12/2/21,Approved,Minor edits requested.
+REV-00969,POL-0176,EMP-0027,12/2/21,Approved,No Changes Required.
+REV-00970,POL-0053,EMP-0032,12/3/21,Approved,Update section 3.
+REV-00971,POL-0138,EMP-0033,12/3/21,Approved,No Changes Required.
+REV-00972,POL-0097,EMP-0025,12/6/21,Approved,Formatting changes only.
+REV-00973,POL-0027,EMP-0032,12/6/21,Approved,Update section 3.
+REV-00974,POL-0168,EMP-0034,12/6/21,Approved,Update section 3.
+REV-00975,POL-0006,EMP-0034,12/7/21,Approved,Formatting changes only.
+REV-00976,POL-0102,EMP-0027,12/8/21,Rejected,Update section 3.
+REV-00977,POL-0130,EMP-0027,12/13/21,Approved,No Changes Required.
+REV-00978,POL-0117,EMP-0031,12/13/21,Approved,No Changes Required.
+REV-00979,POL-0053,EMP-0028,12/14/21,Rejected,Please verify citation.
+REV-00980,POL-0096,EMP-0026,12/15/21,Approved,Update section 3.
+REV-00981,POL-0021,EMP-0032,12/16/21,Approved,Formatting changes only.
+REV-00982,POL-0141,EMP-0034,12/20/21,Approved,Update section 3.
+REV-00983,POL-0166,EMP-0031,12/20/21,Approved,Update section 3.
+REV-00984,POL-0178,EMP-0027,12/22/21,Approved,Update section 3.
+REV-00985,POL-0271,EMP-0025,12/22/21,Approved,Formatting changes only.
+REV-00986,POL-0293,EMP-0026,12/22/21,Approved,Formatting changes only.
+REV-00987,POL-0078,EMP-0029,12/23/21,Approved,Looks good.
+REV-00988,POL-0184,EMP-0011,12/27/21,Approved,No Changes Required.
+REV-00989,POL-0188,EMP-0032,1/3/22,Approved,Minor edits requested.
+REV-00990,POL-0290,EMP-0026,1/3/22,Approved,Looks good.
+REV-00991,POL-0067,EMP-0033,1/3/22,Approved,Formatting changes only.
+REV-00992,POL-0088,EMP-0028,1/3/22,Approved,No Changes Required.
+REV-00993,POL-0270,EMP-0028,1/6/22,Rejected,Please verify citation.
+REV-00994,POL-0026,EMP-0030,1/7/22,Approved,Formatting changes only.
+REV-00995,POL-0279,EMP-0031,1/7/22,Approved,Update section 3.
+REV-00996,POL-0005,EMP-0026,1/10/22,Approved,No Changes Required.
+REV-00997,POL-0122,EMP-0028,1/11/22,Approved,Looks good.
+REV-00998,POL-0277,EMP-0030,1/12/22,Approved,No Changes Required.
+REV-00999,POL-0142,EMP-0027,1/18/22,Approved,Looks good.
+REV-01000,POL-0152,EMP-0029,1/18/22,Approved,Minor edits requested.
+REV-01001,POL-0180,EMP-0029,1/18/22,Approved,Formatting changes only.
+REV-01002,POL-0261,EMP-0034,1/18/22,Approved,Please verify citation.
+REV-01003,POL-0026,EMP-0034,1/18/22,Rejected,Update section 3.
+REV-01004,POL-0036,EMP-0031,1/19/22,Approved,Formatting changes only.
+REV-01005,POL-0042,EMP-0030,1/24/22,Approved,Please verify citation.
+REV-01006,POL-0293,EMP-0011,1/24/22,Approved,Please verify citation.
+REV-01007,POL-0044,EMP-0026,1/24/22,Approved,No Changes Required.
+REV-01008,POL-0038,EMP-0032,1/25/22,Approved,Update section 3.
+REV-01009,POL-0171,EMP-0026,1/26/22,Approved,No Changes Required.
+REV-01010,POL-0075,EMP-0033,1/26/22,Approved,Looks good.
+REV-01011,POL-0257,EMP-0026,1/26/22,Rejected,Formatting changes only.
+REV-01012,POL-0119,EMP-0027,1/27/22,Approved,Please verify citation.
+REV-01013,POL-0120,EMP-0033,1/31/22,Approved,Minor edits requested.
+REV-01014,POL-0221,EMP-0031,1/31/22,Approved,Formatting changes only.
+REV-01015,POL-0200,EMP-0034,2/2/22,Approved,Looks good.
+REV-01016,POL-0153,EMP-0026,2/7/22,Approved,Update section 3.
+REV-01017,POL-0180,EMP-0029,2/8/22,Approved,No Changes Required.
+REV-01018,POL-0185,EMP-0031,2/9/22,Rejected,Looks good.
+REV-01019,POL-0161,EMP-0025,2/14/22,Approved,Minor edits requested.
+REV-01020,POL-0214,EMP-0025,2/14/22,Approved,Update section 3.
+REV-01021,POL-0163,EMP-0031,2/14/22,Approved,Looks good.
+REV-01022,POL-0271,EMP-0025,2/16/22,Approved,No Changes Required.
+REV-01023,POL-0148,EMP-0032,2/17/22,Approved,Please verify citation.
+REV-01024,POL-0129,EMP-0031,2/17/22,Approved,No Changes Required.
+REV-01025,POL-0090,EMP-0011,2/22/22,Approved,Looks good.
+REV-01026,POL-0176,EMP-0031,2/22/22,Approved,No Changes Required.
+REV-01027,POL-0154,EMP-0025,2/22/22,Approved,Update section 3.
+REV-01028,POL-0091,EMP-0027,2/22/22,Approved,Update section 3.
+REV-01029,POL-0188,EMP-0030,2/23/22,Approved,Looks good.
+REV-01030,POL-0110,EMP-0033,2/28/22,Rejected,Minor edits requested.
+REV-01031,POL-0293,EMP-0028,2/28/22,Approved,Minor edits requested.
+REV-01032,POL-0167,EMP-0025,3/2/22,Approved,Please verify citation.
+REV-01033,POL-0138,EMP-0033,3/4/22,Approved,Formatting changes only.
+REV-01034,POL-0084,EMP-0028,3/4/22,Approved,Formatting changes only.
+REV-01035,POL-0047,EMP-0026,3/7/22,Approved,Looks good.
+REV-01036,POL-0263,EMP-0011,3/7/22,Approved,No Changes Required.
+REV-01037,POL-0238,EMP-0028,3/7/22,Approved,No Changes Required.
+REV-01038,POL-0278,EMP-0031,3/7/22,Approved,Please verify citation.
+REV-01039,POL-0148,EMP-0028,3/8/22,Approved,Please verify citation.
+REV-01040,POL-0142,EMP-0033,3/8/22,Approved,Please verify citation.
+REV-01041,POL-0142,EMP-0026,3/14/22,Approved,Update section 1.
+REV-01042,POL-0201,EMP-0027,3/14/22,Approved,Looks good.
+REV-01043,POL-0076,EMP-0025,3/14/22,Approved,No Changes Required.
+REV-01044,POL-0260,EMP-0028,3/14/22,Approved,Please verify citation.
+REV-01045,POL-0043,EMP-0030,3/14/22,Approved,Formatting changes only.
+REV-01046,POL-0262,EMP-0032,3/14/22,Approved,Formatting changes only.
+REV-01047,POL-0130,EMP-0034,3/15/22,Rejected,Update section 3.
+REV-01048,POL-0248,EMP-0028,3/15/22,Approved,No Changes Required.
+REV-01049,POL-0096,EMP-0011,3/16/22,Approved,No Changes Required.
+REV-01050,POL-0251,EMP-0034,3/17/22,Approved,Update section 3.
+REV-01051,POL-0239,EMP-0011,3/21/22,Approved,No Changes Required.
+REV-01052,POL-0165,EMP-0030,3/21/22,Approved,Looks good.
+REV-01053,POL-0018,EMP-0029,3/22/22,Approved,No Changes Required.
+REV-01054,POL-0249,EMP-0030,3/24/22,Approved,Update section 3.
+REV-01055,POL-0077,EMP-0025,3/25/22,Approved,Formatting changes only.
+REV-01056,POL-0052,EMP-0031,3/25/22,Rejected,Minor edits requested.
+REV-01057,POL-0177,EMP-0034,3/28/22,Approved,Formatting changes only.
+REV-01058,POL-0020,EMP-0011,3/28/22,Approved,No Changes Required.
+REV-01059,POL-0099,EMP-0033,3/29/22,Approved,No Changes Required.
+REV-01060,POL-0155,EMP-0026,3/30/22,Approved,Please verify citation.
+REV-01061,POL-0280,EMP-0033,3/31/22,Approved,Formatting changes only.
+REV-01062,POL-0127,EMP-0029,4/1/22,Approved,No Changes Required.
+REV-01063,POL-0154,EMP-0026,4/5/22,Approved,Update section 3.
+REV-01064,POL-0138,EMP-0034,4/6/22,Approved,No Changes Required.
+REV-01065,POL-0243,EMP-0029,4/6/22,Approved,Please verify citation.
+REV-01066,POL-0101,EMP-0029,4/6/22,Approved,Formatting changes only.
+REV-01067,POL-0126,EMP-0031,4/6/22,Approved,Minor edits requested.
+REV-01068,POL-0201,EMP-0032,4/7/22,Rejected,Formatting changes only.
+REV-01069,POL-0058,EMP-0028,4/7/22,Approved,Please verify citation.
+REV-01070,POL-0123,EMP-0025,4/7/22,Approved,No Changes Required.
+REV-01071,POL-0233,EMP-0027,4/12/22,Approved,Please verify citation.
+REV-01072,POL-0108,EMP-0033,4/13/22,Approved,Please verify citation.
+REV-01073,POL-0159,EMP-0031,4/18/22,Approved,Looks good.
+REV-01074,POL-0114,EMP-0025,4/18/22,Approved,Update section 3.
+REV-01075,POL-0050,EMP-0027,4/18/22,Approved,Looks good.
+REV-01076,POL-0005,EMP-0033,4/18/22,Approved,Please verify citation.
+REV-01077,POL-0250,EMP-0029,4/18/22,Approved,No Changes Required.
+REV-01078,POL-0260,EMP-0025,4/19/22,Approved,Please verify citation.
+REV-01079,POL-0053,EMP-0031,4/19/22,Approved,Update section 3.
+REV-01080,POL-0202,EMP-0033,4/19/22,Approved,No Changes Required.
+REV-01081,POL-0095,EMP-0033,4/22/22,Approved,No Changes Required.
+REV-01082,POL-0233,EMP-0029,4/22/22,Approved,No Changes Required.
+REV-01083,POL-0191,EMP-0011,4/22/22,Rejected,Looks good.
+REV-01084,POL-0199,EMP-0033,4/25/22,Approved,Minor edits requested.
+REV-01085,POL-0229,EMP-0034,4/25/22,Approved,Minor edits requested.
+REV-01086,POL-0116,EMP-0034,4/26/22,Approved,Minor edits requested.
+REV-01087,POL-0287,EMP-0031,4/26/22,Approved,Looks good.
+REV-01088,POL-0283,EMP-0027,4/27/22,Approved,Update section 3.
+REV-01089,POL-0281,EMP-0034,4/28/22,Approved,Minor edits requested.
+REV-01090,POL-0167,EMP-0032,4/28/22,Approved,Formatting changes only.
+REV-01091,POL-0156,EMP-0029,4/29/22,Approved,Minor edits requested.
+REV-01092,POL-0141,EMP-0033,5/2/22,Approved,Formatting changes only.
+REV-01093,POL-0103,EMP-0011,5/2/22,Approved,Update section 3.
+REV-01094,POL-0190,EMP-0031,5/2/22,Approved,Minor edits requested.
+REV-01095,POL-0269,EMP-0033,5/2/22,Approved,No Changes Required.
+REV-01096,POL-0265,EMP-0028,5/3/22,Approved,Please verify citation.
+REV-01097,POL-0131,EMP-0028,5/3/22,Approved,Looks good.
+REV-01098,POL-0227,EMP-0032,5/5/22,Approved,Minor edits requested.
+REV-01099,POL-0206,EMP-0026,5/6/22,Approved,No Changes Required.
+REV-01100,POL-0175,EMP-0026,5/6/22,Rejected,No Changes Required.
+REV-01101,POL-0100,EMP-0029,5/9/22,Approved,Looks good.
+REV-01102,POL-0011,EMP-0033,5/9/22,Approved,Minor edits requested.
+REV-01103,POL-0217,EMP-0027,5/9/22,Approved,Update section 3.
+REV-01104,POL-0072,EMP-0030,5/9/22,Rejected,Update section 3.
+REV-01105,POL-0229,EMP-0026,5/10/22,Rejected,Formatting changes only.
+REV-01106,POL-0098,EMP-0029,5/10/22,Rejected,Update section 3.
+REV-01107,POL-0202,EMP-0026,5/10/22,Approved,No Changes Required.
+REV-01108,POL-0207,EMP-0032,5/11/22,Approved,No Changes Required.
+REV-01109,POL-0095,EMP-0031,5/11/22,Rejected,Looks good.
+REV-01110,POL-0099,EMP-0011,5/11/22,Approved,Looks good.
+REV-01111,POL-0153,EMP-0027,5/12/22,Approved,Looks good.
+REV-01112,POL-0252,EMP-0032,5/12/22,Approved,Minor edits requested.
+REV-01113,POL-0143,EMP-0028,5/12/22,Approved,Update section 3.
+REV-01114,POL-0221,EMP-0011,5/13/22,Approved,Minor edits requested.
+REV-01115,POL-0296,EMP-0025,5/17/22,Approved,No Changes Required.
+REV-01116,POL-0251,EMP-0030,5/18/22,Approved,Minor edits requested.
+REV-01117,POL-0023,EMP-0026,5/20/22,Rejected,Update section 3.
+REV-01118,POL-0109,EMP-0033,5/20/22,Approved,Formatting changes only.
+REV-01119,POL-0175,EMP-0026,5/23/22,Approved,Formatting changes only.
+REV-01120,POL-0120,EMP-0025,5/23/22,Rejected,Minor edits requested.
+REV-01121,POL-0222,EMP-0027,5/23/22,Rejected,Please verify citation.
+REV-01122,POL-0292,EMP-0011,5/25/22,Approved,Formatting changes only.
+REV-01123,POL-0159,EMP-0025,5/25/22,Approved,No Changes Required.
+REV-01124,POL-0282,EMP-0034,5/26/22,Approved,Minor edits requested.
+REV-01125,POL-0233,EMP-0028,5/31/22,Approved,Please verify citation.
+REV-01126,POL-0039,EMP-0033,5/31/22,Approved,Minor edits requested.
+REV-01127,POL-0211,EMP-0033,5/31/22,Approved,Please verify citation.
+REV-01128,POL-0117,EMP-0026,5/31/22,Rejected,Looks good.
+REV-01129,POL-0151,EMP-0029,5/31/22,Approved,Looks good.
+REV-01130,POL-0138,EMP-0034,5/31/22,Approved,Formatting changes only.
+REV-01131,POL-0280,EMP-0033,6/2/22,Approved,Looks good.
+REV-01132,POL-0088,EMP-0034,6/3/22,Approved,No Changes Required.
+REV-01132,POL-0088,EMP-0029,6/3/22,Approved,Update section 4.
+REV-01133,POL-0288,EMP-0027,6/6/22,Approved,Looks good.
+REV-01134,POL-0300,EMP-0032,6/7/22,Approved,Formatting changes only.
+REV-01135,POL-0039,EMP-0033,6/13/22,Approved,Formatting changes only.
+REV-01136,POL-0072,EMP-0011,6/13/22,Approved,Looks good.
+REV-01137,POL-0032,EMP-0031,6/13/22,Approved,Update section 3.
+REV-01138,POL-0109,EMP-0030,6/14/22,Approved,No Changes Required.
+REV-01139,POL-0078,EMP-0027,6/14/22,Approved,Please verify citation.
+REV-01140,POL-0161,EMP-0028,6/14/22,Approved,Formatting changes only.
+REV-01141,POL-0128,EMP-0011,6/15/22,Approved,Please verify citation.
+REV-01142,POL-0165,EMP-0029,6/16/22,Approved,Looks good.
+REV-01143,POL-0281,EMP-0033,6/17/22,Approved,Please verify citation.
+REV-01144,POL-0016,EMP-0032,6/17/22,Approved,Please verify citation.
+REV-01145,POL-0255,EMP-0030,6/21/22,Rejected,Minor edits requested.
+REV-01146,POL-0028,EMP-0011,6/21/22,Approved,Update section 3.
+REV-01147,POL-0042,EMP-0031,6/22/22,Rejected,Looks good.
+REV-01148,POL-0201,EMP-0025,6/22/22,Approved,Please verify citation.
+REV-01149,POL-0164,EMP-0027,6/27/22,Approved,Looks good.
+REV-01150,POL-0062,EMP-0028,6/27/22,Approved,Looks good.
+REV-01150,POL-0062,EMP-0031,6/27/22,Approved,Looks good.
+REV-01151,POL-0040,EMP-0032,6/27/22,Approved,Please verify citation.
+REV-01152,POL-0040,EMP-0032,6/29/22,Approved,Update section 3.
+REV-01153,POL-0230,EMP-0033,7/1/22,Approved,No Changes Required.
+REV-01154,POL-0165,EMP-0027,7/5/22,Approved,Please verify citation.
+REV-01155,POL-0187,EMP-0032,7/6/22,Approved,Update section 3.
+REV-01156,POL-0267,EMP-0034,7/7/22,Approved,No Changes Required.
+REV-01157,POL-0126,EMP-0030,7/11/22,Approved,Please verify citation.
+REV-01158,POL-0074,EMP-0027,7/11/22,Approved,Please verify citation.
+REV-01159,POL-0158,EMP-0026,7/12/22,Approved,Update section 3.
+REV-01160,POL-0029,EMP-0028,7/12/22,Approved,Please verify citation.
+REV-01161,POL-0206,EMP-0033,7/12/22,Approved,Formatting changes only.
+REV-01162,POL-0289,EMP-0027,7/14/22,Approved,Update section 3.
+REV-01163,POL-0136,EMP-0031,7/15/22,Approved,Formatting changes only.
+REV-01164,POL-0150,EMP-0029,7/15/22,Approved,Looks good.
+REV-01165,POL-0292,EMP-0030,7/15/22,Rejected,Minor edits requested.
+REV-01166,POL-0068,EMP-0030,7/15/22,Approved,Looks good.
+REV-01167,POL-0152,EMP-0025,7/18/22,Approved,Looks good.
+REV-01168,POL-0184,EMP-0027,7/18/22,Approved,Please verify citation.
+REV-01169,POL-0057,EMP-0032,7/18/22,Approved,No Changes Required.
+REV-01170,POL-0138,EMP-0029,7/18/22,Approved,Formatting changes only.
+REV-01171,POL-0258,EMP-0030,7/20/22,Approved,Please verify citation.
+REV-01172,POL-0295,EMP-0030,7/25/22,Approved,No Changes Required.
+REV-01173,POL-0254,EMP-0011,7/25/22,Approved,Looks good.
+REV-01174,POL-0135,EMP-0031,8/1/22,Rejected,Minor edits requested.
+REV-01175,POL-0045,EMP-0034,8/1/22,Rejected,Update section 3.
+REV-01176,POL-0152,EMP-0032,8/1/22,Rejected,Please verify citation.
+REV-01177,POL-0283,EMP-0029,8/2/22,Approved,Minor edits requested.
+REV-01178,POL-0098,EMP-0026,8/3/22,Approved,No Changes Required.
+REV-01179,POL-0243,EMP-0030,8/4/22,Approved,Please verify citation.
+REV-01180,POL-0109,EMP-0027,8/8/22,Rejected,Looks good.
+REV-01181,POL-0065,EMP-0033,8/8/22,Approved,Please verify citation.
+REV-01182,POL-0232,EMP-0033,8/8/22,Approved,Minor edits requested.
+REV-01183,POL-0238,EMP-0027,8/8/22,Approved,Formatting changes only.
+REV-01184,POL-0208,EMP-0025,8/10/22,Approved,No Changes Required.
+REV-01185,POL-0021,EMP-0011,8/12/22,Rejected,Formatting changes only.
+REV-01186,POL-0217,EMP-0028,8/15/22,Approved,Looks good.
+REV-01187,POL-0107,EMP-0031,8/15/22,Rejected,Minor edits requested.
+REV-01188,POL-0027,EMP-0030,8/15/22,Approved,Formatting changes only.
+REV-01189,POL-0236,EMP-0031,8/16/22,Approved,Update section 3.
+REV-01190,POL-0220,EMP-0031,8/17/22,Approved,Looks good.
+REV-01191,POL-0236,EMP-0026,8/17/22,Approved,Update section 3.
+REV-01192,POL-0110,EMP-0034,8/19/22,Approved,Minor edits requested.
+REV-01193,POL-0255,EMP-0032,8/19/22,Approved,No Changes Required.
+REV-01194,POL-0130,EMP-0028,8/22/22,Approved,Update section 3.
+REV-01195,POL-0035,EMP-0030,8/22/22,Approved,Formatting changes only.
+REV-01196,POL-0099,EMP-0026,8/22/22,Approved,Formatting changes only.
+REV-01197,POL-0170,EMP-0030,8/23/22,Approved,No Changes Required.
+REV-01198,POL-0103,EMP-0025,8/24/22,Approved,Please verify citation.
+REV-01199,POL-0075,EMP-0030,8/26/22,Approved,No Changes Required.
+REV-01200,POL-0049,EMP-0031,8/29/22,Approved,Formatting changes only.
+REV-01201,POL-0094,EMP-0033,8/29/22,Rejected,Looks good.
+REV-01202,POL-0091,EMP-0034,8/29/22,Approved,Looks good.
+REV-01203,POL-0278,EMP-0026,8/30/22,Approved,No Changes Required.
+REV-01204,POL-0068,EMP-0025,9/2/22,Approved,Minor edits requested.
+REV-01205,POL-0151,EMP-0032,9/6/22,Approved,Please verify citation.
+REV-01206,POL-0214,EMP-0034,9/6/22,Approved,No Changes Required.
+REV-01207,POL-0014,EMP-0031,9/8/22,Approved,Please verify citation.
+REV-01208,POL-0207,EMP-0026,9/8/22,Approved,Please verify citation.
+REV-01209,POL-0069,EMP-0030,9/9/22,Approved,Minor edits requested.
+REV-01210,POL-0267,EMP-0030,9/12/22,Approved,Looks good.
+REV-01211,POL-0109,EMP-0011,9/12/22,Approved,Please verify citation.
+REV-01211,POL-0109,EMP-0030,9/12/22,Approved,Please verify citation.
+REV-01212,POL-0296,EMP-0025,9/13/22,Approved,Looks good.
+REV-01213,POL-0092,EMP-0028,9/14/22,Approved,Update section 1.
+REV-01214,POL-0142,EMP-0029,9/14/22,Approved,Please verify citation.
+REV-01215,POL-0100,EMP-0028,9/15/22,Approved,No Changes Required.
+REV-01216,POL-0132,EMP-0028,9/16/22,Approved,Please verify citation.
+REV-01217,POL-0067,EMP-0034,9/16/22,Approved,Update section 3.
+REV-01218,POL-0200,EMP-0026,9/19/22,Approved,Minor edits requested.
+REV-01219,POL-0174,EMP-0027,9/19/22,Approved,Update section 3.
+REV-01220,POL-0245,EMP-0026,9/20/22,Approved,No Changes Required.
+REV-01221,POL-0033,EMP-0026,9/20/22,Approved,Update section 3.
+REV-01222,POL-0114,EMP-0027,9/22/22,Approved,Formatting changes only.
+REV-01223,POL-0106,EMP-0034,9/22/22,Approved,Update section 3.
+REV-01224,POL-0252,EMP-0027,9/22/22,Approved,Please verify citation.
+REV-01225,POL-0164,EMP-0027,9/22/22,Approved,Looks good.
+REV-01226,POL-0283,EMP-0026,9/22/22,Approved,Update section 3.
+REV-01227,POL-0292,EMP-0026,9/23/22,Approved,Please verify citation.
+REV-01228,POL-0093,EMP-0011,9/23/22,Approved,Minor edits requested.
+REV-01229,POL-0083,EMP-0027,9/26/22,Approved,Please verify citation.
+REV-01230,POL-0163,EMP-0031,9/26/22,Approved,Formatting changes only.
+REV-01231,POL-0104,EMP-0032,9/26/22,Approved,Formatting changes only.
+REV-01232,POL-0245,EMP-0027,9/27/22,Approved,No Changes Required.
+REV-01233,POL-0034,EMP-0029,9/28/22,Approved,Looks good.
+REV-01234,POL-0130,EMP-0027,9/29/22,Approved,Looks good.
+REV-01235,POL-0287,EMP-0032,9/29/22,Approved,No Changes Required.
+REV-01236,POL-0054,EMP-0028,9/30/22,Approved,Formatting changes only.
+REV-01237,POL-0187,EMP-0027,10/3/22,Approved,No Changes Required.
+REV-01238,POL-0278,EMP-0028,10/3/22,Approved,Update section 3.
+REV-01239,POL-0024,EMP-0032,10/3/22,Approved,Minor edits requested.
+REV-01240,POL-0228,EMP-0025,10/4/22,Rejected,Minor edits requested.
+REV-01241,POL-0064,EMP-0034,10/5/22,Approved,Please verify citation.
+REV-01242,POL-0292,EMP-0032,10/5/22,Approved,Looks good.
+REV-01243,POL-0122,EMP-0026,10/6/22,Approved,Please verify citation.
+REV-01244,POL-0004,EMP-0025,10/6/22,Approved,Please verify citation.
+REV-01245,POL-0081,EMP-0034,10/7/22,Approved,Minor edits requested.
+REV-01246,POL-0003,EMP-0030,10/11/22,Approved,Looks good.
+REV-01247,POL-0173,EMP-0025,10/11/22,Approved,Formatting changes only.
+REV-01248,POL-0275,EMP-0011,10/12/22,Approved,Minor edits requested.
+REV-01249,POL-0068,EMP-0033,10/13/22,Approved,Formatting changes only.
+REV-01250,POL-0219,EMP-0026,10/13/22,Approved,Please verify citation.
+REV-01251,POL-0217,EMP-0029,10/14/22,Approved,Minor edits requested.
+REV-01252,POL-0161,EMP-0032,10/14/22,Approved,Please verify citation.
+REV-01253,POL-0281,EMP-0011,10/17/22,Rejected,Minor edits requested.
+REV-01254,POL-0117,EMP-0029,10/17/22,Approved,Minor edits requested.
+REV-01255,POL-0058,EMP-0033,10/19/22,Approved,No Changes Required.
+REV-01256,POL-0255,EMP-0033,10/19/22,Approved,Update section 3.
+REV-01257,POL-0034,EMP-0029,10/20/22,Approved,Update section 3.
+REV-01258,POL-0287,EMP-0026,10/20/22,Approved,Looks good.
+REV-01259,POL-0233,EMP-0027,10/20/22,Approved,Formatting changes only.
+REV-01260,POL-0222,EMP-0033,10/21/22,Approved,Formatting changes only.
+REV-01261,POL-0055,EMP-0029,10/24/22,Rejected,Please verify citation.
+REV-01262,POL-0107,EMP-0011,10/24/22,Rejected,Looks good.
+REV-01263,POL-0146,EMP-0011,10/24/22,Approved,Update section 3.
+REV-01264,POL-0154,EMP-0029,10/24/22,Approved,Update section 3.
+REV-01265,POL-0280,EMP-0011,10/27/22,Approved,Formatting changes only.
+REV-01265,POL-0280,EMP-0011,10/26/22,Approved,Formatting changes only.
+REV-01266,POL-0269,EMP-0027,10/27/22,Approved,Formatting changes only.
+REV-01267,POL-0230,EMP-0033,10/28/22,Approved,Minor edits requested.
+REV-01268,POL-0100,EMP-0033,10/28/22,Approved,Please verify citation.
+REV-01269,POL-0055,EMP-0028,10/28/22,Approved,Update section 1.
+REV-01270,POL-0079,EMP-0031,10/28/22,Approved,Looks good.
+REV-01271,POL-0010,EMP-0027,10/31/22,Rejected,Formatting changes only.
+REV-01272,POL-0252,EMP-0033,10/31/22,Approved,Formatting changes only.
+REV-01273,POL-0240,EMP-0031,10/31/22,Approved,Minor edits requested.
+REV-01274,POL-0031,EMP-0028,10/31/22,Approved,Please verify citation.
+REV-01275,POL-0061,EMP-0029,10/31/22,Approved,No Changes Required.
+REV-01276,POL-0042,EMP-0026,11/1/22,Approved,Minor edits requested.
+REV-01277,POL-0272,EMP-0031,11/2/22,Approved,Please verify citation.
+REV-01278,POL-0176,EMP-0026,11/2/22,Approved,Minor edits requested.
+REV-01279,POL-0282,EMP-0031,11/3/22,Approved,Formatting changes only.
+REV-01280,POL-0215,EMP-0034,11/3/22,Approved,Formatting changes only.
+REV-01281,POL-0087,EMP-0011,11/4/22,Approved,Update section 3.
+REV-01282,POL-0163,EMP-0027,11/7/22,Approved,Formatting changes only.
+REV-01283,POL-0180,EMP-0029,11/9/22,Approved,Formatting changes only.
+REV-01283,POL-0180,EMP-0031,11/7/22,Approved,Formatting changes only.
+REV-01284,POL-0293,EMP-0026,11/9/22,Approved,Formatting changes only.
+REV-01285,POL-0205,EMP-0025,11/14/22,Approved,No Changes Required.
+REV-01286,POL-0274,EMP-0031,11/14/22,Approved,Looks good.
+REV-01287,POL-0278,EMP-0034,11/15/22,Approved,Formatting changes only.
+REV-01288,POL-0261,EMP-0030,11/16/22,Approved,Please verify citation.
+REV-01289,POL-0285,EMP-0011,11/16/22,Approved,Update section 3.
+REV-01290,POL-0186,EMP-0011,11/17/22,Approved,Please verify citation.
+REV-01291,POL-0016,EMP-0029,11/17/22,Rejected,Looks good.
+REV-01292,POL-0086,EMP-0030,11/21/22,Approved,Looks good.
+REV-01293,POL-0229,EMP-0034,11/21/22,Approved,Minor edits requested.
+REV-01294,POL-0040,EMP-0028,11/21/22,Approved,Looks good.
+REV-01295,POL-0042,EMP-0029,11/22/22,Approved,Update section 2.
+REV-01296,POL-0140,EMP-0028,11/23/22,Approved,Please verify citation.
+REV-01297,POL-0274,EMP-0028,11/23/22,Approved,Update section 3.
+REV-01298,POL-0132,EMP-0034,11/23/22,Approved,No Changes Required.
+REV-01299,POL-0077,EMP-0011,11/25/22,Approved,Looks good.
+REV-01300,POL-0257,EMP-0011,11/25/22,Approved,No Changes Required.
+REV-01301,POL-0055,EMP-0030,11/25/22,Approved,Looks good.
+REV-01302,POL-0084,EMP-0011,11/25/22,Approved,Formatting changes only.
+REV-01303,POL-0104,EMP-0031,11/28/22,Approved,Please verify citation.
+REV-01304,POL-0143,EMP-0028,11/28/22,Approved,No Changes Required.
+REV-01305,POL-0072,EMP-0034,11/29/22,Approved,No Changes Required.
+REV-01306,POL-0236,EMP-0029,11/29/22,Approved,Minor edits requested.
+REV-01307,POL-0079,EMP-0025,12/1/22,Rejected,Looks good.
+REV-01308,POL-0015,EMP-0026,12/1/22,Approved,Please verify citation.
+REV-01309,POL-0054,EMP-0033,12/5/22,Approved,Formatting changes only.
+REV-01310,POL-0123,EMP-0030,12/8/22,Rejected,Formatting changes only.
+REV-01311,POL-0216,EMP-0011,12/8/22,Approved,No Changes Required.
+REV-01312,POL-0158,EMP-0033,12/9/22,Approved,Looks good.
+REV-01313,POL-0191,EMP-0032,12/12/22,Approved,Minor edits requested.
+REV-01314,POL-0158,EMP-0026,12/12/22,Approved,Minor edits requested.
+REV-01315,POL-0001,EMP-0028,12/12/22,Approved,No Changes Required.
+REV-01316,POL-0093,EMP-0028,12/13/22,Approved,Looks good.
+REV-01316,POL-0093,EMP-0028,12/12/22,Approved,Looks good.
+REV-01317,POL-0247,EMP-0027,12/14/22,Rejected,Update section 3.
+REV-01318,POL-0221,EMP-0034,12/21/22,Approved,Formatting changes only.
+REV-01319,POL-0057,EMP-0026,12/27/22,Approved,Minor edits requested.
+REV-01320,POL-0149,EMP-0025,12/27/22,Approved,Minor edits requested.
+REV-01321,POL-0085,EMP-0031,12/27/22,Approved,Please verify citation.
+REV-01322,POL-0215,EMP-0029,12/27/22,Approved,Update section 3.
+REV-01323,POL-0187,EMP-0028,12/27/22,Rejected,Update section 3.
+REV-01324,POL-0143,EMP-0025,12/29/22,Approved,Formatting changes only.
+REV-01325,POL-0006,EMP-0033,12/30/22,Rejected,Looks good.
+REV-01326,POL-0117,EMP-0026,1/3/23,Approved,Update section 3.
+REV-01327,POL-0244,EMP-0031,1/3/23,Approved,Please verify citation.
+REV-01328,POL-0061,EMP-0027,1/3/23,Approved,Formatting changes only.
+REV-01329,POL-0058,EMP-0032,1/3/23,Approved,Update section 3.
+REV-01330,POL-0025,EMP-0011,1/3/23,Approved,Looks good.
+REV-01331,POL-0111,EMP-0032,1/4/23,Approved,No Changes Required.
+REV-01332,POL-0103,EMP-0032,1/4/23,Approved,Update section 3.
+REV-01333,POL-0223,EMP-0031,1/6/23,Approved,Update section 3.
+REV-01334,POL-0032,EMP-0025,1/9/23,Approved,No Changes Required.
+REV-01335,POL-0191,EMP-0029,1/9/23,Approved,Please verify citation.
+REV-01336,POL-0228,EMP-0030,1/10/23,Approved,No Changes Required.
+REV-01337,POL-0208,EMP-0029,1/12/23,Approved,Looks good.
+REV-01338,POL-0183,EMP-0034,1/12/23,Approved,Looks good.
+REV-01339,POL-0279,EMP-0030,1/17/23,Approved,No Changes Required.
+REV-01340,POL-0283,EMP-0027,1/17/23,Approved,Minor edits requested.
+REV-01341,POL-0045,EMP-0031,1/17/23,Approved,Update section 3.
+REV-01342,POL-0040,EMP-0031,1/17/23,Rejected,Formatting changes only.
+REV-01343,POL-0023,EMP-0026,1/17/23,Approved,No Changes Required.
+REV-01344,POL-0049,EMP-0011,1/17/23,Approved,Minor edits requested.
+REV-01345,POL-0249,EMP-0026,1/20/23,Approved,Please verify citation.
+REV-01346,POL-0034,EMP-0027,1/23/23,Approved,Looks good.
+REV-01347,POL-0064,EMP-0029,1/23/23,Approved,No Changes Required.
+REV-01348,POL-0013,EMP-0033,1/27/23,Approved,Update section 3.
+REV-01349,POL-0008,EMP-0029,1/27/23,Rejected,Formatting changes only.
+REV-01350,POL-0212,EMP-0030,1/30/23,Approved,Update section 3.
+REV-01351,POL-0095,EMP-0027,1/31/23,Approved,Formatting changes only.
+REV-01352,POL-0027,EMP-0026,2/1/23,Approved,Update section 3.
+REV-01353,POL-0041,EMP-0025,2/1/23,Approved,Looks good.
+REV-01354,POL-0102,EMP-0034,2/2/23,Approved,Please verify citation.
+REV-01355,POL-0054,EMP-0027,2/2/23,Approved,Update section 3.
+REV-01356,POL-0235,EMP-0029,2/2/23,Approved,Minor edits requested.
+REV-01357,POL-0255,EMP-0031,2/3/23,Approved,Looks good.
+REV-01358,POL-0042,EMP-0011,2/3/23,Approved,Formatting changes only.
+REV-01359,POL-0289,EMP-0031,2/3/23,Rejected,No Changes Required.
+REV-01360,POL-0124,EMP-0033,2/3/23,Approved,Please verify citation.
+REV-01361,POL-0129,EMP-0027,2/3/23,Approved,Looks good.
+REV-01362,POL-0105,EMP-0028,2/6/23,Rejected,Please verify citation.
+REV-01363,POL-0001,EMP-0034,2/7/23,Approved,Looks good.
+REV-01364,POL-0281,EMP-0028,2/7/23,Approved,Looks good.
+REV-01365,POL-0130,EMP-0028,2/7/23,Approved,No Changes Required.
+REV-01366,POL-0032,EMP-0028,2/10/23,Approved,No Changes Required.
+REV-01367,POL-0090,EMP-0031,2/10/23,Approved,Formatting changes only.
+REV-01368,POL-0040,EMP-0029,2/16/23,Approved,No Changes Required.
+REV-01369,POL-0070,EMP-0028,2/16/23,Approved,Looks good.
+REV-01370,POL-0109,EMP-0025,2/17/23,Approved,No Changes Required.
+REV-01371,POL-0049,EMP-0029,2/21/23,Approved,Formatting changes only.
+REV-01372,POL-0028,EMP-0026,2/21/23,Approved,Formatting changes only.
+REV-01373,POL-0206,EMP-0027,2/21/23,Approved,Formatting changes only.
+REV-01374,POL-0285,EMP-0025,2/27/23,Approved,No Changes Required.
+REV-01375,POL-0204,EMP-0032,2/27/23,Approved,Please verify citation.
+REV-01376,POL-0152,EMP-0030,2/28/23,Approved,No Changes Required.
+REV-01377,POL-0099,EMP-0033,3/2/23,Approved,Please verify citation.
+REV-01378,POL-0044,EMP-0032,3/2/23,Approved,Minor edits requested.
+REV-01379,POL-0056,EMP-0025,3/3/23,Approved,Minor edits requested.
+REV-01380,POL-0244,EMP-0033,3/6/23,Approved,No Changes Required.
+REV-01381,POL-0270,EMP-0011,3/6/23,Approved,Update section 3.
+REV-01382,POL-0222,EMP-0033,3/8/23,Approved,Please verify citation.
+REV-01383,POL-0286,EMP-0030,3/8/23,Approved,No Changes Required.
+REV-01384,POL-0095,EMP-0033,3/13/23,Approved,Formatting changes only.
+REV-01385,POL-0236,EMP-0028,3/13/23,Rejected,Please verify citation.
+REV-01386,POL-0295,EMP-0032,3/14/23,Approved,Looks good.
+REV-01387,POL-0110,EMP-0025,3/15/23,Approved,Formatting changes only.
+REV-01388,POL-0232,EMP-0028,3/15/23,Approved,Looks good.
+REV-01389,POL-0276,EMP-0029,3/20/23,Approved,Update section 3.
+REV-01390,POL-0170,EMP-0026,3/20/23,Approved,Please verify citation.
+REV-01391,POL-0004,EMP-0011,3/21/23,Approved,Update section 3.
+REV-01392,POL-0194,EMP-0027,3/23/23,Approved,No Changes Required.
+REV-01393,POL-0181,EMP-0030,3/23/23,Approved,Update section 2.
+REV-01394,POL-0066,EMP-0028,3/24/23,Approved,Looks good.
+REV-01395,POL-0128,EMP-0027,3/27/23,Approved,No Changes Required.
+REV-01396,POL-0150,EMP-0031,3/27/23,Approved,No Changes Required.
+REV-01397,POL-0143,EMP-0031,3/27/23,Approved,Formatting changes only.
+REV-01398,POL-0227,EMP-0032,3/28/23,Approved,Update section 3.
+REV-01399,POL-0021,EMP-0032,3/29/23,Approved,Formatting changes only.
+REV-01400,POL-0126,EMP-0031,3/31/23,Approved,Minor edits requested.
+REV-01401,POL-0248,EMP-0026,3/31/23,Approved,Formatting changes only.
+REV-01402,POL-0162,EMP-0025,4/3/23,Approved,No Changes Required.
+REV-01403,POL-0246,EMP-0011,4/3/23,Approved,Update section 3.
+REV-01404,POL-0029,EMP-0032,4/4/23,Approved,Please verify citation.
+REV-01405,POL-0025,EMP-0025,4/10/23,Approved,Formatting changes only.
+REV-01406,POL-0224,EMP-0031,4/12/23,Approved,Minor edits requested.
+REV-01407,POL-0043,EMP-0025,4/12/23,Approved,Formatting changes only.
+REV-01408,POL-0222,EMP-0028,4/13/23,Approved,No Changes Required.
+REV-01409,POL-0165,EMP-0027,4/14/23,Approved,No Changes Required.
+REV-01410,POL-0006,EMP-0028,4/18/23,Approved,Please verify citation.
+REV-01411,POL-0257,EMP-0030,4/18/23,Approved,No Changes Required.
+REV-01412,POL-0236,EMP-0025,4/18/23,Approved,Looks good.
+REV-01413,POL-0146,EMP-0028,4/19/23,Approved,No Changes Required.
+REV-01414,POL-0041,EMP-0032,4/20/23,Approved,Formatting changes only.
+REV-01415,POL-0210,EMP-0028,4/20/23,Approved,Please verify citation.
+REV-01416,POL-0291,EMP-0029,4/21/23,Approved,Update section 3.
+REV-01417,POL-0156,EMP-0031,4/21/23,Approved,Looks good.
+REV-01418,POL-0058,EMP-0027,4/24/23,Approved,Update section 3.
+REV-01419,POL-0147,EMP-0025,4/24/23,Approved,Formatting changes only.
+REV-01420,POL-0157,EMP-0031,4/25/23,Rejected,Please verify citation.
+REV-01421,POL-0112,EMP-0033,4/26/23,Approved,Minor edits requested.
+REV-01422,POL-0247,EMP-0033,4/27/23,Approved,Minor edits requested.
+REV-01423,POL-0192,EMP-0034,5/1/23,Approved,Update section 3.
+REV-01424,POL-0287,EMP-0025,5/1/23,Approved,Looks good.
+REV-01425,POL-0154,EMP-0031,5/1/23,Rejected,Update section 3.
+REV-01426,POL-0252,EMP-0028,5/2/23,Rejected,Minor edits requested.
+REV-01427,POL-0094,EMP-0032,5/2/23,Approved,Update section 3.
+REV-01428,POL-0010,EMP-0033,5/3/23,Approved,Minor edits requested.
+REV-01429,POL-0116,EMP-0028,5/4/23,Approved,Looks good.
+REV-01430,POL-0264,EMP-0032,5/5/23,Approved,Minor edits requested.
+REV-01431,POL-0023,EMP-0033,5/8/23,Approved,Minor edits requested.
+REV-01432,POL-0288,EMP-0032,5/8/23,Approved,Please verify citation.
+REV-01433,POL-0175,EMP-0033,5/9/23,Approved,Please verify citation.
+REV-01434,POL-0004,EMP-0031,5/9/23,Approved,No Changes Required.
+REV-01435,POL-0188,EMP-0033,5/9/23,Approved,Looks good.
+REV-01436,POL-0260,EMP-0031,5/10/23,Rejected,Minor edits requested.
+REV-01437,POL-0126,EMP-0033,5/10/23,Approved,Minor edits requested.
+REV-01438,POL-0184,EMP-0033,5/11/23,Approved,Please verify citation.
+REV-01439,POL-0214,EMP-0032,5/11/23,Approved,Looks good.
+REV-01440,POL-0153,EMP-0033,5/17/23,Approved,Update section 3.
+REV-01441,POL-0246,EMP-0011,5/17/23,Approved,Formatting changes only.
+REV-01442,POL-0279,EMP-0011,5/18/23,Approved,Formatting changes only.
+REV-01443,POL-0272,EMP-0034,5/19/23,Approved,Formatting changes only.
+REV-01444,POL-0002,EMP-0030,5/22/23,Approved,No Changes Required.
+REV-01445,POL-0299,EMP-0030,5/24/23,Approved,Update section 3.
+REV-01446,POL-0142,EMP-0033,5/25/23,Approved,Looks good.
+REV-01447,POL-0181,EMP-0026,5/30/23,Approved,No Changes Required.
+REV-01448,POL-0098,EMP-0028,5/30/23,Approved,Minor edits requested.
+REV-01449,POL-0134,EMP-0029,5/30/23,Approved,Minor edits requested.
+REV-01450,POL-0176,EMP-0026,5/30/23,Approved,Looks good.
+REV-01451,POL-0036,EMP-0032,5/30/23,Approved,Formatting changes only.
+REV-01452,POL-0220,EMP-0030,5/31/23,Approved,No Changes Required.
+REV-01453,POL-0156,EMP-0031,6/2/23,Rejected,Please verify citation.
+REV-01454,POL-0133,EMP-0027,6/2/23,Approved,Looks good.
+REV-01455,POL-0063,EMP-0029,6/5/23,Approved,Update section 3.
+REV-01456,POL-0188,EMP-0011,6/5/23,Approved,Minor edits requested.
+REV-01457,POL-0141,EMP-0030,6/6/23,Rejected,Please verify citation.
+REV-01458,POL-0265,EMP-0033,6/8/23,Approved,Update section 3.
+REV-01459,POL-0232,EMP-0028,6/12/23,Approved,Update section 3.
+REV-01460,POL-0245,EMP-0034,6/12/23,Rejected,Formatting changes only.
+REV-01461,POL-0141,EMP-0011,6/12/23,Approved,Update section 3.
+REV-01462,POL-0085,EMP-0033,6/12/23,Approved,Update section 3.
+REV-01463,POL-0196,EMP-0032,6/12/23,Approved,Please verify citation.
+REV-01464,POL-0228,EMP-0031,6/12/23,Rejected,Please verify citation.
+REV-01465,POL-0132,EMP-0027,6/14/23,Rejected,Looks good.
+REV-01466,POL-0209,EMP-0030,6/15/23,Approved,Update section 3.
+REV-01467,POL-0039,EMP-0029,6/16/23,Approved,Please verify citation.
+REV-01468,POL-0277,EMP-0025,6/16/23,Approved,Formatting changes only.
+REV-01469,POL-0093,EMP-0030,6/20/23,Approved,Minor edits requested.
+REV-01469,POL-0093,EMP-0034,6/16/23,Approved,Minor edits requested.
+REV-01470,POL-0283,EMP-0026,6/20/23,Approved,Minor edits requested.
+REV-01471,POL-0226,EMP-0030,6/20/23,Approved,Formatting changes only.
+REV-01472,POL-0268,EMP-0026,6/20/23,Approved,Looks good.
+REV-01473,POL-0102,EMP-0028,6/20/23,Approved,Update section 3.
+REV-01474,POL-0087,EMP-0034,6/20/23,Approved,No Changes Required.
+REV-01475,POL-0259,EMP-0031,6/20/23,Approved,Formatting changes only.
+REV-01476,POL-0229,EMP-0028,6/20/23,Approved,Formatting changes only.
+REV-01477,POL-0113,EMP-0029,6/21/23,Approved,Formatting changes only.
+REV-01478,POL-0097,EMP-0029,6/21/23,Approved,Please verify citation.
+REV-01479,POL-0046,EMP-0011,6/21/23,Approved,No Changes Required.
+REV-01480,POL-0045,EMP-0030,6/22/23,Approved,Minor edits requested.
+REV-01481,POL-0067,EMP-0025,6/23/23,Approved,Update section 4.
+REV-01482,POL-0046,EMP-0026,6/26/23,Approved,Formatting changes only.
+REV-01483,POL-0278,EMP-0033,6/27/23,Approved,Looks good.
+REV-01483,POL-0278,EMP-0026,6/26/23,Approved,Looks good.
+REV-01484,POL-0207,EMP-0026,6/30/23,Rejected,Minor edits requested.
+REV-01485,POL-0162,EMP-0025,7/3/23,Approved,Please verify citation.
+REV-01486,POL-0086,EMP-0032,7/3/23,Rejected,No Changes Required.
+REV-01487,POL-0022,EMP-0034,7/5/23,Approved,Formatting changes only.
+REV-01488,POL-0004,EMP-0032,7/5/23,Approved,Minor edits requested.
+REV-01489,POL-0208,EMP-0030,7/5/23,Rejected,Minor edits requested.
+REV-01490,POL-0129,EMP-0028,7/5/23,Approved,Minor edits requested.
+REV-01491,POL-0118,EMP-0026,7/5/23,Approved,Formatting changes only.
+REV-01492,POL-0274,EMP-0029,7/6/23,Approved,Update section 3.
+REV-01493,POL-0052,EMP-0028,7/10/23,Approved,Formatting changes only.
+REV-01494,POL-0216,EMP-0029,7/10/23,Approved,No Changes Required.
+REV-01495,POL-0054,EMP-0030,7/11/23,Approved,Update section 3.
+REV-01496,POL-0040,EMP-0030,7/12/23,Approved,Please verify citation.
+REV-01497,POL-0125,EMP-0031,7/12/23,Approved,Update section 3.
+REV-01497,POL-0125,EMP-0028,7/12/23,Approved,Update section 3.
+REV-01498,POL-0077,EMP-0031,7/17/23,Approved,Looks good.
+REV-01499,POL-0218,EMP-0030,7/17/23,Approved,Update section 3.
+REV-01500,POL-0174,EMP-0029,7/19/23,Approved,No Changes Required.
+REV-01501,POL-0140,EMP-0029,7/21/23,Approved,Minor edits requested.
+REV-01502,POL-0102,EMP-0034,7/21/23,Approved,Update section 3.
+REV-01503,POL-0092,EMP-0031,7/21/23,Approved,Minor edits requested.
+REV-01504,POL-0163,EMP-0032,7/24/23,Approved,Formatting changes only.
+REV-01505,POL-0156,EMP-0032,7/25/23,Approved,Please verify citation.
+REV-01506,POL-0277,EMP-0030,7/26/23,Approved,Formatting changes only.
+REV-01507,POL-0034,EMP-0031,7/27/23,Approved,No Changes Required.
+REV-01508,POL-0012,EMP-0029,7/31/23,Approved,Looks good.
+REV-01509,POL-0142,EMP-0031,8/2/23,Approved,Update section 3.
+REV-01510,POL-0229,EMP-0032,8/4/23,Approved,Formatting changes only.
+REV-01511,POL-0021,EMP-0033,8/7/23,Rejected,Formatting changes only.
+REV-01512,POL-0141,EMP-0034,8/7/23,Approved,Looks good.
+REV-01513,POL-0279,EMP-0032,8/8/23,Approved,No Changes Required.
+REV-01514,POL-0077,EMP-0027,8/14/23,Approved,Please verify citation.
+REV-01515,POL-0061,EMP-0027,8/15/23,Approved,Formatting changes only.
+REV-01516,POL-0270,EMP-0030,8/16/23,Approved,Please verify citation.
+REV-01517,POL-0019,EMP-0030,8/16/23,Approved,Minor edits requested.
+REV-01518,POL-0075,EMP-0033,8/16/23,Approved,Update section 3.
+REV-01519,POL-0148,EMP-0032,8/17/23,Rejected,Please verify citation.
+REV-01520,POL-0040,EMP-0033,8/17/23,Approved,No Changes Required.
+REV-01521,POL-0065,EMP-0030,8/18/23,Approved,Formatting changes only.
+REV-01522,POL-0293,EMP-0029,8/21/23,Approved,Minor edits requested.
+REV-01523,POL-0044,EMP-0034,8/21/23,Approved,Minor edits requested.
+REV-01524,POL-0203,EMP-0033,8/21/23,Approved,Minor edits requested.
+REV-01525,POL-0272,EMP-0030,8/21/23,Approved,Formatting changes only.
+REV-01526,POL-0139,EMP-0033,8/21/23,Approved,Looks good.
+REV-01527,POL-0207,EMP-0034,8/23/23,Approved,Looks good.
+REV-01528,POL-0046,EMP-0032,8/24/23,Approved,Please verify citation.
+REV-01529,POL-0165,EMP-0026,8/24/23,Approved,Please verify citation.
+REV-01530,POL-0298,EMP-0011,8/25/23,Approved,Looks good.
+REV-01531,POL-0009,EMP-0025,8/25/23,Approved,No Changes Required.
+REV-01532,POL-0060,EMP-0029,8/25/23,Approved,Formatting changes only.
+REV-01533,POL-0166,EMP-0028,8/28/23,Approved,No Changes Required.
+REV-01534,POL-0149,EMP-0028,8/28/23,Approved,Minor edits requested.
+REV-01535,POL-0224,EMP-0011,8/28/23,Approved,Update section 3.
+REV-01536,POL-0032,EMP-0028,8/28/23,Approved,Looks good.
+REV-01537,POL-0283,EMP-0028,8/28/23,Approved,Update section 4.
+REV-01538,POL-0056,EMP-0032,8/28/23,Approved,Minor edits requested.
+REV-01539,POL-0293,EMP-0034,8/28/23,Approved,Formatting changes only.
+REV-01540,POL-0063,EMP-0025,8/28/23,Approved,No Changes Required.
+REV-01541,POL-0130,EMP-0026,8/28/23,Rejected,Please verify citation.
+REV-01542,POL-0209,EMP-0031,8/30/23,Approved,Update section 3.
+REV-01543,POL-0288,EMP-0030,8/31/23,Approved,Update section 3.
+REV-01544,POL-0017,EMP-0034,9/1/23,Approved,Formatting changes only.
+REV-01545,POL-0025,EMP-0033,9/5/23,Rejected,Update section 3.
+REV-01546,POL-0057,EMP-0028,9/5/23,Approved,Formatting changes only.
+REV-01547,POL-0291,EMP-0028,9/5/23,Approved,No Changes Required.
+REV-01548,POL-0064,EMP-0031,9/5/23,Approved,No Changes Required.
+REV-01549,POL-0128,EMP-0029,9/5/23,Approved,Please verify citation.
+REV-01550,POL-0036,EMP-0031,9/5/23,Approved,Please verify citation.
+REV-01551,POL-0008,EMP-0033,9/5/23,Approved,No Changes Required.
+REV-01552,POL-0069,EMP-0029,9/5/23,Approved,Minor edits requested.
+REV-01553,POL-0139,EMP-0011,9/5/23,Rejected,Minor edits requested.
+REV-01554,POL-0218,EMP-0025,9/7/23,Approved,Looks good.
+REV-01555,POL-0088,EMP-0034,9/8/23,Approved,Please verify citation.
+REV-01556,POL-0095,EMP-0029,9/8/23,Rejected,Looks good.
+REV-01557,POL-0087,EMP-0033,9/11/23,Approved,Update section 3.
+REV-01558,POL-0045,EMP-0032,9/11/23,Approved,No Changes Required.
+REV-01559,POL-0218,EMP-0027,9/11/23,Approved,Formatting changes only.
+REV-01560,POL-0184,EMP-0029,9/11/23,Approved,Update section 3.
+REV-01561,POL-0137,EMP-0030,9/11/23,Approved,Update section 3.
+REV-01562,POL-0147,EMP-0029,9/13/23,Approved,Update section 3.
+REV-01563,POL-0241,EMP-0028,9/15/23,Approved,No Changes Required.
+REV-01564,POL-0135,EMP-0032,9/18/23,Approved,Formatting changes only.
+REV-01565,POL-0205,EMP-0030,9/18/23,Approved,No Changes Required.
+REV-01566,POL-0177,EMP-0029,9/20/23,Approved,Formatting changes only.
+REV-01567,POL-0224,EMP-0027,9/22/23,Approved,Please verify citation.
+REV-01568,POL-0165,EMP-0030,9/22/23,Approved,Please verify citation.
+REV-01569,POL-0013,EMP-0026,9/22/23,Rejected,Please verify citation.
+REV-01570,POL-0181,EMP-0025,9/25/23,Approved,Looks good.
+REV-01571,POL-0176,EMP-0027,9/25/23,Approved,Formatting changes only.
+REV-01572,POL-0033,EMP-0028,9/25/23,Approved,Looks good.
+REV-01573,POL-0121,EMP-0026,9/25/23,Approved,Update section 3.
+REV-01574,POL-0158,EMP-0028,9/26/23,Approved,Formatting changes only.
+REV-01575,POL-0171,EMP-0027,9/28/23,Rejected,Formatting changes only.
+REV-01576,POL-0055,EMP-0026,9/28/23,Approved,Looks good.
+REV-01577,POL-0052,EMP-0027,10/2/23,Approved,Please verify citation.
+REV-01578,POL-0170,EMP-0026,10/2/23,Rejected,Update section 3.
+REV-01579,POL-0264,EMP-0031,10/3/23,Rejected,Please verify citation.
+REV-01580,POL-0062,EMP-0032,10/4/23,Approved,Update section 3.
+REV-01581,POL-0068,EMP-0032,10/5/23,Approved,Please verify citation.
+REV-01582,POL-0251,EMP-0031,10/5/23,Approved,Update section 3.
+REV-01583,POL-0079,EMP-0032,10/6/23,Approved,Please verify citation.
+REV-01584,POL-0265,EMP-0034,10/10/23,Approved,Please verify citation.
+REV-01585,POL-0156,EMP-0030,10/10/23,Approved,Formatting changes only.
+REV-01586,POL-0271,EMP-0031,10/10/23,Approved,No Changes Required.
+REV-01587,POL-0262,EMP-0026,10/10/23,Approved,No Changes Required.
+REV-01588,POL-0089,EMP-0033,10/10/23,Approved,Looks good.
+REV-01589,POL-0062,EMP-0029,10/10/23,Approved,Please verify citation.
+REV-01590,POL-0258,EMP-0033,10/10/23,Approved,No Changes Required.
+REV-01591,POL-0205,EMP-0011,10/10/23,Rejected,No Changes Required.
+REV-01592,POL-0156,EMP-0026,10/10/23,Approved,Formatting changes only.
+REV-01593,POL-0274,EMP-0034,10/10/23,Approved,Formatting changes only.
+REV-01594,POL-0175,EMP-0025,10/10/23,Approved,No Changes Required.
+REV-01595,POL-0055,EMP-0031,10/11/23,Approved,No Changes Required.
+REV-01596,POL-0023,EMP-0025,10/13/23,Rejected,Minor edits requested.
+REV-01597,POL-0242,EMP-0034,10/16/23,Approved,Update section 3.
+REV-01598,POL-0157,EMP-0011,10/16/23,Approved,Minor edits requested.
+REV-01599,POL-0026,EMP-0026,10/16/23,Rejected,No Changes Required.
+REV-01600,POL-0222,EMP-0028,10/17/23,Approved,Please verify citation.
+REV-01601,POL-0240,EMP-0025,10/18/23,Approved,Looks good.
+REV-01602,POL-0245,EMP-0011,10/18/23,Approved,No Changes Required.
+REV-01603,POL-0022,EMP-0027,10/19/23,Approved,Formatting changes only.
+REV-01604,POL-0005,EMP-0034,10/19/23,Rejected,Update section 3.
+REV-01605,POL-0016,EMP-0026,10/19/23,Approved,Please verify citation.
+REV-01606,POL-0258,EMP-0026,10/20/23,Approved,Please verify citation.
+REV-01607,POL-0150,EMP-0033,10/23/23,Approved,Please verify citation.
+REV-01608,POL-0254,EMP-0027,10/23/23,Approved,Formatting changes only.
+REV-01609,POL-0191,EMP-0029,10/25/23,Approved,Looks good.
+REV-01610,POL-0152,EMP-0028,10/25/23,Approved,Looks good.
+REV-01611,POL-0125,EMP-0034,10/26/23,Rejected,Update section 5.
+REV-01612,POL-0050,EMP-0025,10/27/23,Approved,No Changes Required.
+REV-01613,POL-0064,EMP-0027,10/27/23,Approved,Update section 3.
+REV-01614,POL-0021,EMP-0028,10/27/23,Approved,Minor edits requested.
+REV-01615,POL-0034,EMP-0011,10/30/23,Approved,Formatting changes only.
+REV-01616,POL-0255,EMP-0027,10/30/23,Approved,Formatting changes only.
+REV-01617,POL-0038,EMP-0011,10/30/23,Approved,Minor edits requested.
+REV-01618,POL-0035,EMP-0028,10/30/23,Approved,Minor edits requested.
+REV-01619,POL-0295,EMP-0029,10/31/23,Approved,Minor edits requested.
+REV-01620,POL-0225,EMP-0025,10/31/23,Rejected,Formatting changes only.
+REV-01621,POL-0227,EMP-0031,10/31/23,Approved,Update section 3.
+REV-01622,POL-0065,EMP-0033,11/3/23,Approved,Looks good.
+REV-01623,POL-0112,EMP-0011,11/3/23,Approved,Formatting changes only.
+REV-01624,POL-0073,EMP-0027,11/7/23,Approved,No Changes Required.
+REV-01625,POL-0274,EMP-0028,11/7/23,Approved,Looks good.
+REV-01626,POL-0099,EMP-0029,11/7/23,Approved,Minor edits requested.
+REV-01627,POL-0045,EMP-0031,11/13/23,Approved,Formatting changes only.
+REV-01628,POL-0041,EMP-0032,11/13/23,Approved,Minor edits requested.
+REV-01629,POL-0232,EMP-0027,11/13/23,Approved,Please verify citation.
+REV-01630,POL-0230,EMP-0011,11/13/23,Approved,Please verify citation.
+REV-01631,POL-0260,EMP-0032,11/14/23,Rejected,No Changes Required.
+REV-01632,POL-0096,EMP-0030,11/14/23,Approved,No Changes Required.
+REV-01633,POL-0020,EMP-0032,11/20/23,Approved,Formatting changes only.
+REV-01634,POL-0282,EMP-0029,11/20/23,Approved,Please verify citation.
+REV-01635,POL-0286,EMP-0031,11/20/23,Approved,Please verify citation.
+REV-01636,POL-0188,EMP-0026,11/20/23,Approved,Formatting changes only.
+REV-01637,POL-0168,EMP-0032,11/22/23,Approved,Minor edits requested.
+REV-01637,POL-0168,EMP-0011,11/22/23,Approved,Minor edits requested.
+REV-01638,POL-0009,EMP-0033,11/24/23,Approved,Update section 3.
+REV-01639,POL-0246,EMP-0033,11/24/23,Approved,Update section 3.
+REV-01640,POL-0054,EMP-0025,11/24/23,Approved,Please verify citation.
+REV-01641,POL-0244,EMP-0032,11/24/23,Approved,No Changes Required.
+REV-01642,POL-0057,EMP-0028,11/24/23,Approved,Looks good.
+REV-01643,POL-0051,EMP-0025,11/27/23,Approved,Please verify citation.
+REV-01644,POL-0060,EMP-0026,11/27/23,Rejected,Please verify citation.
+REV-01645,POL-0134,EMP-0025,11/28/23,Approved,Minor edits requested.
+REV-01646,POL-0143,EMP-0027,11/28/23,Approved,No Changes Required.
+REV-01647,POL-0069,EMP-0025,11/29/23,Approved,Update section 6.
+REV-01648,POL-0089,EMP-0031,11/30/23,Approved,Looks good.
+REV-01649,POL-0136,EMP-0032,12/4/23,Approved,Update section 3.
+REV-01650,POL-0030,EMP-0034,12/6/23,Approved,No Changes Required.
+REV-01651,POL-0011,EMP-0032,12/7/23,Approved,No Changes Required.
+REV-01652,POL-0149,EMP-0026,12/7/23,Approved,Update section 3.
+REV-01653,POL-0079,EMP-0025,12/8/23,Approved,Please verify citation.
+REV-01654,POL-0123,EMP-0030,12/11/23,Approved,Please verify citation.
+REV-01655,POL-0128,EMP-0026,12/11/23,Approved,Looks good.
+REV-01656,POL-0177,EMP-0033,12/11/23,Rejected,Looks good.
+REV-01657,POL-0258,EMP-0032,12/12/23,Rejected,Please verify citation.
+REV-01658,POL-0141,EMP-0029,12/13/23,Approved,Formatting changes only.
+REV-01659,POL-0079,EMP-0033,12/14/23,Approved,Looks good.
+REV-01660,POL-0233,EMP-0030,12/18/23,Approved,No Changes Required.
+REV-01661,POL-0108,EMP-0034,12/18/23,Approved,Please verify citation.
+REV-01662,POL-0286,EMP-0029,12/18/23,Rejected,Looks good.
+REV-01663,POL-0120,EMP-0030,12/18/23,Approved,Please verify citation.
+REV-01664,POL-0130,EMP-0034,12/19/23,Approved,Looks good.
+REV-01665,POL-0210,EMP-0026,12/21/23,Approved,Looks good.
+REV-01666,POL-0055,EMP-0033,12/22/23,Approved,Minor edits requested.
+REV-01667,POL-0159,EMP-0031,12/26/23,Rejected,Update section 3.
+REV-01668,POL-0288,EMP-0031,12/26/23,Approved,No Changes Required.
+REV-01669,POL-0241,EMP-0025,12/26/23,Rejected,No Changes Required.
+REV-01670,POL-0129,EMP-0027,12/27/23,Approved,No Changes Required.
+REV-01671,POL-0140,EMP-0031,12/29/23,Approved,Update section 3.
+REV-01672,POL-0046,EMP-0011,12/29/23,Approved,Please verify citation.
+REV-01673,POL-0281,EMP-0026,1/4/24,Approved,Minor edits requested.
+REV-01674,POL-0198,EMP-0030,1/4/24,Approved,Looks good.
+REV-01675,POL-0016,EMP-0026,1/5/24,Approved,Update section 3.
+REV-01676,POL-0199,EMP-0011,1/8/24,Approved,Formatting changes only.
+REV-01677,POL-0136,EMP-0033,1/8/24,Approved,No Changes Required.
+REV-01678,POL-0225,EMP-0011,1/8/24,Approved,Formatting changes only.
+REV-01679,POL-0116,EMP-0031,1/9/24,Rejected,Looks good.
+REV-01679,POL-0116,EMP-0011,1/8/24,Rejected,Looks good.
+REV-01680,POL-0028,EMP-0034,1/11/24,Approved,Please verify citation.
+REV-01681,POL-0041,EMP-0011,1/12/24,Approved,Update section 3.
+REV-01682,POL-0297,EMP-0033,1/12/24,Approved,Minor edits requested.
+REV-01683,POL-0283,EMP-0028,1/16/24,Approved,Update section 3.
+REV-01683,POL-0283,EMP-0033,1/16/24,Approved,Update section 3.
+REV-01684,POL-0098,EMP-0029,1/16/24,Approved,Update section 3.
+REV-01685,POL-0203,EMP-0033,1/16/24,Approved,Update section 3.
+REV-01686,POL-0091,EMP-0034,1/16/24,Approved,Minor edits requested.
+REV-01687,POL-0237,EMP-0026,1/17/24,Approved,Please verify citation.
+REV-01688,POL-0017,EMP-0031,1/18/24,Approved,No Changes Required.
+REV-01689,POL-0187,EMP-0028,1/18/24,Approved,Minor edits requested.
+REV-01690,POL-0099,EMP-0034,1/22/24,Approved,Update section 7.
+REV-01691,POL-0252,EMP-0031,1/22/24,Approved,Update section 3.
+REV-01692,POL-0205,EMP-0029,1/22/24,Rejected,Update section 3.
+REV-01693,POL-0287,EMP-0011,1/22/24,Approved,Looks good.
+REV-01694,POL-0249,EMP-0033,1/22/24,Approved,Update section 3.
+REV-01695,POL-0243,EMP-0034,1/22/24,Approved,Minor edits requested.
+REV-01696,POL-0041,EMP-0027,1/22/24,Approved,Update section 3.
+REV-01697,POL-0279,EMP-0011,1/24/24,Approved,Minor edits requested.
+REV-01698,POL-0196,EMP-0032,1/25/24,Approved,Looks good.
+REV-01699,POL-0074,EMP-0033,1/29/24,Approved,Update section 3.
+REV-01700,POL-0102,EMP-0011,1/30/24,Approved,Please verify citation.
+REV-01700,POL-0102,EMP-0028,1/29/24,Approved,Please verify citation.
+REV-01701,POL-0139,EMP-0031,1/31/24,Approved,Please verify citation.
+REV-01702,POL-0237,EMP-0034,1/31/24,Rejected,Looks good.
+REV-01703,POL-0036,EMP-0028,2/1/24,Approved,No Changes Required.
+REV-01704,POL-0245,EMP-0011,2/1/24,Approved,Please verify citation.
+REV-01705,POL-0204,EMP-0025,2/2/24,Approved,No Changes Required.
+REV-01706,POL-0143,EMP-0030,2/5/24,Approved,Looks good.
+REV-01707,POL-0035,EMP-0011,2/5/24,Approved,No Changes Required.
+REV-01708,POL-0230,EMP-0011,2/5/24,Approved,Formatting changes only.
+REV-01709,POL-0280,EMP-0027,2/5/24,Approved,Please verify citation.
+REV-01710,POL-0070,EMP-0034,2/5/24,Approved,Please verify citation.
+REV-01711,POL-0098,EMP-0026,2/9/24,Approved,Looks good.
+REV-01712,POL-0226,EMP-0033,2/14/24,Rejected,Please verify citation.
+REV-01713,POL-0121,EMP-0011,2/15/24,Approved,Formatting changes only.
+REV-01714,POL-0136,EMP-0026,2/16/24,Rejected,No Changes Required.
+REV-01715,POL-0147,EMP-0025,2/20/24,Approved,Please verify citation.
+REV-01716,POL-0144,EMP-0011,2/20/24,Rejected,Minor edits requested.
+REV-01717,POL-0258,EMP-0028,2/20/24,Approved,Please verify citation.
+REV-01718,POL-0088,EMP-0029,2/20/24,Approved,Formatting changes only.
+REV-01719,POL-0017,EMP-0033,2/20/24,Approved,No Changes Required.
+REV-01720,POL-0273,EMP-0029,2/20/24,Approved,Looks good.
+REV-01721,POL-0064,EMP-0030,2/21/24,Rejected,Update section 3.
+REV-01722,POL-0179,EMP-0030,2/23/24,Approved,Update section 3.
+REV-01723,POL-0002,EMP-0027,2/23/24,Rejected,No Changes Required.
+REV-01724,POL-0153,EMP-0030,2/26/24,Approved,Looks good.
+REV-01725,POL-0074,EMP-0030,2/26/24,Approved,Looks good.
+REV-01726,POL-0144,EMP-0027,2/26/24,Approved,Minor edits requested.
+REV-01727,POL-0097,EMP-0025,2/27/24,Approved,Minor edits requested.
+REV-01728,POL-0192,EMP-0026,2/29/24,Approved,No Changes Required.
+REV-01729,POL-0291,EMP-0026,3/4/24,Approved,Update section 2.
+REV-01729,POL-0291,EMP-0030,3/1/24,Approved,Update section 8.
+REV-01730,POL-0212,EMP-0029,3/4/24,Approved,Formatting changes only.
+REV-01731,POL-0119,EMP-0025,3/5/24,Approved,No Changes Required.
+REV-01732,POL-0008,EMP-0030,3/6/24,Rejected,Update section 3.
+REV-01733,POL-0174,EMP-0027,3/6/24,Approved,Update section 3.
+REV-01734,POL-0101,EMP-0025,3/6/24,Approved,Please verify citation.
+REV-01735,POL-0221,EMP-0027,3/7/24,Approved,Update section 3.
+REV-01736,POL-0029,EMP-0032,3/11/24,Approved,Looks good.
+REV-01737,POL-0221,EMP-0031,3/11/24,Approved,Please verify citation.
+REV-01738,POL-0018,EMP-0028,3/12/24,Approved,Update section 3.
+REV-01739,POL-0273,EMP-0025,3/13/24,Approved,Minor edits requested.
+REV-01740,POL-0245,EMP-0026,3/13/24,Rejected,Please verify citation.
+REV-01741,POL-0052,EMP-0011,3/18/24,Approved,Update section 9.
+REV-01742,POL-0129,EMP-0034,3/18/24,Approved,No Changes Required.
+REV-01743,POL-0163,EMP-0029,3/18/24,Rejected,Looks good.
+REV-01744,POL-0210,EMP-0011,3/19/24,Approved,Update section 3.
+REV-01745,POL-0271,EMP-0027,3/20/24,Approved,No Changes Required.
+REV-01746,POL-0054,EMP-0027,3/25/24,Approved,Update section 3.
+REV-01747,POL-0091,EMP-0030,3/25/24,Approved,Formatting changes only.
+REV-01748,POL-0125,EMP-0027,3/25/24,Approved,Minor edits requested.
+REV-01749,POL-0014,EMP-0028,3/26/24,Rejected,Please verify citation.
+REV-01750,POL-0083,EMP-0027,3/28/24,Rejected,Update section 3.
+REV-01751,POL-0165,EMP-0025,4/1/24,Approved,Please verify citation.
+REV-01752,POL-0206,EMP-0033,4/1/24,Approved,Minor edits requested.
+REV-01753,POL-0274,EMP-0025,4/1/24,Approved,Looks good.
+REV-01754,POL-0253,EMP-0032,4/1/24,Approved,Formatting changes only.
+REV-01755,POL-0281,EMP-0026,4/2/24,Approved,Minor edits requested.
+REV-01756,POL-0263,EMP-0029,4/4/24,Approved,Update section 3.
+REV-01757,POL-0101,EMP-0026,4/4/24,Approved,No Changes Required.
+REV-01758,POL-0111,EMP-0027,4/5/24,Approved,No Changes Required.
+REV-01759,POL-0067,EMP-0031,4/5/24,Approved,No Changes Required.
+REV-01760,POL-0263,EMP-0026,4/8/24,Approved,No Changes Required.
+REV-01761,POL-0240,EMP-0029,4/9/24,Approved,Looks good.
+REV-01762,POL-0237,EMP-0031,4/10/24,Approved,Minor edits requested.
+REV-01763,POL-0007,EMP-0032,4/15/24,Approved,Please verify citation.
+REV-01764,POL-0265,EMP-0033,4/15/24,Approved,Formatting changes only.
+REV-01765,POL-0254,EMP-0033,4/15/24,Approved,Update section 3.
+REV-01766,POL-0077,EMP-0011,4/15/24,Approved,Minor edits requested.
+REV-01767,POL-0081,EMP-0025,4/15/24,Approved,Looks good.
+REV-01768,POL-0066,EMP-0027,4/17/24,Approved,Minor edits requested.
+REV-01769,POL-0163,EMP-0033,4/18/24,Approved,Please verify citation.
+REV-01770,POL-0149,EMP-0027,4/18/24,Approved,Update section 3.
+REV-01771,POL-0178,EMP-0011,4/18/24,Approved,Formatting changes only.
+REV-01772,POL-0063,EMP-0026,4/19/24,Approved,Looks good.
+REV-01773,POL-0021,EMP-0025,4/22/24,Rejected,Formatting changes only.
+REV-01774,POL-0208,EMP-0026,4/22/24,Approved,Formatting changes only.
+REV-01775,POL-0247,EMP-0031,4/22/24,Approved,No Changes Required.
+REV-01776,POL-0246,EMP-0032,4/22/24,Rejected,Update section 3.
+REV-01777,POL-0113,EMP-0025,4/25/24,Approved,Update section 3.
+REV-01778,POL-0276,EMP-0026,4/29/24,Approved,Update section 3.
+REV-01779,POL-0112,EMP-0028,4/29/24,Approved,Minor edits requested.
+REV-01780,POL-0069,EMP-0032,4/29/24,Approved,Update section 3.
+REV-01781,POL-0201,EMP-0031,4/29/24,Rejected,Update section 3.
+REV-01782,POL-0165,EMP-0011,4/29/24,Rejected,Minor edits requested.
+REV-01783,POL-0108,EMP-0029,4/29/24,Approved,No Changes Required.
+REV-01784,POL-0126,EMP-0034,4/30/24,Approved,Formatting changes only.
+REV-01785,POL-0098,EMP-0034,5/1/24,Approved,Please verify citation.
+REV-01786,POL-0132,EMP-0029,5/1/24,Approved,Minor edits requested.
+REV-01787,POL-0165,EMP-0025,5/2/24,Approved,Minor edits requested.
+REV-01788,POL-0208,EMP-0032,5/3/24,Approved,Formatting changes only.
+REV-01789,POL-0268,EMP-0011,5/6/24,Approved,Please verify citation.
+REV-01790,POL-0056,EMP-0029,5/6/24,Rejected,Minor edits requested.
+REV-01791,POL-0288,EMP-0011,5/9/24,Rejected,Please verify citation.
+REV-01792,POL-0021,EMP-0027,5/14/24,Approved,No Changes Required.
+REV-01793,POL-0101,EMP-0029,5/14/24,Approved,Update section 3.
+REV-01794,POL-0251,EMP-0032,5/20/24,Approved,No Changes Required.
+REV-01795,POL-0029,EMP-0025,5/22/24,Approved,Looks good.
+REV-01796,POL-0159,EMP-0034,5/23/24,Rejected,Looks good.
+REV-01797,POL-0096,EMP-0025,5/24/24,Approved,Please verify citation.
+REV-01798,POL-0263,EMP-0028,5/24/24,Rejected,Please verify citation.
+REV-01799,POL-0017,EMP-0029,5/24/24,Approved,Formatting changes only.
+REV-01800,POL-0166,EMP-0027,5/28/24,Approved,No Changes Required.
+REV-01801,POL-0088,EMP-0029,6/3/24,Approved,Formatting changes only.
+REV-01802,POL-0050,EMP-0030,6/5/24,Approved,Formatting changes only.
+REV-01803,POL-0015,EMP-0033,6/5/24,Approved,Minor edits requested.
+REV-01804,POL-0033,EMP-0029,6/7/24,Approved,No Changes Required.
+REV-01805,POL-0028,EMP-0025,6/10/24,Approved,Update section 3.
+REV-01806,POL-0007,EMP-0030,6/10/24,Approved,Looks good.
+REV-01807,POL-0192,EMP-0028,6/11/24,Approved,No Changes Required.
+REV-01808,POL-0007,EMP-0028,6/11/24,Approved,Minor edits requested.
+REV-01809,POL-0254,EMP-0028,6/17/24,Approved,Minor edits requested.
+REV-01810,POL-0056,EMP-0030,6/18/24,Approved,No Changes Required.
+REV-01811,POL-0001,EMP-0025,6/18/24,Approved,Please verify citation.
+REV-01812,POL-0116,EMP-0032,6/20/24,Rejected,Formatting changes only.
+REV-01813,POL-0058,EMP-0034,6/20/24,Approved,Looks good.
+REV-01814,POL-0018,EMP-0028,6/21/24,Approved,Looks good.
+REV-01814,POL-0018,EMP-0034,6/21/24,Approved,Looks good.
+REV-01815,POL-0207,EMP-0028,6/24/24,Approved,No Changes Required.
+REV-01816,POL-0081,EMP-0030,6/25/24,Approved,No Changes Required.
+REV-01817,POL-0298,EMP-0031,6/26/24,Approved,Please verify citation.
+REV-01818,POL-0264,EMP-0029,6/26/24,Rejected,No Changes Required.
+REV-01819,POL-0006,EMP-0033,6/28/24,Approved,Formatting changes only.
+REV-01820,POL-0107,EMP-0031,7/1/24,Approved,Formatting changes only.
+REV-01821,POL-0277,EMP-0031,7/1/24,Approved,Looks good.
+REV-01822,POL-0038,EMP-0011,7/3/24,Approved,Please verify citation.
+REV-01822,POL-0038,EMP-0027,7/2/24,Approved,Please verify citation.
+REV-01823,POL-0255,EMP-0027,7/3/24,Approved,Formatting changes only.
+REV-01824,POL-0046,EMP-0031,7/5/24,Approved,Update section 3.
+REV-01825,POL-0274,EMP-0034,7/5/24,Approved,Please verify citation.
+REV-01826,POL-0057,EMP-0033,7/5/24,Approved,Update section 3.
+REV-01827,POL-0222,EMP-0034,7/8/24,Approved,Please verify citation.
+REV-01828,POL-0008,EMP-0027,7/9/24,Approved,Minor edits requested.
+REV-01829,POL-0269,EMP-0033,7/9/24,Approved,No Changes Required.
+REV-01830,POL-0038,EMP-0030,7/12/24,Approved,Please verify citation.
+REV-01831,POL-0180,EMP-0027,7/15/24,Approved,Update section 3.
+REV-01832,POL-0196,EMP-0028,7/17/24,Approved,Looks good.
+REV-01833,POL-0295,EMP-0030,7/18/24,Approved,No Changes Required.
+REV-01834,POL-0111,EMP-0029,7/19/24,Approved,Looks good.
+REV-01835,POL-0022,EMP-0011,7/19/24,Approved,No Changes Required.
+REV-01836,POL-0044,EMP-0034,7/22/24,Approved,No Changes Required.
+REV-01837,POL-0218,EMP-0034,7/22/24,Approved,No Changes Required.
+REV-01838,POL-0162,EMP-0031,7/22/24,Approved,No Changes Required.
+REV-01839,POL-0065,EMP-0027,7/23/24,Approved,Update section 3.
+REV-01840,POL-0129,EMP-0031,7/24/24,Approved,Formatting changes only.
+REV-01841,POL-0160,EMP-0033,7/24/24,Rejected,Please verify citation.
+REV-01842,POL-0163,EMP-0033,7/25/24,Approved,No Changes Required.
+REV-01843,POL-0162,EMP-0031,7/26/24,Approved,Minor edits requested.
+REV-01844,POL-0177,EMP-0034,7/29/24,Approved,No Changes Required.
+REV-01845,POL-0253,EMP-0032,7/29/24,Approved,Formatting changes only.
+REV-01846,POL-0264,EMP-0031,7/30/24,Approved,Formatting changes only.
+REV-01847,POL-0292,EMP-0031,7/30/24,Rejected,Formatting changes only.
+REV-01848,POL-0074,EMP-0031,7/30/24,Approved,No Changes Required.
+REV-01849,POL-0085,EMP-0034,7/30/24,Approved,Formatting changes only.
+REV-01850,POL-0113,EMP-0027,8/1/24,Approved,Please verify citation.
+REV-01851,POL-0045,EMP-0034,8/2/24,Approved,Formatting changes only.
+REV-01852,POL-0247,EMP-0028,8/2/24,Approved,Looks good.
+REV-01853,POL-0160,EMP-0029,8/5/24,Approved,No Changes Required.
+REV-01854,POL-0233,EMP-0028,8/5/24,Approved,Looks good.
+REV-01855,POL-0003,EMP-0027,8/7/24,Approved,Update section 1.
+REV-01856,POL-0121,EMP-0034,8/7/24,Approved,Please verify citation.
+REV-01857,POL-0170,EMP-0033,8/7/24,Approved,Looks good.
+REV-01858,POL-0098,EMP-0011,8/7/24,Approved,Formatting changes only.
+REV-01859,POL-0228,EMP-0027,8/8/24,Approved,No Changes Required.
+REV-01860,POL-0172,EMP-0033,8/9/24,Approved,Minor edits requested.
+REV-01861,POL-0167,EMP-0011,8/12/24,Approved,Please verify citation.
+REV-01862,POL-0175,EMP-0029,8/15/24,Rejected,No Changes Required.
+REV-01863,POL-0212,EMP-0025,8/15/24,Approved,Looks good.
+REV-01864,POL-0255,EMP-0030,8/19/24,Approved,Formatting changes only.
+REV-01865,POL-0115,EMP-0031,8/19/24,Approved,Looks good.
+REV-01866,POL-0264,EMP-0030,8/19/24,Approved,Please verify citation.
+REV-01867,POL-0134,EMP-0033,8/20/24,Approved,No Changes Required.
+REV-01868,POL-0194,EMP-0011,8/21/24,Approved,No Changes Required.
+REV-01869,POL-0241,EMP-0029,8/26/24,Approved,No Changes Required.
+REV-01870,POL-0210,EMP-0033,8/26/24,Approved,No Changes Required.
+REV-01871,POL-0249,EMP-0027,8/26/24,Approved,Formatting changes only.
+REV-01872,POL-0277,EMP-0029,8/29/24,Approved,Looks good.
+REV-01873,POL-0030,EMP-0032,8/29/24,Approved,Minor edits requested.
+REV-01874,POL-0271,EMP-0026,8/30/24,Approved,No Changes Required.
+REV-01875,POL-0207,EMP-0029,9/4/24,Approved,Please verify citation.
+REV-01876,POL-0074,EMP-0027,9/5/24,Approved,Looks good.
+REV-01877,POL-0287,EMP-0031,9/5/24,Approved,No Changes Required.
+REV-01878,POL-0299,EMP-0030,9/9/24,Approved,Update section 3.
+REV-01879,POL-0174,EMP-0029,9/9/24,Approved,Looks good.
+REV-01880,POL-0170,EMP-0011,9/9/24,Approved,Please verify citation.
+REV-01881,POL-0187,EMP-0029,9/9/24,Approved,Minor edits requested.
+REV-01882,POL-0133,EMP-0028,9/11/24,Approved,Looks good.
+REV-01883,POL-0241,EMP-0034,9/13/24,Approved,Formatting changes only.
+REV-01884,POL-0078,EMP-0034,9/13/24,Approved,No Changes Required.
+REV-01885,POL-0012,EMP-0011,9/16/24,Approved,Looks good.
+REV-01886,POL-0177,EMP-0032,9/16/24,Rejected,Looks good.
+REV-01887,POL-0177,EMP-0029,9/16/24,Approved,Update section 1.
+REV-01888,POL-0099,EMP-0030,9/16/24,Approved,Minor edits requested.
+REV-01889,POL-0026,EMP-0030,9/19/24,Approved,Update section 3.
+REV-01890,POL-0192,EMP-0034,9/19/24,Approved,Please verify citation.
+REV-01891,POL-0296,EMP-0031,9/20/24,Approved,No Changes Required.
+REV-01892,POL-0119,EMP-0031,9/23/24,Approved,Looks good.
+REV-01893,POL-0184,EMP-0025,9/23/24,Approved,Update section 1.
+REV-01894,POL-0271,EMP-0034,9/23/24,Rejected,Update section 1.
+REV-01895,POL-0249,EMP-0030,9/23/24,Approved,Please verify citation.
+REV-01896,POL-0104,EMP-0034,9/23/24,Approved,Looks good.
+REV-01897,POL-0169,EMP-0031,9/24/24,Approved,Update section 1.
+REV-01898,POL-0238,EMP-0026,9/24/24,Approved,Update section 2.
+REV-01899,POL-0167,EMP-0034,9/24/24,Approved,Looks good.
+REV-01900,POL-0102,EMP-0030,9/25/24,Approved,Update section 2.
+REV-01901,POL-0077,EMP-0034,9/26/24,Rejected,Update section 3.
+REV-01902,POL-0005,EMP-0031,9/26/24,Approved,Looks good.
+REV-01903,POL-0291,EMP-0026,9/27/24,Rejected,Update section 3.
+REV-01904,POL-0249,EMP-0034,9/30/24,Approved,Minor edits requested.
+REV-01905,POL-0057,EMP-0034,9/30/24,Approved,Formatting changes only.
+REV-01906,POL-0145,EMP-0025,10/1/24,Approved,Minor edits requested.
+REV-01907,POL-0075,EMP-0026,10/1/24,Approved,Minor edits requested.
+REV-01908,POL-0151,EMP-0027,10/3/24,Rejected,Formatting changes only.
+REV-01909,POL-0284,EMP-0033,10/4/24,Approved,Looks good.
+REV-01910,POL-0141,EMP-0028,10/7/24,Approved,Update section 3.
+REV-01911,POL-0067,EMP-0026,10/7/24,Approved,Minor edits requested.
+REV-01912,POL-0119,EMP-0033,10/7/24,Approved,Please verify citation.
+REV-01913,POL-0024,EMP-0033,10/7/24,Approved,Please verify citation.
+REV-01914,POL-0031,EMP-0011,10/10/24,Approved,Please verify citation.
+REV-01915,POL-0050,EMP-0011,10/10/24,Approved,Update section 3.
+REV-01916,POL-0100,EMP-0034,10/11/24,Rejected,Looks good.
+REV-01917,POL-0246,EMP-0028,10/15/24,Approved,Update section 4.
+REV-01918,POL-0232,EMP-0028,10/15/24,Approved,Formatting changes only.
+REV-01919,POL-0133,EMP-0027,10/15/24,Approved,Minor edits requested.
+REV-01920,POL-0063,EMP-0028,10/15/24,Approved,Looks good.
+REV-01921,POL-0244,EMP-0030,10/15/24,Approved,Update section 4.
+REV-01922,POL-0282,EMP-0011,10/16/24,Approved,Update section 5.
+REV-01923,POL-0259,EMP-0025,10/16/24,Approved,Update section 6.
+REV-01924,POL-0044,EMP-0032,10/17/24,Approved,Update section 3.
+REV-01925,POL-0025,EMP-0031,10/17/24,Approved,Update section 3.
+REV-01926,POL-0202,EMP-0032,10/18/24,Approved,Update section 7.
+REV-01927,POL-0051,EMP-0032,10/21/24,Approved,Formatting changes only.
+REV-01927,POL-0051,EMP-0025,10/21/24,Approved,Formatting changes only.
+REV-01928,POL-0035,EMP-0030,10/21/24,Approved,Looks good.
+REV-01929,POL-0006,EMP-0031,10/21/24,Approved,Looks good.
+REV-01930,POL-0183,EMP-0031,10/22/24,Approved,Update section 3.
+REV-01931,POL-0273,EMP-0033,10/23/24,Approved,Formatting changes only.
+REV-01932,POL-0113,EMP-0034,10/23/24,Approved,Formatting changes only.
+REV-01933,POL-0002,EMP-0029,10/25/24,Approved,Update section 3.
+REV-01934,POL-0095,EMP-0011,10/25/24,Rejected,Looks good.
+REV-01935,POL-0231,EMP-0026,10/28/24,Approved,Update section 3.
+REV-01936,POL-0114,EMP-0027,10/28/24,Approved,Update section 8.
+REV-01937,POL-0125,EMP-0032,10/28/24,Approved,Please verify citation.
+REV-01938,POL-0229,EMP-0031,10/28/24,Approved,Update section 9.
+REV-01939,POL-0287,EMP-0011,10/28/24,Approved,Update section 1.
+REV-01940,POL-0179,EMP-0034,10/29/24,Rejected,Update section 1.
+REV-01941,POL-0224,EMP-0032,10/29/24,Approved,Please verify citation.
+REV-01942,POL-0286,EMP-0026,10/31/24,Approved,Update section 2.
+REV-01943,POL-0006,EMP-0026,10/31/24,Approved,Update section 3.
+REV-01944,POL-0196,EMP-0011,10/31/24,Approved,Minor edits requested.
+REV-01945,POL-0144,EMP-0026,11/1/24,Approved,Please verify citation.
+REV-01946,POL-0234,EMP-0032,11/1/24,Approved,Formatting changes only.
+REV-01947,POL-0258,EMP-0030,11/4/24,Rejected,Minor edits requested.
+REV-01948,POL-0240,EMP-0030,11/4/24,Approved,Update section 2.
+REV-01949,POL-0193,EMP-0025,11/4/24,Approved,Formatting changes only.
+REV-01950,POL-0099,EMP-0025,11/5/24,Approved,Minor edits requested.
+REV-01951,POL-0046,EMP-0011,11/6/24,Approved,Please verify citation.
+REV-01952,POL-0052,EMP-0032,11/12/24,Rejected,Update section 4.
+REV-01953,POL-0190,EMP-0031,11/12/24,Approved,Minor edits requested.
+REV-01954,POL-0002,EMP-0033,11/13/24,Rejected,Please verify citation.
+REV-01955,POL-0267,EMP-0032,11/18/24,Rejected,Update section 3.
+REV-01956,POL-0210,EMP-0033,11/18/24,Approved,Please verify citation.
+REV-01957,POL-0131,EMP-0034,11/18/24,Approved,Please verify citation.
+REV-01958,POL-0055,EMP-0026,11/18/24,Approved,Formatting changes only.
+REV-01959,POL-0199,EMP-0029,11/19/24,Rejected,Update section 3.
+REV-01960,POL-0254,EMP-0025,11/20/24,Approved,Update section 3.
+REV-01961,POL-0105,EMP-0034,11/25/24,Approved,Update section 6.
+REV-01961,POL-0105,EMP-0011,11/21/24,Approved,Update section 4.
+REV-01962,POL-0078,EMP-0029,11/29/24,Approved,Update section 5.
+REV-01963,POL-0130,EMP-0026,11/29/24,Approved,Update section 3.
+REV-01964,POL-0091,EMP-0032,11/29/24,Rejected,Please verify citation.
+REV-01965,POL-0158,EMP-0011,12/2/24,Approved,Update section 3.
+REV-01966,POL-0113,EMP-0028,12/2/24,Approved,Update section 3.
+REV-01967,POL-0213,EMP-0034,12/2/24,Approved,Update section 3.
+REV-01968,POL-0140,EMP-0027,12/3/24,Approved,Looks good.
+REV-01969,POL-0281,EMP-0011,12/4/24,Approved,Looks good.
+REV-01970,POL-0290,EMP-0034,12/5/24,Approved,Minor edits requested.
+REV-01971,POL-0222,EMP-0011,12/9/24,Rejected,Minor edits requested.
+REV-01972,POL-0049,EMP-0026,12/9/24,Approved,Please verify citation.
+REV-01973,POL-0200,EMP-0011,12/9/24,Approved,Update section 3.
+REV-01974,POL-0188,EMP-0025,12/12/24,Approved,Please verify citation.
+REV-01975,POL-0168,EMP-0031,12/12/24,Approved,Looks good.
+REV-01976,POL-0010,EMP-0034,12/16/24,Rejected,Update section 3.
+REV-01977,POL-0134,EMP-0032,12/16/24,Approved,Update section 1.
+REV-01978,POL-0271,EMP-0027,12/16/24,Approved,Minor edits requested.
+REV-01978,POL-0271,EMP-0026,12/16/24,Approved,Minor edits requested.
+REV-01979,POL-0167,EMP-0029,12/17/24,Approved,Please verify citation.
+REV-01980,POL-0136,EMP-0028,12/17/24,Approved,Minor edits requested.
+REV-01981,POL-0231,EMP-0033,12/18/24,Approved,Formatting changes only.
+REV-01982,POL-0266,EMP-0034,12/18/24,Approved,Looks good.
+REV-01983,POL-0144,EMP-0034,12/23/24,Rejected,Minor edits requested.
+REV-01984,POL-0275,EMP-0026,12/23/24,Approved,Minor edits requested.
+REV-01985,POL-0024,EMP-0031,12/23/24,Rejected,Looks good.
+REV-01986,POL-0242,EMP-0029,12/23/24,Approved,Minor edits requested.
+REV-01987,POL-0268,EMP-0026,12/23/24,Approved,Minor edits requested.
+REV-01988,POL-0127,EMP-0030,12/23/24,Approved,Looks good.
+REV-01989,POL-0056,EMP-0033,12/24/24,Approved,Update section 1.
+REV-01990,POL-0169,EMP-0029,12/24/24,Approved,Update section 3.
+REV-01991,POL-0222,EMP-0027,12/24/24,Approved,Minor edits requested.
+REV-01992,POL-0202,EMP-0027,12/26/24,Approved,Formatting changes only.
+REV-01993,POL-0025,EMP-0011,12/26/24,Approved,Update section 1.
+REV-01994,POL-0239,EMP-0031,12/30/24,Approved,Minor edits requested.
+REV-01995,POL-0137,EMP-0025,12/30/24,Approved,Formatting changes only.
+REV-01996,POL-0200,EMP-0026,12/30/24,Rejected,Update section 2.
+REV-01997,POL-0103,EMP-0028,12/30/24,Approved,Update section 2.
+REV-01998,POL-0185,EMP-0032,12/30/24,Approved,Please verify citation.
+REV-01999,POL-0057,EMP-0011,12/31/24,Approved,Update section 4.
+REV-02000,POL-0074,EMP-0032,12/31/24,Approved,Looks good.
+,,,1/2/00,,
+,,,1/2/00,,
+,,,1/2/00,,
+,,,1/2/00,,
+,,,1/2/00,,
+,,,1/2/00,,
+,,,1/2/00,,

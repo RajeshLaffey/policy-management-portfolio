@@ -1,0 +1,64 @@
+EmployeeID,DepartmentID,FullName,FirstName,LastName,Role,Email,ActiveFlag
+EMP-0011,DEP-001,Nina Khan,Nina,Khan,Compliance Supervisor,nina.khan@******.***,Y
+EMP-0025,DEP-001,Dev Young,Dev,Young,Senior Compliance Analyst,dev.young@******.***,Y
+EMP-0026,DEP-001,Avery Iyer,Avery,Iyer,Senior Compliance Analyst,avery.iyer@******.***,Y
+EMP-0027,DEP-001,Asha Nguyen,Asha,Nguyen,Compliance Analyst,asha.nguyen@******.***,Y
+EMP-0028,DEP-001,Emerson Campbell,Emerson,Campbell,Compliance Analyst,emerson.campbell@******.***,Y
+EMP-0029,DEP-001,Aidan Allen,Aidan,Allen,Compliance Analyst,aidan.allen@******.***,Y
+EMP-0030,DEP-001,Drew Parker,Drew,Parker,Compliance Analyst,drew.parker@******.***,N
+EMP-0031,DEP-001,Pablo Garcia,Pablo,Garcia,Compliance Analyst,pablo.garcia@******.***,Y
+EMP-0032,DEP-001,Kendall Ramirez,Kendall,Ramirez,Compliance Analyst,kendall.ramirez@******.***,Y
+EMP-0033,DEP-001,Emerson Nguyen,Emerson,Nguyen,Junior Compliance Analyst,emerson.nguyen@******.***,Y
+EMP-0034,DEP-001,Kendall Shah,Kendall,Shah,Junior Compliance Analyst,kendall.shah@******.***,Y
+EMP-0012,DEP-002,Aman Allen,Aman,Allen,HR Operations Supervisor,aman.allen@******.***,Y
+EMP-0013,DEP-003,Dakota Perry,Dakota,Perry,Accounting Supervisor,dakota.perry@******.***,Y
+EMP-0040,DEP-003,Jamie Davis,Jamie,Davis,Senior Analyst,jamie.davis@******.***,Y
+EMP-0045,DEP-003,Riley Ramirez,Riley,Ramirez,Policy Analyst,riley.ramirez@******.***,Y
+EMP-0048,DEP-003,Alex Turner,Alex,Turner,Policy Reviewer,alex.turner@******.***,Y
+EMP-0014,DEP-004,Alex Ramirez,Alex,Ramirez,Treasury Supervisor,alex.ramirez@******.***,Y
+EMP-0037,DEP-004,Morgan King,Morgan,King,Policy Reviewer,morgan.king@******.***,Y
+EMP-0042,DEP-004,Dev Lopez,Dev,Lopez,Senior Analyst,dev.lopez@******.***,Y
+EMP-0015,DEP-005,Cameron Parker,Cameron,Parker,IT Infrastructure Supervisor,cameron.parker@******.***,Y
+EMP-0036,DEP-005,Cameron Martinez,Cameron,Martinez,Senior Analyst,cameron.martinez@******.***,Y
+EMP-0039,DEP-005,Henry Robinson,Henry,Robinson,Policy Analyst,henry.robinson@******.***,Y
+EMP-0016,DEP-006,Sam Lee,Sam,Lee,IT Security Supervisor,sam.lee@******.***,Y
+EMP-0038,DEP-006,Cameron Hernandez,Cameron,Hernandez,Senior Analyst,cameron.hernandez@******.***,Y
+EMP-0017,DEP-007,Dakota Lopez,Dakota,Lopez,Legal Affairs Supervisor,dakota.lopez@******.***,Y
+EMP-0018,DEP-008,Rowan Ramirez,Rowan,Ramirez,Member Services Supervisor,rowan.ramirez@******.***,Y
+EMP-0043,DEP-008,Sawyer Collins,Sawyer,Collins,Policy Reviewer,sawyer.collins@******.***,N
+EMP-0046,DEP-008,Cameron Perry,Cameron,Perry,Policy Reviewer,cameron.perry@******.***,Y
+EMP-0049,DEP-008,Kris Chen,Kris,Chen,Senior Analyst,kris.chen@******.***,N
+EMP-0019,DEP-009,Kris Chen,Kris,Chen,Employer Services Supervisor,kris.chen@******.***,Y
+EMP-0035,DEP-009,Hayden Davis,Hayden,Davis,Senior Analyst,hayden.davis@******.***,Y
+EMP-0041,DEP-009,Jamie Johnson,Jamie,Johnson,Policy Reviewer,jamie.johnson@******.***,N
+EMP-0047,DEP-009,Asha Davis,Asha,Davis,Policy Reviewer,asha.davis@******.***,Y
+EMP-0053,DEP-009,Alex King,Alex,King,Senior Analyst,alex.king@******.***,Y
+EMP-0020,DEP-010,Riley Davis,Riley,Davis,Investment Operations Supervisor,riley.davis@******.***, Y 
+EMP-0044,DEP-010,Aidan Khan,Aidan,Khan,Policy Analyst,aidan.khan@******.***,N
+EMP-0021,DEP-011,Hayden Martinez,Hayden,Martinez,Risk Management Supervisor,hayden.martinez@******.***,Y
+EMP-0022,DEP-012,Jesse King,Jesse,King,Procurement Supervisor,jesse.king@******.***, Y 
+EMP-0051,DEP-012,Peyton Walker,Peyton,Walker,Policy Analyst,peyton.walker@******.***,Y
+EMP-0023,DEP-013,Sawyer Perry,Sawyer,Perry,Facilities Supervisor,sawyer.perry@******.***,Y
+EMP-0050,DEP-013,Dev Patel,Dev,Patel,Policy Reviewer,dev.patel@******.***,Y
+EMP-0024,DEP-014,Taylor Collins,Taylor,Collins,Communications Supervisor,taylor.collins@******.***,Y
+EMP-0052,DEP-014,Drew Lopez,Drew,Lopez,Senior Analyst,drew.lopez@******.***,Y
+EMP-0054,DEP-014,Avery Iyer,Avery,Iyer,Senior Analyst,avery.iyer@******.***,N
+EMP-0055,DEP-015,Linda Fernandez,Linda,Fernandez,Senior Analyst,linda.fernandez@******.***,Y
+EMP-0056,DEP-015,Jeff King,Jeff,King,Policy Analyst,jeff.king@******.***,Y
+EMP-0057,DEP-015,Wanda Williams,Wanda,Williams,Internal Audit Supervisor,wanda.williams@******.***,Y
+EMP-0001,,Avery Patel,Avery,Patel,Division Chief,avery.patel@******.***,Y
+EMP-0002,,Dakota Khan,Dakota,Khan,Division Chief,dakota.khan@******.***,Y
+EMP-0003,,Kendall Lopez,Kendall,Lopez,Division Chief,kendall.lopez@******.***,Y
+EMP-0004,,Hayden Turner,Hayden,Turner,Division Chief,hayden.turner@******.***,Y
+EMP-0005,,Riley Allen,Riley,Allen,Division Chief,riley.allen@******.***,Y
+EMP-0006,,Sam Garcia,Sam,Garcia,Division Chief,sam.garcia@******.***,Y
+EMP-0007,,Jordan Nguyen,Jordan,Nguyen,Division Chief,jordan.nguyen@******.***,Y
+EMP-0008,,Rowan Khan,Rowan,Khan,Division Chief,rowan.khan@******.***,Y
+EMP-0009,,Jordan Young,Jordan,Young,Division Chief,jordan.young@******.***,Y
+EMP-0010,,Drew Parker,Drew,Parker,Division Chief,drew.parker@******.***,Y
+EMP-0058,,Jordan Matthews,Jordan,Matthews,Chief Compliance Officer,jordan.matthews@******.***,Y
+EMP-0059,,Elena Rossi,Elena,Rossi,Board Member,elena.rossi@******.***,Y
+EMP-0060,,Marcus Boyd,Marcus,Boyd,Board Member,marcus.boyd@******.***,Y
+EMP-0061,,Sophia Lin,Sophia,Lin,Board Member,sophia.lin@******.***,Y
+EMP-0062,,Richard O'Donnel,Richard,O'Donnel,Board Member,richard.odonnel@******.***,Y
+EMP-0063,,Fatima Hassan,Fatima,Hassan,Board Member,fatima.hassan@******.***,Y
