@@ -9,7 +9,7 @@ Entries are listed in reverse chronological order (newest first).
 ### Added
 - Created base folder structure:
   - `productowner/` for product owner documentation (vision board, persona documentation, etc..)
-  - Uploaded **Product Vision Board** into 'productowner/'.
+  - Uploaded **Product Vision Board** into `productowner/`.
   
 ---
 
@@ -19,6 +19,7 @@ Entries are listed in reverse chronological order (newest first).
   - `data/` for datasets (`raw/` and `clean/` subfolders)
   - `excel/` for Excel cleaning files
   - `powerbi/` for Power BI dashboard
+  - `productowner/` for product documentation (vision board, persona template, etc..).
   - `sql/` for SQL scripts and queries
   - `analysis/` for changelog and decision notes
   - `docs/` for project documentation
