@@ -1,0 +1,56 @@
+EmployeeID,Name,Role,DepartmentID,Email,ActiveFlag
+EMP-0001, Avery Patel ,Division Chief,,avery.patel@example.org,Y
+EMP-0002,Dakota Khan, Division Chief ,,dakota.khan@example.org,Y
+EMP-0003,Kendall Lopez,Division Chief,,kendall.lopez@example.org,Y
+EMP-0004,Hayden Turner,Division Chief,,hayden.turner@example.org,Y
+EMP-0005,Riley Allen, Division Chief ,,riley.allen@example.org,Y
+EMP-0006,Sam Garcia,Division Chief,,sam.garcia@example.org,Y
+EMP-0007,Jordan Nguyen,Division Chief,,jordan.nguyen@example.org,Y
+EMP-0008,Rowan Khan,Division Chief,,rowan.khan@example.org,Y
+EMP-0009,Jordan Young,Division Chief,,,Y
+EMP-0010,,Division Chief,,,Y
+ EMP-0011 , Nina Khan ,Department Supervisor,DEP-001,nina.khan@example.org,Y
+EMP-0012,Aman Allen, Department Supervisor ,DEP-002,aman.allen@example.org,Y
+EMP-0013,Dakota Perry,Department Supervisor, DEP-003 , dakota.perry@example.org ,Y
+EMP-0014,Alex Ramirez,Department Supervisor,DEP-004,alex.ramirez@example.org,Y
+ EMP-0015 ,Cameron Parker, Department Supervisor ,DEP-005,cameron.parker@example.org,Y
+EMP-0016,Sam Lee,Department Supervisor,DEP-006,sam.lee@example.org,Y
+EMP-0017, Dakota Lopez ,Department Supervisor,DEP-007,dakota.lopez@example.org,Y
+EMP-0018,Rowan Ramirez,Department Supervisor,DEP-008,rowan.ramirez@example.org,Y
+EMP-0019,Kris Chen,Department Supervisor,DEP-009, kris.chen@example.org ,Y
+ EMP-0020 ,Riley Davis,Department Supervisor,DEP-010,riley.davis@example.org, Y 
+ EMP-0021 ,Hayden Martinez,Department Supervisor,DEP-011,hayden.martinez@example.org,Y
+EMP-0022,Jesse King, Department Supervisor ,DEP-012,jesse.king@example.org, Y 
+EMP-0023,Sawyer Perry, Department Supervisor , DEP-013 ,sawyer.perry@example.org,Y
+EMP-0024,Taylor Collins, Department Supervisor ,DEP-014,taylor.collins@example.org,Y
+EMP-0025,Dev Young,Compliance Analyst,DEP-001,dev.young@example.org,Y
+EMP-0026,Avery Iyer,Compliance Analyst,DEP-001,avery.iyer@example.org,Y
+EMP-0027,Asha Nguyen,Compliance Analyst,DEP-001,asha.nguyen@example.org,Y
+ EMP-0028 ,Emerson Campbell,Compliance Analyst,DEP-001, emerson.campbell@example.org ,Y
+EMP-0029,Aidan Allen, Compliance Analyst ,DEP-001,aidan.allen@example.org,Y
+EMP-0030,Drew Parker,Compliance Analyst,DEP-001,drew.parker@example.org,Y
+EMP-0031,,Compliance Analyst,DEP-001, morgan.garcia@example.org ,Y
+EMP-0032,Kendall Ramirez,Compliance Analyst,DEP-001,kendall.ramirez@example.org,Y
+EMP-0033,Emerson Nguyen,Compliance Analyst,DEP-001,emerson.nguyen@example.org,Y
+EMP-0034,Kendall Shah, Compliance Analyst ,DEP-001,kendall.shah@example.org,Y
+EMP-0035,Hayden Davis,Senior Analyst,DEP-009,hayden.davis@example.org,Y
+EMP-0036,Cameron Martinez,Senior Analyst,DEP-005,,Y
+EMP-0037,Morgan King,Policy Reviewer,DEP-004,morgan.king@example.org,Y
+EMP-0038,Cameron Hernandez,Senior Analyst,DEP-006,cameron.hernandez@example.org,Y
+EMP-0039,,Policy Analyst,DEP-005,,Y
+ EMP-0040 ,Jamie Davis,Senior Analyst,DEP-003,jamie.davis@example.org,Y
+EMP-0041,Jamie Johnson,Policy Reviewer,DEP-009,jamie.johnson@example.org,N
+EMP-0042,Dev Lopez,Senior Analyst,DEP-004,,Y
+EMP-0043,Sawyer Collins,Policy Reviewer,DEP-008,sawyer.collins@example.org,N
+EMP-0044,Aidan Khan,Policy Analyst,DEP-010,aidan.khan@example.org,N
+EMP-0045,Riley Ramirez,Policy Analyst,DEP-003, riley.ramirez@example.org ,Y
+ EMP-0046 , Cameron Perry ,Policy Reviewer,DEP-008,cameron.perry@example.org,Y
+EMP-0047,Asha Davis,Policy Reviewer,DEP-009,,Y
+EMP-0048,Alex Turner,Policy Reviewer,DEP-003,alex.turner@example.org,Y
+EMP-0049,Kris Chen,Senior Analyst,DEP-008,kris.chen@example.org,Y
+EMP-0050,Dev Patel,Policy Reviewer,DEP-013,dev.patel@example.org,
+EMP-0051,Peyton Walker,Policy Analyst,DEP-012,peyton.walker@example.org,Y
+EMP-0052,Drew Lopez,Senior Analyst,DEP-014,drew.lopez@example.org,Y
+EMP-0053,Alex King,Senior Analyst,DEP-009,alex.king@example.org,Y
+EMP-0054,Avery Iyer,Senior Analyst,DEP-014,,Y
+EMP-0018,Rowan Ramirez,Department Supervisor,DEP-008,rowan.ramirez@example.org,Y

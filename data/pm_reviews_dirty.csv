@@ -1,0 +1,2041 @@
+ReviewID,PolicyID,ReviewerEmployeeID,ReviewerRole,ReviewDate,ReviewStatus,Comments
+REV-00001,POL-0159,EMP-0042,Senior Analyst,2015-10-29,Approved,Looks good.
+REV-00002,POL-0136,EMP-0019,Department Supervisor,29-Aug-2010,Approved,Looks good.
+REV-00003,POL-0008,EMP-0029, Compliance Analyst ,2003-12-17,Approved,
+ REV-00004 , POL-0241 ,EMP-0045,Policy Analyst,2023-04-09,Approved,Formatting changes only.
+ REV-00005 ,POL-0288,EMP-0013,,2024-02-12,Approved,Formatting changes only.
+REV-00006,POL-0006,EMP-0050,Policy Reviewer,2015-08-09, Approved ,Looks good.
+REV-00007,POL-0013, EMP-0020 ,Department Supervisor,2017-05-25,Approved,Looks good.
+REV-00008,POL-0278,,Policy Reviewer,,Approved,Looks good.
+REV-00009,POL-0299,EMP-0013,, 2020-02-17 ,Approved,Update section 3.
+REV-00010,POL-0249, EMP-0054 ,Senior Analyst,,Rejected,Formatting changes only.
+REV-00011,POL-0135, EMP-0039 ,Policy Analyst,,Approved,Please verify citation.
+REV-00012,POL-0250,EMP-0039,Policy Analyst,2013-04-12,Approved,Looks good.
+ REV-00013 ,POL-0132,,Compliance Analyst,"Jun 14, 2024",Approved, Minor edits requested. 
+REV-00014,POL-0165,EMP-0023,Department Supervisor,2021-07-15,Approved, Minor edits requested. 
+REV-00015,POL-0007,EMP-0040,Senior Analyst,2020-04-05,Approved,Minor edits requested.
+REV-00016,POL-0033,EMP-0043,Policy Reviewer,08/17/2017,Rejected,Please verify citation.
+REV-00017,POL-0048,EMP-0021,Department Supervisor,"Apr 12, 2019",Approved, Looks good. 
+REV-00018,POL-0296,EMP-0027,Compliance Analyst,2006-09-15,Approved,
+REV-00019,POL-0135,EMP-0034,Compliance Analyst,2022-01-20,Approved,Please verify citation.
+REV-00020,POL-0133,EMP-0044,Policy Analyst,2005-02-05,Approved,
+REV-00021,POL-0231,EMP-0016,Department Supervisor,2013-04-14,Approved,Looks good.
+ REV-00022 ,POL-0203,EMP-0039,Policy Analyst,2012-09-25,Rejected,Please verify citation.
+REV-00023,POL-0132, EMP-0038 ,Senior Analyst,2007-02-09,Approved,
+REV-00024,POL-0212,EMP-0039,Policy Analyst,2010-06-16,Approved,
+REV-00025,POL-0257,EMP-0037,Policy Reviewer,2001-09-10,Approved,
+REV-00026,POL-0157,EMP-0043,Policy Reviewer,13-Apr-2018,Approved,Minor edits requested.
+REV-00027,POL-0094,EMP-0035,Senior Analyst,2011-01-27,Approved,  
+REV-00028,POL-0196,EMP-0025,Compliance Analyst,2017-04-25,Approved,
+REV-00029,POL-0038,EMP-0017,Department Supervisor,2014-10-17,Approved,Formatting changes only.
+REV-00030,POL-0265,EMP-0020,Department Supervisor,16-Jul-2015,Approved,Looks good.
+REV-00031, POL-0110 ,EMP-0029,Compliance Analyst, 2002-03-20 , Approved ,Update section 3.
+REV-00032,POL-0184,EMP-0041,Policy Reviewer,2006-09-21,Approved,Update section 3.
+REV-00033,POL-0028,EMP-0016,Department Supervisor, 2000-09-25 ,Approved,
+REV-00034,POL-0081,,Department Supervisor,2011-12-24,Approved, Looks good. 
+REV-00035,POL-0162,EMP-0049,Senior Analyst,11-Feb-2025,Approved,Please verify citation.
+REV-00036,POL-0295,EMP-0018,Department Supervisor,2019-06-26, Approved ,Minor edits requested.
+REV-00037,POL-0256,EMP-0030,Compliance Analyst,"Feb 27, 2011",Approved,  
+REV-00038,POL-0069,EMP-0026,Compliance Analyst,2002-08-22,Approved,Update section 3.
+REV-00039,POL-0189,EMP-0015,Department Supervisor, 2021-01-01 ,Approved,
+REV-00040,POL-0031,EMP-0049,Senior Analyst,2022-12-02,Approved,Please verify citation.
+ REV-00041 ,POL-0100,EMP-0051,,2001-03-27,Approved,Please verify citation.
+REV-00042,POL-0270,EMP-0020,Department Supervisor,2011-05-08,Approved,Minor edits requested.
+REV-00043, POL-0291 ,EMP-0011,Department Supervisor,2019-10-02, Approved ,Please verify citation.
+REV-00044,POL-0284,EMP-0026,Compliance Analyst,2016-04-28,Approved, Please verify citation. 
+REV-00045,POL-0010,EMP-0022,Department Supervisor,09-Mar-2019, Approved ,Formatting changes only.
+REV-00046,POL-0200,EMP-0044,Policy Analyst,2004-05-03,Approved,Minor edits requested.
+REV-00047,POL-0106,EMP-0044,Policy Analyst,2003-07-14,Approved,Please verify citation.
+REV-00048,POL-0086,EMP-0043,Policy Reviewer,2023-04-04,Rejected,Please verify citation.
+REV-00049,POL-0035,EMP-0035,Senior Analyst,2001-05-30,Approved,Update section 3.
+ REV-00050 ,POL-0057,EMP-0051,Policy Analyst,2002-06-14,Approved,Update section 3.
+REV-00051, POL-0033 ,EMP-0027,Compliance Analyst,2017-03-30,Approved,Formatting changes only.
+REV-00052,POL-0120, EMP-0033 ,Compliance Analyst,2001-03-24,Approved,
+REV-00053,POL-0218,,Compliance Analyst,2015-12-19,Approved,Formatting changes only.
+REV-00054,POL-0108,EMP-0048,Policy Reviewer,02/23/2005,Approved,Formatting changes only.
+REV-00055,POL-0281,EMP-0019,Department Supervisor,2015-05-31, Approved ,
+REV-00056,POL-0283,EMP-0045,Policy Analyst, 2016-04-20 ,Approved,Minor edits requested.
+REV-00057,POL-0016,EMP-0054,,2008-05-08,Approved,Update section 3.
+REV-00058,POL-0216,EMP-0051,Policy Analyst,2021-12-18,Rejected,Looks good.
+REV-00059,POL-0167, EMP-0015 ,Department Supervisor,2006-07-19,Approved,Formatting changes only.
+REV-00060,POL-0086,EMP-0013, Department Supervisor ,01/10/2021,Approved,Minor edits requested.
+REV-00061, POL-0077 ,EMP-0013,Department Supervisor,2009-07-16,Rejected,Looks good.
+REV-00062,POL-0220,EMP-0031,Compliance Analyst,,Approved,Minor edits requested.
+REV-00063,POL-0183,EMP-0036,Senior Analyst, 2023-08-14 ,Approved,Please verify citation.
+REV-00064,POL-0033,EMP-0027,Compliance Analyst,2021-09-25,Approved,
+REV-00065,POL-0167,EMP-0029,Compliance Analyst,"Jan 26, 2009",Approved,Minor edits requested.
+REV-00066,POL-0192,EMP-0052,Senior Analyst,23-Aug-2002,Approved,Minor edits requested.
+REV-00067,POL-0251,EMP-0018,Department Supervisor,2012-10-02,Approved,Minor edits requested.
+ REV-00068 ,POL-0237,EMP-0036,Senior Analyst,2020-02-06,Approved,Formatting changes only.
+REV-00069,POL-0221,EMP-0035, Senior Analyst ,2020-03-22, Approved ,Minor edits requested.
+REV-00070,POL-0050,EMP-0042,Senior Analyst,2008-11-16,Approved,Formatting changes only.
+REV-00071,POL-0184,EMP-0034,Compliance Analyst,25-Oct-2022,Rejected, Please verify citation. 
+REV-00072,POL-0095,EMP-0016, Department Supervisor ,2012-06-17,Approved,Formatting changes only.
+REV-00073,POL-0130,EMP-0016,Department Supervisor,2019-07-17,Approved,Update section 3.
+REV-00074,POL-0155,EMP-0045,Policy Analyst,08/04/2008,Approved,Minor edits requested.
+ REV-00075 , POL-0058 ,EMP-0017,Department Supervisor,2014-11-27,Approved,
+REV-00076,POL-0221,EMP-0053,Senior Analyst,2015-03-17,Approved,Minor edits requested.
+REV-00077,POL-0191,EMP-0039,Policy Analyst,2014-03-31,Approved, Please verify citation. 
+REV-00078,POL-0070, EMP-0021 ,Department Supervisor,2019-08-12,Approved,Formatting changes only.
+REV-00079,POL-0278,EMP-0033,Compliance Analyst,2020-05-29,Approved,Update section 3.
+REV-00080,POL-0184,EMP-0033,Compliance Analyst,2002-05-25,Rejected,Please verify citation.
+REV-00081,POL-0227,EMP-0028,Compliance Analyst,"Jan 04, 2020",Approved, Formatting changes only. 
+REV-00082, POL-0271 ,, Department Supervisor , 2003-01-26 ,Approved,Formatting changes only.
+ REV-00083 ,POL-0065,EMP-0034,Compliance Analyst,2018-09-20, Approved ,Please verify citation.
+ REV-00084 ,POL-0050,EMP-0012,Department Supervisor,2007-09-04,Approved,Looks good.
+REV-00085,POL-0208,EMP-0013,Department Supervisor,2020-02-26,Approved,Looks good.
+REV-00086,POL-0245,EMP-0026,Compliance Analyst,2003-07-07,Approved,Formatting changes only.
+REV-00087,POL-0162,EMP-0034,Compliance Analyst,2016-12-05,Approved,
+REV-00088,POL-0286,EMP-0049,Senior Analyst,2001-12-13,Approved,Looks good.
+REV-00089,POL-0239,EMP-0034,Compliance Analyst,05-Sep-2020,Approved,Minor edits requested.
+REV-00090,POL-0194,EMP-0015,Department Supervisor,2020-05-30,Approved,Please verify citation.
+REV-00091,POL-0293,EMP-0044,Policy Analyst,2006-09-03,Approved,Minor edits requested.
+ REV-00092 ,POL-0179, EMP-0031 ,Compliance Analyst,2018-05-09,Approved,Formatting changes only.
+REV-00093,POL-0016,EMP-0026,Compliance Analyst,2012-12-31,Approved,
+REV-00094,POL-0081,,Department Supervisor,2001-08-29,Approved,Update section 3.
+REV-00095, POL-0210 ,EMP-0035,Senior Analyst,2023-09-21,Approved,Please verify citation.
+REV-00096,POL-0133, EMP-0027 ,Compliance Analyst,2005-10-12,Approved,Minor edits requested.
+REV-00097,POL-0258,EMP-0024,Department Supervisor,,Approved,Please verify citation.
+REV-00098,POL-0265,EMP-0042,Senior Analyst,"Apr 22, 2013",,Looks good.
+REV-00099,POL-0281,EMP-0019, Department Supervisor ,2005-12-31,,
+REV-00100,POL-0014,EMP-0022,Department Supervisor,"Oct 10, 2020",Approved,Formatting changes only.
+REV-00101,POL-0040,EMP-0016,Department Supervisor,2020-06-18,Approved,Formatting changes only.
+REV-00102, POL-0268 ,EMP-0053,Senior Analyst,2014-11-01,Approved,Minor edits requested.
+REV-00103,POL-0126,EMP-0046,Policy Reviewer,2003-05-30,Approved,Please verify citation.
+REV-00104,POL-0110,EMP-0030,Compliance Analyst,2013-07-10, Approved ,Looks good.
+REV-00105,POL-0125,EMP-0034,Compliance Analyst,22-Apr-2008,Approved,Please verify citation.
+REV-00106,POL-0268,EMP-0018,Department Supervisor,2010-07-22,Approved,Looks good.
+REV-00107,POL-0192,EMP-0026, Compliance Analyst ,,Rejected,Update section 3.
+REV-00108,POL-0259,EMP-0034,Compliance Analyst,2001-09-04,Approved,Please verify citation.
+REV-00109,POL-0268,EMP-0040,Senior Analyst,2017-01-17,Approved, Please verify citation. 
+REV-00110,POL-0283, EMP-0050 ,Policy Reviewer,2006-04-27, Approved ,
+REV-00111,POL-0236,EMP-0030,Compliance Analyst,2003-06-13,Approved,Update section 3.
+REV-00112,POL-0207,EMP-0044,Policy Analyst,2021-12-20,Approved,Update section 3.
+REV-00113,POL-0062,,Policy Reviewer,2018-11-12,Approved,
+REV-00114,POL-0209,EMP-0031,Compliance Analyst,2006-02-13,Approved,Formatting changes only.
+ REV-00115 , POL-0144 ,EMP-0039,Policy Analyst,,Approved,Update section 3.
+REV-00116,POL-0098, EMP-0033 ,Compliance Analyst,"Sep 15, 2023",Approved,Looks good.
+REV-00117,POL-0279,EMP-0051,Policy Analyst,,Approved,Please verify citation.
+REV-00118,POL-0137,EMP-0019,,2008-08-29,Approved,Update section 3.
+REV-00119,POL-0300,EMP-0014,Department Supervisor,20-Jan-2023,Approved,
+ REV-00120 ,POL-0272,EMP-0020,Department Supervisor,2023-09-27,Approved,Minor edits requested.
+REV-00121,POL-0233,EMP-0021,Department Supervisor,2007-11-19,Approved,Minor edits requested.
+REV-00122,POL-0075,EMP-0033,Compliance Analyst,2010-08-12,,Please verify citation.
+REV-00123,POL-0244,EMP-0016,Department Supervisor,"Mar 28, 2013",Approved,Minor edits requested.
+REV-00124,POL-0128,EMP-0051,Policy Analyst,2009-04-21,Approved,Please verify citation.
+REV-00125,POL-0032,EMP-0019,Department Supervisor,22-Oct-2012,Approved,Formatting changes only.
+REV-00126,POL-0182, EMP-0050 ,Policy Reviewer,"Jan 30, 2014",Approved,Please verify citation.
+ REV-00127 , POL-0021 ,EMP-0043,Policy Reviewer,2004-09-08,Approved,Formatting changes only.
+REV-00128,POL-0069,EMP-0048,Policy Reviewer,2008-01-23,Approved,Please verify citation.
+REV-00129,POL-0086,EMP-0021,Department Supervisor,2007-06-01,Approved,Formatting changes only.
+ REV-00130 ,POL-0295,EMP-0047,Policy Reviewer,2015-08-23,Approved,
+REV-00131,POL-0255,EMP-0016, Department Supervisor ,2001-10-08,Approved,
+REV-00132,POL-0236,EMP-0052,Senior Analyst,2012-05-15,Approved,Looks good.
+REV-00133, POL-0183 ,EMP-0050,,03/09/2019,,Formatting changes only.
+REV-00134,POL-0276,EMP-0042,Senior Analyst,2001-11-09,Approved,Formatting changes only.
+REV-00135,POL-0219,EMP-0029,Compliance Analyst, 2024-12-20 ,Rejected,Formatting changes only.
+REV-00136,POL-0114,EMP-0041,Policy Reviewer,01/18/2014, Approved ,Looks good.
+REV-00137,POL-0134,EMP-0030,Compliance Analyst,2018-09-18,Approved,Update section 3.
+REV-00138,POL-0236,EMP-0014,Department Supervisor,09-Oct-2003,Rejected,Looks good.
+REV-00139,POL-0079,EMP-0037,Policy Reviewer,2020-03-20,Rejected,Update section 3.
+REV-00140,POL-0236,EMP-0024,Department Supervisor,2021-05-01,Approved,Minor edits requested.
+REV-00141,POL-0049,EMP-0031,Compliance Analyst,2006-12-10,,Formatting changes only.
+REV-00142,POL-0118,EMP-0033,Compliance Analyst,2014-10-27,, Update section 3. 
+REV-00143,POL-0031,EMP-0034,Compliance Analyst,13-May-2006,Approved,Please verify citation.
+REV-00144,POL-0161,EMP-0031,Compliance Analyst,,Rejected, Looks good. 
+REV-00145,POL-0217,EMP-0018,Department Supervisor,2021-06-03,Approved,Minor edits requested.
+REV-00146,POL-0130,EMP-0026,Compliance Analyst,2020-08-31,Approved,Looks good.
+REV-00147,POL-0110,EMP-0014,Department Supervisor,2004-11-03,Approved,Minor edits requested.
+REV-00148,POL-0096,EMP-0050,Policy Reviewer,,,Update section 3.
+REV-00149,POL-0083,EMP-0021,Department Supervisor,2011-08-20,Rejected,Minor edits requested.
+REV-00150,POL-0079,EMP-0023,Department Supervisor,11-Jul-2014,Approved,Looks good.
+REV-00151,POL-0148,EMP-0043,Policy Reviewer,2022-11-06,Approved,
+REV-00152,POL-0096,EMP-0030, Compliance Analyst ,2022-11-14,Approved,Update section 3.
+REV-00153,POL-0126,EMP-0016,Department Supervisor,2001-07-15,Approved,Update section 3.
+REV-00154,POL-0030,EMP-0040, Senior Analyst ,2023-03-04,Approved,Looks good.
+REV-00155,POL-0013,EMP-0048, Policy Reviewer ,2010-02-23,Rejected,Minor edits requested.
+ REV-00156 ,POL-0214,EMP-0014,Department Supervisor,2002-09-06,Approved,Minor edits requested.
+REV-00157, POL-0290 ,EMP-0049,,12-Sep-2022,Approved, Formatting changes only. 
+REV-00158,POL-0270, EMP-0029 ,Compliance Analyst,2021-08-10, Approved ,Please verify citation.
+REV-00159,POL-0061,EMP-0017,Department Supervisor,2000-11-11,Approved,Update section 3.
+REV-00160,POL-0084,EMP-0027,Compliance Analyst,2006-07-04,Approved,Formatting changes only.
+REV-00161,POL-0225,EMP-0036,,2016-11-26,Approved,Minor edits requested.
+REV-00162,POL-0013,EMP-0036,Senior Analyst, 2002-07-12 ,Approved,
+REV-00163,POL-0200,EMP-0034,Compliance Analyst,2009-03-25,Approved,Please verify citation.
+REV-00164,POL-0169,EMP-0015,Department Supervisor,06/11/2013,Approved,
+REV-00165,POL-0090,EMP-0039,Policy Analyst,02/12/2023,Approved,Please verify citation.
+REV-00166,POL-0133,EMP-0050,Policy Reviewer,2013-01-16,,Formatting changes only.
+REV-00167,POL-0020,EMP-0019,Department Supervisor,"Oct 29, 2005",Rejected,
+REV-00168,POL-0114, EMP-0034 ,,2018-03-02,Approved,Minor edits requested.
+REV-00169,POL-0090,EMP-0034,Compliance Analyst,09-Jul-2025,Approved,Looks good.
+REV-00170,POL-0153,EMP-0049,Senior Analyst,2009-06-05, Approved ,Please verify citation.
+REV-00171,POL-0064,EMP-0043,Policy Reviewer,2018-07-03,Rejected,
+REV-00172,POL-0090,EMP-0013,Department Supervisor,,Rejected,
+REV-00173,POL-0062,EMP-0041,Policy Reviewer,"Jun 09, 2015",Approved,Please verify citation.
+REV-00174, POL-0125 , EMP-0020 ,Department Supervisor,30-Dec-2020, Approved ,Please verify citation.
+REV-00175,POL-0091,EMP-0019,Department Supervisor,2023-08-16,,Minor edits requested.
+REV-00176,POL-0245,EMP-0021,Department Supervisor,2014-10-14,Approved,Update section 3.
+REV-00177,POL-0141,EMP-0048,Policy Reviewer,2013-12-02,Rejected,Minor edits requested.
+REV-00178,POL-0071,EMP-0043,Policy Reviewer,2023-04-03,Approved,Please verify citation.
+REV-00179,POL-0034,EMP-0047,Policy Reviewer,2022-06-21,Approved,Minor edits requested.
+REV-00180,POL-0252,EMP-0012,Department Supervisor,2021-10-19,Approved,Minor edits requested.
+REV-00181,POL-0025,EMP-0054,Senior Analyst,2015-05-11,Approved,
+REV-00182,POL-0103,EMP-0048,Policy Reviewer,2019-03-08,Approved,Minor edits requested.
+REV-00183,POL-0224,EMP-0049,Senior Analyst,2001-09-10,Approved,Update section 3.
+REV-00184,POL-0154,EMP-0052,Senior Analyst,2012-05-29,,Please verify citation.
+REV-00185,POL-0280,EMP-0014,Department Supervisor,,Rejected,Please verify citation.
+REV-00186,POL-0058,EMP-0021,Department Supervisor,,Approved,Please verify citation.
+REV-00187,POL-0107,EMP-0020,,2017-07-21,Approved,Formatting changes only.
+REV-00188,POL-0269,EMP-0013,Department Supervisor,2011-05-13,Approved,Please verify citation.
+REV-00189,POL-0286,EMP-0023,Department Supervisor,2005-06-05,Approved,
+ REV-00190 ,POL-0176,EMP-0031,Compliance Analyst,,Approved,Update section 3.
+REV-00191,POL-0293,,Policy Reviewer,2007-04-17,Approved,
+REV-00192,POL-0121,EMP-0037,Policy Reviewer,"Aug 23, 2009",Approved,Please verify citation.
+ REV-00193 ,POL-0255,EMP-0014,Department Supervisor,2021-08-26,Approved,Formatting changes only.
+REV-00194,POL-0037,EMP-0044,Policy Analyst,2006-09-10,Approved,Looks good.
+REV-00195,POL-0284,EMP-0031,Compliance Analyst,,Approved,Formatting changes only.
+REV-00196,POL-0177,EMP-0044,Policy Analyst,12/15/2021,Approved,Update section 3.
+REV-00197,POL-0045,EMP-0022,, 2014-07-28 ,Approved,Update section 3.
+REV-00198, POL-0086 ,EMP-0032,,05/30/2024,Approved,Please verify citation.
+REV-00199,POL-0085, EMP-0054 ,Senior Analyst,2016-05-22,Approved,Formatting changes only.
+REV-00200,POL-0150,EMP-0050,,2012-05-10,Approved,Update section 3.
+REV-00201,POL-0026,EMP-0026, Compliance Analyst ,2009-02-14,Approved,Minor edits requested.
+REV-00202,POL-0258,EMP-0030,Compliance Analyst,"Jul 13, 2025",Approved,
+REV-00203,POL-0198,EMP-0029,Compliance Analyst,2013-11-06,Approved,Formatting changes only.
+REV-00204,POL-0071,EMP-0042,Senior Analyst,2009-10-18,Approved,Minor edits requested.
+REV-00205,POL-0035,EMP-0033,Compliance Analyst,2022-01-08,Rejected,Please verify citation.
+ REV-00206 ,POL-0055,EMP-0029,Compliance Analyst,2012-10-06,Approved,
+ REV-00207 ,POL-0213,EMP-0035,Senior Analyst,"Nov 11, 2024",Approved,Update section 3.
+REV-00208,POL-0138,EMP-0020,Department Supervisor,"Dec 24, 2015",Approved,Minor edits requested.
+REV-00209,POL-0199,EMP-0029,Compliance Analyst,2002-05-21,Rejected,Formatting changes only.
+REV-00210,POL-0083,EMP-0033,Compliance Analyst,2004-01-16, Approved ,Update section 3.
+REV-00211,POL-0085,EMP-0041,Policy Reviewer,2012-01-01,Approved,Looks good.
+REV-00212,POL-0138,EMP-0045,Policy Analyst,,Rejected,Minor edits requested.
+ REV-00213 ,POL-0181,EMP-0019,Department Supervisor,2012-09-06, Approved ,
+ REV-00214 ,POL-0037,EMP-0026,Compliance Analyst,"Mar 26, 2011",Approved,
+REV-00215,POL-0213,EMP-0025,Compliance Analyst,2024-04-26,,Formatting changes only.
+REV-00216,POL-0171,,Department Supervisor,2010-12-10,Approved,
+REV-00217,POL-0226,EMP-0032,Compliance Analyst,2019-01-14,Rejected,Formatting changes only.
+REV-00218,POL-0229,EMP-0017,Department Supervisor,2021-09-08, Approved ,Formatting changes only.
+REV-00219,POL-0190,EMP-0011,Department Supervisor,2006-08-31,Approved,Please verify citation.
+ REV-00220 ,POL-0048,EMP-0037,Policy Reviewer,2007-08-01,Approved,Formatting changes only.
+REV-00221,POL-0061,EMP-0041,Policy Reviewer,2021-11-01,Approved, Formatting changes only. 
+REV-00222,POL-0206,EMP-0029,Compliance Analyst,2009-06-11,Approved,Minor edits requested.
+REV-00223,POL-0192,EMP-0052,Senior Analyst,2013-04-20,Approved,
+REV-00224,POL-0039,EMP-0052,Senior Analyst,2004-07-05,Approved,Please verify citation.
+REV-00225,POL-0094,EMP-0045,Policy Analyst,,Approved,Formatting changes only.
+REV-00226,POL-0050,EMP-0022,,2002-03-04,Approved,Update section 3.
+REV-00227,POL-0201,EMP-0013,Department Supervisor,2008-05-20,Approved,Update section 3.
+REV-00228,POL-0026,EMP-0022,Department Supervisor,20-Sep-2022,Approved, Formatting changes only. 
+REV-00229,POL-0136,EMP-0013,Department Supervisor,,Approved,  
+REV-00230,POL-0123,EMP-0047,Policy Reviewer,"Nov 18, 2013",,Please verify citation.
+REV-00231,POL-0157, EMP-0032 , Compliance Analyst ,2005-04-24, Rejected ,Minor edits requested.
+REV-00232,POL-0226,EMP-0052,Senior Analyst,2020-11-17,Approved,Please verify citation.
+REV-00233,POL-0120,EMP-0042,Senior Analyst,2024-01-07,Approved,Looks good.
+REV-00234,POL-0097,EMP-0040,Senior Analyst,2023-02-12,Approved,
+REV-00235,POL-0082,EMP-0018,Department Supervisor,2009-02-23,Approved,Minor edits requested.
+REV-00236, POL-0106 ,EMP-0040,Senior Analyst,2007-10-15,Approved, Formatting changes only. 
+REV-00237,POL-0136,EMP-0022,Department Supervisor,2012-01-15,Rejected,
+REV-00238,POL-0061,EMP-0029, Compliance Analyst ,2015-08-15,Approved,Please verify citation.
+REV-00239,POL-0143,EMP-0022,Department Supervisor,2009-02-28,Approved,Please verify citation.
+REV-00240,POL-0042,EMP-0038,Senior Analyst, 2018-09-08 ,Approved,Please verify citation.
+REV-00241,POL-0158,,,2015-03-17,Approved,Update section 3.
+REV-00242,POL-0111,EMP-0022, Department Supervisor ,2004-10-10,Approved,Looks good.
+REV-00243, POL-0065 ,EMP-0031,Compliance Analyst,11/30/2021,Approved,Looks good.
+REV-00244,POL-0063,EMP-0027,Compliance Analyst,2000-10-20,,Update section 3.
+REV-00245,POL-0254,EMP-0039,Policy Analyst,2011-01-23,,Minor edits requested.
+REV-00246,POL-0142,EMP-0030,Compliance Analyst,2015-04-14,Approved,Please verify citation.
+REV-00247,POL-0166,EMP-0027,Compliance Analyst,2001-01-04,Approved,Formatting changes only.
+REV-00248,POL-0209, EMP-0026 ,Compliance Analyst,,Approved,
+REV-00249,POL-0122,EMP-0040,Senior Analyst, 2005-10-19 ,Approved,Minor edits requested.
+REV-00250,POL-0078,EMP-0036,Senior Analyst,2007-08-30,Approved,Formatting changes only.
+REV-00251,POL-0045,EMP-0030,Compliance Analyst,2023-01-15,Approved,Formatting changes only.
+REV-00252,POL-0028,EMP-0051,Policy Analyst,2005-10-06,Approved,Minor edits requested.
+REV-00253,POL-0146,EMP-0050,Policy Reviewer,2016-12-25,Approved,Looks good.
+REV-00254,POL-0223,EMP-0019,Department Supervisor,2010-04-30,Approved,Update section 3.
+REV-00255,POL-0189,EMP-0040,Senior Analyst,2007-05-15,Approved,Formatting changes only.
+REV-00256,POL-0131,EMP-0037,Policy Reviewer, 2017-04-04 ,Approved,Formatting changes only.
+REV-00257,POL-0161,EMP-0041,Policy Reviewer,2025-02-18,Approved,Please verify citation.
+REV-00258,POL-0162,EMP-0026,Compliance Analyst,2010-04-18, Rejected ,Formatting changes only.
+REV-00259,POL-0096,EMP-0044,Policy Analyst,2004-03-03,Approved,Update section 3.
+REV-00260,POL-0079,EMP-0034,Compliance Analyst,2024-03-10,Approved,
+REV-00261,POL-0211,EMP-0014,Department Supervisor,2005-07-13,Approved,Please verify citation.
+REV-00262,POL-0203,EMP-0023,Department Supervisor,2023-03-04,Approved,Please verify citation.
+REV-00263,POL-0181,EMP-0020,Department Supervisor,2024-07-27, Approved ,Looks good.
+REV-00264,POL-0178,EMP-0044,Policy Analyst,03/20/2015,,Update section 3.
+REV-00265,POL-0037,EMP-0054,Senior Analyst,17-Sep-2005,Approved,Looks good.
+REV-00266,POL-0176,EMP-0016,Department Supervisor,2022-06-04,Approved,Please verify citation.
+REV-00267,POL-0016,EMP-0014,Department Supervisor,24-Jun-2020,Approved, Update section 3. 
+REV-00268,POL-0178,,Policy Reviewer,2006-06-01,Approved,Update section 3.
+REV-00269,POL-0276,,Policy Reviewer,2020-12-27,Rejected,
+REV-00270,POL-0091,,Senior Analyst,2025-07-25,Approved,Formatting changes only.
+REV-00271,POL-0032,EMP-0012,Department Supervisor,2014-04-28,Approved,Update section 3.
+REV-00272,POL-0202,EMP-0011,Department Supervisor,2011-11-30,Approved,Formatting changes only.
+REV-00273,POL-0145,EMP-0048,Policy Reviewer,2010-04-10,Approved,
+ REV-00274 ,POL-0069,EMP-0038,Senior Analyst,2002-07-13,,
+REV-00275,POL-0186,EMP-0045,Policy Analyst,2003-05-11, Approved ,
+REV-00276,POL-0066,EMP-0041,Policy Reviewer,2003-08-05,Approved,
+REV-00277,POL-0084,EMP-0037,Policy Reviewer,2013-05-17,Approved,Looks good.
+REV-00278,POL-0088,EMP-0052,Senior Analyst,28-Jul-2006,Approved,Formatting changes only.
+REV-00279,POL-0249,EMP-0034,Compliance Analyst, 2019-05-10 ,Approved,Update section 3.
+ REV-00280 ,POL-0065, EMP-0035 ,Senior Analyst,2020-08-13,Approved,Update section 3.
+REV-00281,POL-0134,EMP-0054,Senior Analyst,2004-02-05,Approved,Formatting changes only.
+REV-00282,POL-0063,EMP-0019,Department Supervisor, 2024-09-08 ,Approved, Formatting changes only. 
+REV-00283,POL-0220,EMP-0018,Department Supervisor,2016-02-05, Approved ,Looks good.
+REV-00284,POL-0112,EMP-0036,Senior Analyst,,Approved,Please verify citation.
+REV-00285,POL-0294,EMP-0025,Compliance Analyst,2006-03-18,Approved,
+REV-00286,POL-0071,EMP-0030,Compliance Analyst,,Approved,Update section 3.
+REV-00287,POL-0126,EMP-0038, Senior Analyst ,2024-12-02,Approved,Please verify citation.
+REV-00288,POL-0121,EMP-0025,Compliance Analyst,"Jul 06, 2017",Approved, Looks good. 
+REV-00289,POL-0135, EMP-0033 ,Compliance Analyst,2021-02-27,Rejected,Looks good.
+REV-00290,POL-0122,EMP-0023,Department Supervisor,"Nov 11, 2012",Approved,Formatting changes only.
+REV-00291,POL-0296,EMP-0013,Department Supervisor,2005-07-23,Approved,Formatting changes only.
+REV-00292,POL-0057,EMP-0050,Policy Reviewer,2019-04-21, Approved ,
+REV-00293,POL-0038,EMP-0024, Department Supervisor ,2011-04-18,Rejected,
+REV-00294,POL-0164,EMP-0049,Senior Analyst,2005-01-09,Approved,
+REV-00295,POL-0023,EMP-0049,Senior Analyst,2020-07-10,Approved,Formatting changes only.
+REV-00296,POL-0130, EMP-0026 ,Compliance Analyst,2002-09-06,Approved,Formatting changes only.
+REV-00297,POL-0278,,Senior Analyst,,Approved,Update section 3.
+REV-00298,POL-0067,EMP-0045,Policy Analyst,01/04/2011,Approved,Looks good.
+REV-00299,POL-0069,EMP-0019,Department Supervisor,2003-01-11,Approved,Please verify citation.
+REV-00300,POL-0123,EMP-0025,Compliance Analyst,2013-06-22,Rejected,Formatting changes only.
+REV-00301,POL-0234,EMP-0047,Policy Reviewer,,Approved,Please verify citation.
+REV-00302,POL-0085,EMP-0026,Compliance Analyst,"Nov 18, 2014",Approved,Minor edits requested.
+REV-00303,POL-0163,EMP-0053,Senior Analyst,2006-12-04,Approved,Please verify citation.
+REV-00304,POL-0281,EMP-0037,Policy Reviewer,2010-05-31,Approved,Minor edits requested.
+REV-00305,POL-0236,EMP-0014,Department Supervisor,2012-11-03,,Please verify citation.
+REV-00306,POL-0029,EMP-0051,Policy Analyst,2008-05-09,Approved,Formatting changes only.
+REV-00307,POL-0276,EMP-0046,Policy Reviewer,2019-08-30, Approved ,Update section 3.
+REV-00308,POL-0156,EMP-0033,Compliance Analyst,2002-08-08,Approved,Formatting changes only.
+REV-00309,POL-0123,EMP-0044, Policy Analyst ,2017-08-05,Approved,Minor edits requested.
+REV-00310,POL-0212, EMP-0037 ,Policy Reviewer,2019-03-05,Approved,Looks good.
+REV-00311,POL-0225,EMP-0035,Senior Analyst,2013-12-13,Approved,Looks good.
+REV-00312,POL-0022,EMP-0041,Policy Reviewer,2024-08-17,Approved,Looks good.
+REV-00313,POL-0114,EMP-0030,Compliance Analyst,2010-08-10, Approved ,Formatting changes only.
+REV-00314,POL-0042,EMP-0040, Senior Analyst ,2006-12-22,Approved,
+REV-00315,POL-0220,EMP-0037,Policy Reviewer,2019-01-04, Approved ,Please verify citation.
+REV-00316,POL-0096,EMP-0019,Department Supervisor,2024-04-09,Approved,Update section 3.
+REV-00317,POL-0273,EMP-0027,Compliance Analyst,2011-05-23,Approved,Looks good.
+REV-00318,POL-0076,EMP-0052,Senior Analyst,2015-04-25,Approved,
+REV-00319,POL-0267,EMP-0034,Compliance Analyst, 2020-09-03 ,Approved,  
+REV-00320,POL-0122,EMP-0023,Department Supervisor,2024-07-10,Rejected,
+REV-00321,POL-0289,EMP-0035,Senior Analyst,16-Jul-2012,Approved,Formatting changes only.
+REV-00322,POL-0298,EMP-0015,Department Supervisor,,Approved,Looks good.
+REV-00323,POL-0053,EMP-0024,Department Supervisor,2025-07-26,Approved,Update section 3.
+REV-00324,POL-0019,EMP-0032,Compliance Analyst,2009-11-13,Approved,Minor edits requested.
+REV-00325,POL-0145,EMP-0024, Department Supervisor ,2001-03-09,Approved,Looks good.
+REV-00326,POL-0266,EMP-0041,Policy Reviewer,2005-10-05,, Looks good. 
+ REV-00327 ,POL-0067,EMP-0036,,2009-09-02,Approved,Looks good.
+REV-00328,POL-0023,EMP-0031,Compliance Analyst,2025-04-06,Approved,
+REV-00329,POL-0271,EMP-0040,Senior Analyst,2017-07-28,Approved,Please verify citation.
+REV-00330,POL-0255,EMP-0030, Compliance Analyst ,2016-08-12,Approved,Minor edits requested.
+REV-00331, POL-0145 ,EMP-0043,Policy Reviewer,2016-08-18,Approved, Update section 3. 
+REV-00332,POL-0021,EMP-0017,Department Supervisor,2021-05-27,Approved,Formatting changes only.
+REV-00333,POL-0204,EMP-0031,Compliance Analyst,2021-07-23,Approved,Looks good.
+REV-00334,POL-0163,EMP-0031, Compliance Analyst ,2017-02-15,Approved,Update section 3.
+ REV-00335 ,POL-0294,EMP-0047,Policy Reviewer,2002-07-20,Approved,Looks good.
+REV-00336,POL-0005,EMP-0012,Department Supervisor,01/16/2007,Approved,Minor edits requested.
+REV-00337,POL-0077,EMP-0048,Policy Reviewer,2025-04-26, Approved ,Please verify citation.
+REV-00338,POL-0096,EMP-0029,Compliance Analyst, 2019-03-25 ,Approved,Looks good.
+REV-00339,POL-0037,EMP-0032,Compliance Analyst,2009-04-19,Rejected,Looks good.
+REV-00340,POL-0049,EMP-0047,Policy Reviewer,2017-07-15,Approved,Looks good.
+REV-00341, POL-0188 ,EMP-0046,Policy Reviewer,2022-11-23,Approved,Formatting changes only.
+ REV-00342 ,POL-0100, EMP-0027 ,Compliance Analyst,2015-08-22,Approved, Update section 3. 
+REV-00343,POL-0068,EMP-0040, Senior Analyst ,2022-07-03,Approved,Looks good.
+REV-00344, POL-0216 ,EMP-0021,Department Supervisor,2016-04-18,Approved,Looks good.
+ REV-00345 ,POL-0082,EMP-0042,Senior Analyst,01/05/2025,Approved, Looks good. 
+REV-00346,POL-0163,EMP-0052,Senior Analyst,"Oct 25, 2024",Approved,
+REV-00347,POL-0185,EMP-0013,Department Supervisor,2024-01-01,Approved,
+REV-00348,POL-0086,EMP-0011,Department Supervisor,2002-09-03,Approved,Update section 3.
+REV-00349,POL-0213,EMP-0051,Policy Analyst,2006-08-31,Rejected,Looks good.
+REV-00350,POL-0226,EMP-0020,Department Supervisor,2003-07-19, Approved ,
+REV-00351,POL-0111,EMP-0043,Policy Reviewer,2010-04-23,Approved,Update section 3.
+REV-00352,POL-0274,EMP-0014,Department Supervisor,2017-03-28,Approved,Please verify citation.
+REV-00353, POL-0089 ,,Senior Analyst,2022-03-04,Approved,
+REV-00354,POL-0210,EMP-0011,Department Supervisor,,Approved,Please verify citation.
+ REV-00355 ,POL-0183,EMP-0037,Policy Reviewer,2025-03-30,Approved,
+REV-00356,POL-0268,EMP-0044,Policy Analyst,2001-04-01,Approved,Formatting changes only.
+REV-00357,POL-0034,EMP-0045,Policy Analyst,2012-10-27,Rejected,Minor edits requested.
+REV-00358,POL-0110,EMP-0043,,2001-04-07,Approved,Formatting changes only.
+REV-00359,POL-0173,EMP-0022,Department Supervisor,,Approved,
+REV-00360,POL-0018,EMP-0044,Policy Analyst,10/26/2004,Approved,
+REV-00361,POL-0031,EMP-0023,,2011-04-23,Approved,Please verify citation.
+REV-00362,POL-0107,EMP-0027,Compliance Analyst,2024-02-11,Approved,Minor edits requested.
+REV-00363,POL-0251,EMP-0036,,2012-06-27,Approved,
+REV-00364,POL-0158,EMP-0036,Senior Analyst,2017-03-26,Approved,Update section 3.
+ REV-00365 ,POL-0059,EMP-0025,Compliance Analyst, 2011-05-29 ,Approved,Minor edits requested.
+REV-00366,POL-0193,EMP-0052,Senior Analyst, 2004-02-11 ,Approved,Formatting changes only.
+REV-00367,POL-0049,EMP-0016,Department Supervisor,2001-12-02,Approved,Update section 3.
+REV-00368,POL-0025,EMP-0035, Senior Analyst ,2017-07-05,Approved,Please verify citation.
+REV-00369, POL-0138 ,EMP-0014,Department Supervisor,2021-11-06,Approved,Formatting changes only.
+REV-00370,POL-0153,EMP-0021,Department Supervisor,2000-12-02,Approved,
+REV-00371,POL-0097, EMP-0038 ,Senior Analyst,2022-12-02,Approved,Formatting changes only.
+REV-00372,POL-0026,,Policy Reviewer,2015-05-11,Approved,
+REV-00373,POL-0252,EMP-0013,Department Supervisor,"Mar 10, 2024",Rejected, Looks good. 
+REV-00374, POL-0209 ,EMP-0047,Policy Reviewer,2009-12-24,Rejected, Update section 3. 
+REV-00375,POL-0035,EMP-0013,Department Supervisor,2012-08-28,Approved,
+REV-00376,POL-0093,EMP-0045,Policy Analyst,2013-01-27,Approved,Please verify citation.
+REV-00377,POL-0192,EMP-0022,Department Supervisor,2001-12-22,Approved,Minor edits requested.
+REV-00378,POL-0295,EMP-0024,Department Supervisor,2001-03-14,Approved,Please verify citation.
+REV-00379,POL-0141,EMP-0036,Senior Analyst,2006-12-19,Approved,
+REV-00380,POL-0053,EMP-0021,Department Supervisor, 2013-12-03 ,Approved,Please verify citation.
+REV-00381,POL-0169,EMP-0047,Policy Reviewer,2011-04-14,Approved,
+REV-00382,POL-0114,EMP-0032, Compliance Analyst ,2024-09-29,Rejected,Update section 3.
+REV-00383, POL-0232 ,EMP-0016,Department Supervisor,2006-10-10,,Please verify citation.
+REV-00384,POL-0011,EMP-0014,Department Supervisor,2016-01-05,Approved,
+REV-00385,POL-0258, EMP-0025 , Compliance Analyst ,,Approved,
+ REV-00386 ,POL-0032,EMP-0049,Senior Analyst,2015-10-11, Approved ,Please verify citation.
+REV-00387,POL-0231,EMP-0031,Compliance Analyst,2018-04-17,Rejected,
+REV-00388,POL-0038,EMP-0039, Policy Analyst ,2012-10-04,Rejected,Update section 3.
+REV-00389,POL-0030,EMP-0033,Compliance Analyst,2010-09-24,Approved,Please verify citation.
+REV-00390,POL-0048,EMP-0038,Senior Analyst,2017-05-03,Rejected,Looks good.
+ REV-00391 ,POL-0269,EMP-0016,Department Supervisor,2017-07-19,Approved,Please verify citation.
+REV-00392,POL-0223,EMP-0026,Compliance Analyst,2013-09-30,Approved,Formatting changes only.
+REV-00393,POL-0094,EMP-0016,,,Approved, Minor edits requested. 
+REV-00394,POL-0158,EMP-0035,Senior Analyst,"Jun 01, 2007",Approved,Formatting changes only.
+REV-00395,POL-0028,EMP-0035,Senior Analyst,2007-06-02,Approved,Minor edits requested.
+ REV-00396 ,POL-0013, EMP-0017 ,Department Supervisor,09/04/2016,Approved,
+REV-00397,POL-0034,EMP-0030,,2000-09-24,Approved, Update section 3. 
+REV-00398,POL-0167,EMP-0028,Compliance Analyst,08/22/2016,Approved,
+ REV-00399 ,POL-0298,EMP-0016,Department Supervisor,2006-06-10,Approved,Looks good.
+REV-00400,POL-0190,EMP-0039,Policy Analyst,2019-10-31,Approved,Please verify citation.
+REV-00401,POL-0227,EMP-0043, Policy Reviewer ,"May 19, 2025",Approved,Update section 3.
+REV-00402,POL-0299,EMP-0012,Department Supervisor,2005-02-17,Approved,
+REV-00403,POL-0159,EMP-0046,Policy Reviewer,2016-05-16,Approved,
+REV-00404,POL-0135,EMP-0035,Senior Analyst,2015-01-19,Approved,  
+REV-00405,POL-0235,EMP-0037,Policy Reviewer,2013-08-03,Approved,Update section 3.
+REV-00406,POL-0161,EMP-0046,Policy Reviewer,"Apr 18, 2004",Approved,Looks good.
+REV-00407,POL-0288,EMP-0021,Department Supervisor,2023-11-15,Approved,Formatting changes only.
+REV-00408,POL-0105,EMP-0021,Department Supervisor,07/29/2017,Approved,Looks good.
+REV-00409,POL-0002,EMP-0030,Compliance Analyst,2012-07-23,Approved,Minor edits requested.
+REV-00410,POL-0065, EMP-0020 ,Department Supervisor,2022-08-14,Approved,
+REV-00411,POL-0260,EMP-0038,Senior Analyst, 2007-12-31 ,,Minor edits requested.
+REV-00412,POL-0079,EMP-0030,Compliance Analyst,2019-05-22,Rejected,
+REV-00413,POL-0185,EMP-0034,Compliance Analyst,2003-12-13, Approved ,Minor edits requested.
+REV-00414,POL-0266,EMP-0051,Policy Analyst,2011-07-24,Approved,Update section 3.
+REV-00415,POL-0096,EMP-0040,Senior Analyst,2009-04-08,Approved,
+REV-00416,POL-0145, EMP-0030 ,Compliance Analyst,2006-07-29,Approved,
+REV-00417, POL-0168 ,EMP-0032,Compliance Analyst,2018-04-01,Approved,Please verify citation.
+ REV-00418 ,POL-0157,EMP-0032,Compliance Analyst,2017-07-16,Approved,Update section 3.
+REV-00419,POL-0045,,Senior Analyst,07/07/2015,Rejected,Formatting changes only.
+REV-00420,POL-0091,EMP-0030,Compliance Analyst, 2006-08-09 ,Approved,Minor edits requested.
+REV-00421,POL-0070,EMP-0041,Policy Reviewer,2009-07-04,Rejected,Minor edits requested.
+REV-00422,POL-0048,EMP-0036,Senior Analyst,,Approved,Minor edits requested.
+REV-00423,POL-0109,EMP-0051,Policy Analyst,2013-07-28,Approved,Update section 3.
+REV-00424,POL-0277,EMP-0031,Compliance Analyst,2011-05-16,Approved,Update section 3.
+REV-00425,POL-0027,,Senior Analyst,2013-01-26,Approved,Minor edits requested.
+REV-00426,POL-0122,EMP-0047,Policy Reviewer,09-Aug-2005,Approved,Looks good.
+REV-00427,POL-0145,EMP-0022,Department Supervisor,2024-12-21,Approved,
+REV-00428,POL-0002,EMP-0012,Department Supervisor, 2025-03-04 ,,Formatting changes only.
+REV-00429,POL-0279,EMP-0024, Department Supervisor , 2021-03-16 ,Approved,Update section 3.
+REV-00430,POL-0163,EMP-0015,Department Supervisor, 2013-07-26 ,Approved,Update section 3.
+REV-00431,POL-0042,EMP-0019,Department Supervisor,2022-11-23,Approved,Formatting changes only.
+REV-00432,POL-0223,EMP-0026,Compliance Analyst,2014-01-30,Approved,Minor edits requested.
+REV-00433, POL-0228 ,EMP-0038,Senior Analyst, 2007-05-31 ,Rejected,Update section 3.
+REV-00434,POL-0206,EMP-0039,Policy Analyst,2003-10-25, Approved ,Please verify citation.
+ REV-00435 ,POL-0005,,Policy Reviewer,12/29/2021,Rejected,Update section 3.
+REV-00436,POL-0199,EMP-0043,Policy Reviewer,2024-06-20,Approved,Formatting changes only.
+REV-00437,POL-0181,EMP-0045,Policy Analyst,2019-04-06,Approved,
+REV-00438,POL-0229,EMP-0045,Policy Analyst,2016-08-16,Approved,Please verify citation.
+ REV-00439 , POL-0165 ,EMP-0017,Department Supervisor,2004-04-23,Approved,Looks good.
+REV-00440,POL-0124,EMP-0021,Department Supervisor,2016-06-03,Approved,Formatting changes only.
+REV-00441,POL-0251,EMP-0047,Policy Reviewer,2002-06-26,Approved,Formatting changes only.
+REV-00442,POL-0218,EMP-0032,Compliance Analyst,2018-06-04,Approved,Update section 3.
+REV-00443,POL-0047,EMP-0011,Department Supervisor,2005-04-01,Approved,
+REV-00444,POL-0186,EMP-0025,Compliance Analyst,2012-02-08,Approved,Please verify citation.
+REV-00445,POL-0032, EMP-0046 , Policy Reviewer ,2023-10-08,Approved,Please verify citation.
+REV-00446,POL-0182, EMP-0039 ,Policy Analyst,,Rejected,Minor edits requested.
+REV-00447,POL-0128, EMP-0040 ,Senior Analyst,2018-01-16,Approved,Formatting changes only.
+REV-00448,POL-0044,EMP-0020,Department Supervisor,2022-12-12,Rejected, Minor edits requested. 
+REV-00449,POL-0087,EMP-0041,Policy Reviewer,2001-08-07,Approved,  
+REV-00450,POL-0232,EMP-0037,,2013-10-01,Approved,
+REV-00451,POL-0162,EMP-0020, Department Supervisor ,2005-09-14, Rejected ,Minor edits requested.
+REV-00452,POL-0018,EMP-0032,Compliance Analyst,,Approved,Update section 3.
+REV-00453,POL-0204,EMP-0044,Policy Analyst,2009-10-11,Approved,Update section 3.
+REV-00454,POL-0289,EMP-0041,Policy Reviewer,2016-02-14,Approved,
+REV-00455,POL-0062,EMP-0039,,2020-02-25,Approved,Minor edits requested.
+REV-00456,POL-0284,EMP-0030,Compliance Analyst,"Jul 06, 2003",Approved,
+REV-00457,POL-0013,,Department Supervisor,2005-08-29,Approved,Minor edits requested.
+REV-00458,POL-0109,EMP-0054,Senior Analyst,,Approved,Looks good.
+REV-00459,POL-0108,EMP-0044,Policy Analyst,06/10/2011,, Looks good. 
+REV-00460,POL-0298,EMP-0021,Department Supervisor,2025-04-03,Approved,Minor edits requested.
+REV-00461,POL-0241,EMP-0038, Senior Analyst ,2025-08-11,Approved,Update section 3.
+REV-00462,POL-0174,EMP-0036,Senior Analyst,2010-11-24,Approved,Formatting changes only.
+REV-00463,POL-0267,EMP-0022,,10/09/2008,Rejected,Formatting changes only.
+REV-00464,POL-0052,EMP-0036,Senior Analyst,2019-11-19,,
+REV-00465,POL-0126,EMP-0039,Policy Analyst,2009-05-07,Approved,Please verify citation.
+REV-00466,POL-0267,EMP-0035,Senior Analyst, 2019-10-07 , Approved ,
+REV-00467,POL-0159,EMP-0024,Department Supervisor,02/18/2010,Approved,Minor edits requested.
+REV-00468,POL-0197,EMP-0047,Policy Reviewer,2003-04-22,Approved,
+REV-00469,POL-0192,EMP-0022,Department Supervisor,2024-07-31,Rejected,Minor edits requested.
+REV-00470,POL-0096,EMP-0023,Department Supervisor,02/13/2015,Approved,Update section 3.
+REV-00471,POL-0066, EMP-0027 ,Compliance Analyst,11-Aug-2005,Approved,Formatting changes only.
+REV-00472,POL-0098,EMP-0044,Policy Analyst,2022-06-15,Approved,Formatting changes only.
+REV-00473,POL-0003,EMP-0049,Senior Analyst,"Jul 22, 2014",Approved,Update section 3.
+REV-00474,POL-0125,EMP-0048,Policy Reviewer, 2018-02-08 ,Approved,
+REV-00475, POL-0197 ,EMP-0033, Compliance Analyst ,2016-02-08,Approved,Update section 3.
+ REV-00476 ,POL-0029,EMP-0054,Senior Analyst,2008-03-27,Approved, Formatting changes only. 
+REV-00477,POL-0298,EMP-0050,Policy Reviewer,2013-11-03,, Please verify citation. 
+REV-00478,POL-0189,EMP-0054,Senior Analyst,2004-04-19,Approved,Looks good.
+REV-00479, POL-0276 ,EMP-0018,,2014-07-19,Rejected,Looks good.
+REV-00480,POL-0080, EMP-0018 ,Department Supervisor,2014-03-13,Approved,
+REV-00481,POL-0028,EMP-0020,Department Supervisor,"Mar 30, 2017",Approved,Please verify citation.
+ REV-00482 ,POL-0152, EMP-0037 ,Policy Reviewer,"Dec 03, 2017",Approved,Please verify citation.
+REV-00483,POL-0035,EMP-0047,Policy Reviewer,2006-09-06,,Update section 3.
+REV-00484,POL-0187,EMP-0022,Department Supervisor,06/23/2019,Approved,Update section 3.
+REV-00485,POL-0172,EMP-0052,Senior Analyst,08-Aug-2024,Approved,Looks good.
+REV-00486,POL-0094,EMP-0021,Department Supervisor,2025-05-22,Approved,Update section 3.
+REV-00487,POL-0058,EMP-0019,Department Supervisor,2013-06-15,Approved,Looks good.
+REV-00488,POL-0086,EMP-0039,Policy Analyst,2014-08-11,Approved,Please verify citation.
+REV-00489,POL-0103, EMP-0033 ,Compliance Analyst,2002-11-26,Approved,
+REV-00490,POL-0211,EMP-0019,Department Supervisor,2022-03-27,Approved,Looks good.
+REV-00491,POL-0244,EMP-0046,Policy Reviewer,,,Please verify citation.
+REV-00492, POL-0300 ,EMP-0037,Policy Reviewer,2022-09-13,Approved,
+REV-00493,POL-0042,,Policy Reviewer,2022-07-22,Approved, Formatting changes only. 
+REV-00494,POL-0289,EMP-0042,Senior Analyst, 2020-05-29 ,Rejected,Looks good.
+ REV-00495 ,POL-0078, EMP-0047 ,Policy Reviewer,03/16/2004,Approved,
+REV-00496,POL-0155,EMP-0029,Compliance Analyst,2010-05-23,Approved,  
+REV-00497, POL-0238 ,EMP-0025,Compliance Analyst,2012-10-29,Approved,Please verify citation.
+REV-00498,POL-0270,EMP-0021,Department Supervisor, 2013-06-12 ,Approved,Update section 3.
+REV-00499,POL-0252,EMP-0046,Policy Reviewer,2022-09-19,Approved,Please verify citation.
+REV-00500,POL-0255,EMP-0047,Policy Reviewer, 2005-07-29 ,Approved,
+REV-00501,POL-0125,EMP-0045,Policy Analyst, 2012-07-07 ,Approved,
+REV-00502,POL-0154,EMP-0013, Department Supervisor ,,Approved,Formatting changes only.
+REV-00503,POL-0274,EMP-0045,,2020-04-18, Approved , Looks good. 
+REV-00504,POL-0069,EMP-0017,Department Supervisor,07/27/2019,Rejected, Formatting changes only. 
+REV-00505,POL-0131,EMP-0030,Compliance Analyst,08/08/2011,Approved,  
+REV-00506,POL-0057,EMP-0027,Compliance Analyst, 2020-09-02 ,Approved,Minor edits requested.
+ REV-00507 ,POL-0193,EMP-0039,Policy Analyst,26-May-2004, Approved ,
+REV-00508,POL-0066,EMP-0024,Department Supervisor,2011-02-16, Approved ,Formatting changes only.
+REV-00509,POL-0175,EMP-0050,Policy Reviewer,2016-03-23,Approved,Formatting changes only.
+REV-00510,POL-0242,EMP-0021, Department Supervisor ,2019-09-15,Approved,Please verify citation.
+REV-00511,POL-0009,EMP-0024,Department Supervisor,09/29/2006,Approved,Looks good.
+REV-00512,POL-0242,EMP-0047, Policy Reviewer , 2003-02-28 ,Approved,Minor edits requested.
+REV-00513,POL-0146,EMP-0028,Compliance Analyst,16-May-2024,Approved,Please verify citation.
+ REV-00514 ,POL-0093,EMP-0021,Department Supervisor,"Aug 31, 2024",Approved,Minor edits requested.
+REV-00515,POL-0143,EMP-0029,Compliance Analyst,2013-08-16,Approved,Please verify citation.
+REV-00516,POL-0221,EMP-0043,Policy Reviewer,2012-06-28,Rejected,Formatting changes only.
+ REV-00517 ,POL-0031,EMP-0019,Department Supervisor,08-Oct-2004,Approved,Update section 3.
+REV-00518,POL-0249, EMP-0028 , Compliance Analyst ,2003-02-27,,
+REV-00519, POL-0284 ,EMP-0019,Department Supervisor,2006-03-10,Rejected,Looks good.
+REV-00520,POL-0211, EMP-0031 ,Compliance Analyst,01/22/2007,Approved,Looks good.
+REV-00521,POL-0262,EMP-0042,,2018-02-11,,Looks good.
+ REV-00522 ,POL-0009,EMP-0051,Policy Analyst,2012-07-20,Approved,Update section 3.
+ REV-00523 ,POL-0212,EMP-0039,Policy Analyst,,,
+REV-00524,POL-0073,EMP-0036,Senior Analyst, 2004-09-03 ,Approved,Please verify citation.
+REV-00525,POL-0004,EMP-0034,Compliance Analyst,2012-12-23,Approved,Update section 3.
+ REV-00526 ,POL-0289,EMP-0031, Compliance Analyst ,2022-05-23,Approved,Please verify citation.
+ REV-00527 ,POL-0287,EMP-0016,Department Supervisor,2000-08-10,Approved,Formatting changes only.
+REV-00528,POL-0086,EMP-0051,Policy Analyst,2021-01-23,Approved,Formatting changes only.
+REV-00529, POL-0015 ,EMP-0015,Department Supervisor,2016-07-26,Approved,
+REV-00530,POL-0180,EMP-0024,Department Supervisor,2018-05-04,Approved,Update section 3.
+REV-00531,POL-0287,EMP-0042,Senior Analyst,2009-12-31,Approved,Minor edits requested.
+REV-00532,POL-0060,EMP-0029,Compliance Analyst,12/24/2014,Approved,Minor edits requested.
+ REV-00533 ,POL-0281,EMP-0047,Policy Reviewer,"Jan 18, 2025",,Looks good.
+REV-00534, POL-0218 ,EMP-0032,Compliance Analyst, 2022-04-08 ,Approved,Formatting changes only.
+REV-00535,POL-0289, EMP-0013 ,Department Supervisor,2002-09-02,Approved,
+ REV-00536 ,POL-0098,EMP-0012,Department Supervisor,2021-02-10,Approved,
+REV-00537,POL-0296,EMP-0039,Policy Analyst,2007-08-02,Approved,Update section 3.
+REV-00538,POL-0224,EMP-0038,Senior Analyst,2000-07-12,Approved,Looks good.
+REV-00539,POL-0064,,Senior Analyst,2006-06-01,Approved,Minor edits requested.
+REV-00540,POL-0227,EMP-0028,Compliance Analyst,2007-08-18,Approved,
+REV-00541,POL-0265,EMP-0027,Compliance Analyst,2016-08-31,Rejected,
+REV-00542,POL-0271,EMP-0053,Senior Analyst,2017-03-06,Approved,Formatting changes only.
+REV-00543,POL-0086,EMP-0014,Department Supervisor, 2007-12-03 ,Approved,Update section 3.
+REV-00544,POL-0096,EMP-0025,Compliance Analyst, 2014-03-15 ,Approved,Update section 3.
+ REV-00545 ,POL-0291,EMP-0017,Department Supervisor,2004-08-03,Approved,
+REV-00546,POL-0041,EMP-0041,Policy Reviewer,2010-01-26,Approved,
+REV-00547, POL-0092 ,EMP-0048,Policy Reviewer,2006-06-14,Approved,Looks good.
+REV-00548,POL-0145,EMP-0054,Senior Analyst,2023-10-19,Rejected,Update section 3.
+REV-00549, POL-0039 ,EMP-0011,Department Supervisor,2000-11-30,Approved,Formatting changes only.
+REV-00550,POL-0015,EMP-0018,Department Supervisor, 2015-11-29 ,Approved,Update section 3.
+REV-00551,POL-0006,,Policy Reviewer,2006-06-05, Rejected ,  
+REV-00552,POL-0273,EMP-0035, Senior Analyst ,2010-10-08,Approved,
+REV-00553,POL-0006,EMP-0017,,02/03/2005,Approved,Minor edits requested.
+REV-00554,POL-0188,EMP-0030,Compliance Analyst, 2016-12-26 ,Approved, Looks good. 
+REV-00555,POL-0201,EMP-0019,Department Supervisor,2017-08-31,Approved,Formatting changes only.
+REV-00556,POL-0189,EMP-0015,Department Supervisor,2006-11-27,Approved,Please verify citation.
+REV-00557,POL-0025,EMP-0050,Policy Reviewer,16-Nov-2000,Approved,Formatting changes only.
+REV-00558,POL-0193,EMP-0039,Policy Analyst,2007-11-10,Approved,Minor edits requested.
+REV-00559,POL-0210,EMP-0051,Policy Analyst,2010-01-20,Approved,
+REV-00560,POL-0130,EMP-0037,Policy Reviewer,04/16/2007,Approved,Please verify citation.
+REV-00561,POL-0057,EMP-0024,Department Supervisor,2020-05-05, Approved ,  
+REV-00562,POL-0017,EMP-0019,Department Supervisor,2005-01-02,Rejected,
+REV-00563,POL-0162,EMP-0033,Compliance Analyst, 2017-09-21 ,Approved,Update section 3.
+REV-00564,POL-0110,EMP-0019, Department Supervisor ,2014-08-09,Approved,Looks good.
+REV-00565,POL-0234,,Senior Analyst,2012-12-02,Approved,
+REV-00566,POL-0164,EMP-0046,Policy Reviewer,18-Aug-2011,Approved,Please verify citation.
+REV-00567,POL-0248,EMP-0012,Department Supervisor,"Apr 12, 2013",Approved,Formatting changes only.
+REV-00568,POL-0125,EMP-0024,Department Supervisor,"Jan 11, 2014",Approved,Please verify citation.
+REV-00569,POL-0232,EMP-0023, Department Supervisor ,2023-05-10,Approved,Formatting changes only.
+ REV-00570 ,POL-0168,EMP-0029,Compliance Analyst,2018-01-26, Approved ,Formatting changes only.
+REV-00571, POL-0262 ,EMP-0026,,2002-12-12,Approved,Update section 3.
+REV-00572, POL-0217 ,EMP-0018,Department Supervisor,2017-10-22,Rejected,Looks good.
+REV-00573,POL-0235,EMP-0051,Policy Analyst,2022-11-28,Approved,Please verify citation.
+REV-00574,POL-0176,EMP-0044,Policy Analyst,2003-09-07,Rejected,
+REV-00575,POL-0050,EMP-0031,Compliance Analyst,2016-09-11,Rejected,Looks good.
+REV-00576,POL-0226,EMP-0047,Policy Reviewer,2017-11-06,,Update section 3.
+REV-00577,POL-0183,EMP-0045,Policy Analyst,,Approved,Formatting changes only.
+REV-00578,POL-0125,EMP-0041,Policy Reviewer,2008-03-31,Approved,
+REV-00579,POL-0270,EMP-0048,Policy Reviewer,2001-03-31,Approved,
+REV-00580,POL-0121,EMP-0027,Compliance Analyst,2001-02-11,Approved,Looks good.
+REV-00581,POL-0245,EMP-0014,Department Supervisor,04/14/2002,Approved,Update section 3.
+REV-00582,POL-0090,EMP-0029,Compliance Analyst,2023-03-23,Approved,Formatting changes only.
+REV-00583,POL-0218,EMP-0037,Policy Reviewer,2022-12-22,Approved,Update section 3.
+REV-00584,POL-0003,EMP-0016,Department Supervisor,2018-07-17,Approved,Formatting changes only.
+REV-00585,POL-0279,EMP-0045,Policy Analyst,2024-07-26,Approved,Please verify citation.
+REV-00586,POL-0064,EMP-0028,Compliance Analyst,05/07/2007,Approved,
+REV-00587,POL-0203,EMP-0016,Department Supervisor,2014-05-26, Approved ,
+REV-00588,POL-0017,EMP-0020,Department Supervisor,2009-08-12,Approved,Please verify citation.
+REV-00589,POL-0284,EMP-0036,Senior Analyst,2015-02-26,,Please verify citation.
+REV-00590,POL-0119,EMP-0030,Compliance Analyst,2003-06-19,Approved,Formatting changes only.
+REV-00591,POL-0204, EMP-0026 , Compliance Analyst ,2020-02-14, Approved ,
+REV-00592,POL-0020,EMP-0016,Department Supervisor,2011-06-19,Approved,
+REV-00593,POL-0145,EMP-0040,Senior Analyst,2005-09-13,Approved,Please verify citation.
+REV-00594,POL-0036,EMP-0030,Compliance Analyst,"Dec 19, 2002",Approved,
+REV-00595,POL-0186,EMP-0018,Department Supervisor,2008-05-17,Approved,
+REV-00596,POL-0069,EMP-0011,Department Supervisor,2006-08-27,Approved,Looks good.
+REV-00597,POL-0267,EMP-0033,Compliance Analyst,2022-10-07,Rejected,Please verify citation.
+REV-00598,POL-0113,EMP-0027,Compliance Analyst,2023-09-13,Approved,Looks good.
+REV-00599,POL-0145,EMP-0019,Department Supervisor,2017-03-06,Approved,Formatting changes only.
+REV-00600,POL-0226,EMP-0018,Department Supervisor,"Jul 21, 2012",Rejected,
+REV-00601,POL-0219,EMP-0038,Senior Analyst,"Jul 11, 2015",Approved,Minor edits requested.
+ REV-00602 ,POL-0292,EMP-0015,Department Supervisor,2023-12-30,Approved,Minor edits requested.
+REV-00603,POL-0254,,Senior Analyst,12/15/2003,Approved,Update section 3.
+REV-00604,POL-0156,EMP-0034,Compliance Analyst,2023-05-30,Approved,
+REV-00605,POL-0222,,Policy Reviewer,28-Nov-2022,Approved,Looks good.
+REV-00606,POL-0175,EMP-0021,Department Supervisor,2016-12-28,Approved,Minor edits requested.
+REV-00607,POL-0222,,Policy Reviewer,2005-02-10,Approved,Formatting changes only.
+REV-00608,POL-0154,,Compliance Analyst,2005-09-02, Approved ,Formatting changes only.
+REV-00609,POL-0282,EMP-0011,Department Supervisor,28-Apr-2023,Approved,  
+REV-00610,POL-0073,EMP-0026,,2001-01-18,Approved,
+REV-00611,POL-0297,EMP-0034,Compliance Analyst,2021-08-29,Approved,Update section 3.
+REV-00612,POL-0031,EMP-0022,Department Supervisor,2007-03-25,Approved,  
+REV-00613, POL-0017 ,EMP-0052,Senior Analyst,2025-04-19,Approved, Update section 3. 
+REV-00614,POL-0118,EMP-0031, Compliance Analyst ,2010-07-27,Approved,Looks good.
+REV-00615,POL-0044,EMP-0031,Compliance Analyst,2019-03-03,Approved,Minor edits requested.
+REV-00616,POL-0073,EMP-0047,Policy Reviewer,2003-12-29,Approved,Minor edits requested.
+REV-00617,POL-0263,EMP-0043,Policy Reviewer,08-Nov-2005,Approved,Formatting changes only.
+REV-00618,POL-0006,EMP-0022, Department Supervisor ,2002-11-10,,Looks good.
+REV-00619,POL-0294,EMP-0013,Department Supervisor,2023-08-20,Approved,Update section 3.
+REV-00620,POL-0015,EMP-0040,Senior Analyst,2003-08-04,Approved,Minor edits requested.
+REV-00621,POL-0234,EMP-0031,Compliance Analyst,2014-06-08,Approved,  
+REV-00622,POL-0285,,Senior Analyst,,Approved,
+REV-00623,POL-0263,EMP-0023,Department Supervisor,2017-01-17,Approved,Minor edits requested.
+REV-00624,POL-0289,EMP-0050,Policy Reviewer,,Approved,Looks good.
+REV-00625,POL-0218,EMP-0034,Compliance Analyst,2021-04-22,Approved,Please verify citation.
+REV-00626, POL-0182 ,EMP-0023, Department Supervisor ,2022-08-18,Approved,Formatting changes only.
+REV-00627,POL-0122,EMP-0026,Compliance Analyst,2025-01-05,Approved,Looks good.
+REV-00628,POL-0192,EMP-0037,Policy Reviewer,2000-10-13,Approved,
+REV-00629,POL-0268,EMP-0045, Policy Analyst ,2010-12-13,Rejected, Minor edits requested. 
+REV-00630,POL-0004,EMP-0032,Compliance Analyst,2000-12-05,Approved,
+REV-00631,POL-0217,EMP-0030,Compliance Analyst,05/17/2017,Approved,
+REV-00632,POL-0045,EMP-0044,Policy Analyst,2009-09-13,Approved,Looks good.
+REV-00633,POL-0291,EMP-0042, Senior Analyst ,2019-05-01,Approved,
+REV-00634,POL-0169,EMP-0028, Compliance Analyst ,2006-11-19,Approved,
+REV-00635,POL-0074,EMP-0025,Compliance Analyst,,Approved,Please verify citation.
+REV-00636,POL-0057,EMP-0034,Compliance Analyst,2019-01-10,Approved,Update section 3.
+REV-00637,POL-0130, EMP-0048 ,Policy Reviewer,22-Apr-2004,Approved,
+REV-00638,POL-0233,EMP-0019,Department Supervisor,,Rejected,
+REV-00639,POL-0107,EMP-0015,Department Supervisor,"Mar 10, 2018",Approved,Please verify citation.
+REV-00640,POL-0207,EMP-0038,Senior Analyst,2003-04-17,Approved,Formatting changes only.
+ REV-00641 ,POL-0202,EMP-0026,Compliance Analyst,"May 12, 2006",Rejected,
+REV-00642,POL-0067,EMP-0031,Compliance Analyst,16-Mar-2012,Approved,Update section 3.
+REV-00643,POL-0259,EMP-0031,Compliance Analyst,"Feb 18, 2015",Approved,Update section 3.
+REV-00644,POL-0244, EMP-0025 ,Compliance Analyst,09/11/2012, Approved ,
+REV-00645,POL-0185,EMP-0019,Department Supervisor,2009-08-04,Approved,
+REV-00646,POL-0277,EMP-0020,,2005-05-21,Approved,
+REV-00647,POL-0095,EMP-0039,Policy Analyst,2007-11-15,Approved,Update section 3.
+REV-00648,POL-0120,EMP-0037,Policy Reviewer,2014-08-02,Approved,
+REV-00649,POL-0165,EMP-0033,Compliance Analyst,2024-07-15,Approved,Looks good.
+REV-00650, POL-0106 , EMP-0030 ,Compliance Analyst,2020-10-08,Approved,Update section 3.
+REV-00651,POL-0056,EMP-0018,Department Supervisor,"May 20, 2012",Approved,
+ REV-00652 ,POL-0230,EMP-0054,Senior Analyst,"Jul 27, 2007",Rejected,Minor edits requested.
+REV-00653,POL-0253,EMP-0024,Department Supervisor,"Apr 22, 2002",Rejected,Minor edits requested.
+REV-00654,POL-0039,EMP-0016,Department Supervisor,25-Feb-2007,Approved,Formatting changes only.
+REV-00655,POL-0005,EMP-0033,Compliance Analyst,2011-08-19, Approved ,Update section 3.
+REV-00656,POL-0137,EMP-0014,Department Supervisor,2023-07-13,Approved,Formatting changes only.
+REV-00657,POL-0139,EMP-0027,Compliance Analyst,26-Nov-2013,,Looks good.
+REV-00658,POL-0049,EMP-0036,Senior Analyst,,Approved,Update section 3.
+REV-00659,POL-0162,EMP-0046,Policy Reviewer,2025-06-08, Approved ,Looks good.
+REV-00660,POL-0123,EMP-0040,Senior Analyst,09/29/2004,Approved,
+REV-00661,POL-0244,EMP-0018,Department Supervisor,2006-10-08,Approved,
+REV-00662,POL-0159,EMP-0025,Compliance Analyst,2003-04-07,Rejected,Looks good.
+REV-00663,POL-0184,EMP-0036, Senior Analyst ,05/21/2009,Approved,Minor edits requested.
+REV-00664,POL-0022,EMP-0048,Policy Reviewer,,Approved,Please verify citation.
+REV-00665,POL-0106,EMP-0015,Department Supervisor,09-Feb-2012,Approved,
+REV-00666,POL-0086,EMP-0023,Department Supervisor,2003-05-23,Approved,Formatting changes only.
+REV-00667,POL-0299,EMP-0019, Department Supervisor ,"May 22, 2020",Approved,
+REV-00668,POL-0136,EMP-0018,Department Supervisor, 2015-05-16 ,Approved,
+REV-00669,POL-0151,EMP-0014, Department Supervisor ,2021-03-05,Rejected, Looks good. 
+REV-00670, POL-0026 ,EMP-0036,Senior Analyst,2019-12-05,Approved,Update section 3.
+ REV-00671 ,POL-0141,EMP-0035, Senior Analyst ,2001-10-27,Approved,
+REV-00672,POL-0124,EMP-0022,Department Supervisor,2019-08-21,Approved,Minor edits requested.
+REV-00673,POL-0266,EMP-0022,Department Supervisor,2010-02-16,Approved,Minor edits requested.
+REV-00674,POL-0212,EMP-0039,Policy Analyst,01/19/2013,Approved,Looks good.
+ REV-00675 ,POL-0169,EMP-0050,Policy Reviewer,2002-01-19, Rejected ,Please verify citation.
+REV-00676,POL-0248,EMP-0052,Senior Analyst,10-Jul-2011,Approved,Minor edits requested.
+REV-00677,POL-0017,EMP-0037,Policy Reviewer,2022-11-16,Approved,Please verify citation.
+REV-00678,POL-0252,EMP-0014,Department Supervisor,12/26/2021,Approved,
+REV-00679,POL-0195,EMP-0035,Senior Analyst,2013-01-17,Approved,Looks good.
+REV-00680,POL-0116,EMP-0023,Department Supervisor,21-Apr-2019,Approved,Formatting changes only.
+REV-00681,POL-0216,EMP-0026,Compliance Analyst,2024-01-31,Approved,Formatting changes only.
+REV-00682,POL-0037, EMP-0012 ,Department Supervisor,2024-11-19,Approved,Update section 3.
+ REV-00683 ,POL-0228,EMP-0041,Policy Reviewer,09-Aug-2016, Approved ,Please verify citation.
+ REV-00684 ,POL-0241,EMP-0033,Compliance Analyst,2022-03-28,Approved,Please verify citation.
+REV-00685,POL-0223,EMP-0031,Compliance Analyst,01/13/2023,Approved,Update section 3.
+REV-00686,POL-0164,EMP-0022,Department Supervisor,2012-08-17,Approved,
+REV-00687,POL-0232,EMP-0049,Senior Analyst,2014-10-20,Approved,Looks good.
+REV-00688,POL-0269,,Compliance Analyst,24-Oct-2001, Approved ,
+REV-00689,POL-0260, EMP-0044 ,Policy Analyst,28-Aug-2021,Approved,Minor edits requested.
+REV-00690,POL-0241,EMP-0021,Department Supervisor,09-Dec-2010,Approved,
+REV-00691,POL-0239,EMP-0053,Senior Analyst,"Aug 13, 2011",Approved,Looks good.
+REV-00692,POL-0096,EMP-0045,Policy Analyst,2012-06-14, Approved ,Formatting changes only.
+REV-00693,POL-0256,EMP-0025,Compliance Analyst,01/03/2003,Rejected,Please verify citation.
+REV-00694,POL-0033,EMP-0033,Compliance Analyst,2017-12-02,Approved,Looks good.
+REV-00695,POL-0175,EMP-0026,Compliance Analyst,2008-05-25,Approved,Please verify citation.
+ REV-00696 ,POL-0113,EMP-0033,Compliance Analyst,2014-10-06,Approved,Please verify citation.
+REV-00697,POL-0130,EMP-0033,Compliance Analyst,06-Oct-2001,,Please verify citation.
+REV-00698,POL-0117,EMP-0047,Policy Reviewer,2006-11-15,Approved,Looks good.
+REV-00699,POL-0134,EMP-0045,Policy Analyst,2022-07-30,Approved,Minor edits requested.
+REV-00700,POL-0080,EMP-0042,Senior Analyst,2008-05-16,Approved,
+REV-00701,POL-0138,EMP-0014,Department Supervisor,07/18/2004,Approved,Looks good.
+REV-00702,POL-0147,EMP-0012,Department Supervisor,2010-04-24,Approved, Please verify citation. 
+REV-00703,POL-0236,EMP-0011,Department Supervisor,2021-12-09,,Minor edits requested.
+REV-00704,POL-0091,EMP-0019,Department Supervisor,2009-07-14,Approved,Minor edits requested.
+REV-00705,POL-0001,EMP-0031,,,Approved,
+REV-00706,POL-0064,EMP-0020,Department Supervisor,2001-06-25,Approved,Please verify citation.
+REV-00707,POL-0058,EMP-0018,Department Supervisor,2006-11-07,Rejected,Please verify citation.
+REV-00708,POL-0234,EMP-0015,Department Supervisor,2016-11-12,Rejected,Minor edits requested.
+REV-00709,POL-0183,EMP-0048,Policy Reviewer, 2018-03-30 , Approved ,
+REV-00710,POL-0090,EMP-0030,Compliance Analyst, 2015-08-06 ,Approved,Minor edits requested.
+REV-00711,POL-0110,EMP-0021,Department Supervisor,14-Aug-2006, Approved , Formatting changes only. 
+REV-00712,POL-0109,EMP-0051,Policy Analyst,2020-02-04,Approved,Update section 3.
+REV-00713,POL-0055,EMP-0022, Department Supervisor ,24-Sep-2014,Approved,Formatting changes only.
+ REV-00714 ,POL-0034, EMP-0025 ,Compliance Analyst,2016-07-03,Approved,Formatting changes only.
+REV-00715,POL-0282,EMP-0035,Senior Analyst,, Approved ,Minor edits requested.
+REV-00716,POL-0126,EMP-0019,Department Supervisor,2013-09-16,,Looks good.
+REV-00717,POL-0099,EMP-0047,Policy Reviewer,30-Jul-2000,Approved,Update section 3.
+REV-00718,POL-0118,EMP-0022,Department Supervisor,2001-12-13,Approved,Please verify citation.
+REV-00719,POL-0175,EMP-0050,Policy Reviewer,2014-10-09,Approved,Looks good.
+REV-00720,POL-0197,EMP-0042,Senior Analyst,2005-03-02,Approved,Looks good.
+REV-00721,POL-0070,,Department Supervisor,"May 09, 2015",Rejected,Looks good.
+REV-00722,POL-0174,EMP-0031,Compliance Analyst,"Jan 21, 2016",Approved,Looks good.
+REV-00723,POL-0143,EMP-0053,Senior Analyst,2004-06-23,Approved,
+REV-00724, POL-0256 , EMP-0039 ,Policy Analyst,2015-07-23,Approved,
+ REV-00725 ,POL-0162,EMP-0024,,2012-05-24,Approved,Looks good.
+REV-00726,POL-0027,EMP-0033,Compliance Analyst, 2003-07-16 ,Approved,Minor edits requested.
+REV-00727,POL-0117,EMP-0011,Department Supervisor,2005-05-06,Approved,
+REV-00728,POL-0015,EMP-0039,Policy Analyst,2017-10-23,Approved,Formatting changes only.
+ REV-00729 ,POL-0286,EMP-0021,,28-Apr-2019,Approved,Update section 3.
+REV-00730,POL-0091,EMP-0035,Senior Analyst,2022-08-13,Approved,Minor edits requested.
+REV-00731,POL-0283,EMP-0035,,2024-12-28,,
+REV-00732,POL-0034,EMP-0047, Policy Reviewer ,2022-01-02,Approved,Formatting changes only.
+REV-00733,POL-0111,EMP-0021,Department Supervisor,2010-08-13,Approved,Update section 3.
+REV-00734,POL-0059,EMP-0013,Department Supervisor,2003-10-21,Approved,Minor edits requested.
+REV-00735,POL-0230,EMP-0031,Compliance Analyst,05/25/2001,,Minor edits requested.
+REV-00736, POL-0058 ,EMP-0015,Department Supervisor,"Mar 12, 2005",Approved,Minor edits requested.
+REV-00737,POL-0001,EMP-0035,Senior Analyst,,Approved,Looks good.
+REV-00738, POL-0102 , EMP-0046 ,Policy Reviewer,"Nov 11, 2003",Approved,
+REV-00739, POL-0033 ,EMP-0049,Senior Analyst,2015-08-28,Approved, Please verify citation. 
+REV-00740,POL-0005,EMP-0012, Department Supervisor ,2022-02-25,Approved,Update section 3.
+REV-00741,POL-0132,EMP-0049,Senior Analyst,2007-11-25,Rejected,Update section 3.
+REV-00742, POL-0043 ,,Department Supervisor, 2007-07-18 ,Approved,
+REV-00743,POL-0060,EMP-0024,Department Supervisor,2015-05-08,Approved,Looks good.
+REV-00744,POL-0276,EMP-0046,Policy Reviewer,2018-11-09, Approved ,Formatting changes only.
+REV-00745,POL-0186,,Compliance Analyst,2024-09-22,Approved, Formatting changes only. 
+REV-00746,POL-0166,EMP-0030,Compliance Analyst,"Feb 15, 2013",Approved,
+REV-00747,POL-0107,EMP-0014,Department Supervisor,2004-10-19,Approved,Update section 3.
+REV-00748,POL-0250,EMP-0042,Senior Analyst,2025-02-25,Approved,Looks good.
+REV-00749,POL-0263,EMP-0034,Compliance Analyst, 2002-12-11 ,Approved,
+REV-00750,POL-0255,EMP-0016,Department Supervisor,2019-09-05,Approved,Minor edits requested.
+REV-00751,POL-0255,EMP-0023,Department Supervisor,16-Jan-2022,Approved,  
+REV-00752,POL-0203,EMP-0024,Department Supervisor,2001-08-26,Approved,Looks good.
+REV-00753,POL-0004,EMP-0016,Department Supervisor, 2013-08-03 ,Approved,Update section 3.
+REV-00754,POL-0142,EMP-0030,Compliance Analyst,2005-09-05,Approved,
+REV-00755,POL-0229,EMP-0042,Senior Analyst,2021-08-15,Approved,Formatting changes only.
+REV-00756,POL-0237,EMP-0016,Department Supervisor,2012-05-20,Approved,Formatting changes only.
+REV-00757,POL-0206,EMP-0035,Senior Analyst,2024-11-26, Approved ,Looks good.
+REV-00758,POL-0234,EMP-0035,Senior Analyst,2017-02-20,Approved, Minor edits requested. 
+REV-00759,POL-0276,EMP-0039,Policy Analyst,2008-11-12,Approved,
+REV-00760, POL-0079 ,EMP-0039,Policy Analyst,2012-04-22,Approved,Update section 3.
+ REV-00761 ,POL-0117,EMP-0025,Compliance Analyst,2012-04-24,Rejected,Minor edits requested.
+REV-00762,POL-0281,EMP-0020,Department Supervisor,"Apr 06, 2003",Approved,Formatting changes only.
+REV-00763,POL-0086,EMP-0016,Department Supervisor,2004-11-01,Approved,Formatting changes only.
+REV-00764,POL-0178,, Policy Analyst , 2015-12-02 ,Approved,Update section 3.
+ REV-00765 ,POL-0099,EMP-0046,Policy Reviewer,"Sep 14, 2010", Rejected ,
+REV-00766,POL-0232,EMP-0044,Policy Analyst,2017-11-11,Approved,Update section 3.
+REV-00767,POL-0032,EMP-0054,Senior Analyst,2024-07-08,Approved,Update section 3.
+REV-00768,POL-0069,EMP-0041,Policy Reviewer,2011-01-25,Approved,Minor edits requested.
+REV-00769,POL-0235,,Senior Analyst,2004-01-15,Rejected,Formatting changes only.
+REV-00770,POL-0151,EMP-0043, Policy Reviewer ,2002-01-20,Approved,Please verify citation.
+REV-00771,POL-0180,EMP-0047,Policy Reviewer,2023-09-06,Approved,Formatting changes only.
+REV-00772, POL-0170 ,EMP-0018, Department Supervisor ,2007-02-10,Approved,Update section 3.
+ REV-00773 ,POL-0267,EMP-0021,Department Supervisor, 2008-04-02 ,Rejected,Looks good.
+REV-00774,POL-0042, EMP-0019 ,Department Supervisor, 2009-02-21 ,Approved,
+REV-00775,POL-0238,EMP-0016,Department Supervisor,2019-06-28,Approved,Formatting changes only.
+REV-00776,POL-0099,EMP-0023,Department Supervisor,2020-01-11,Approved,Formatting changes only.
+REV-00777,POL-0205,EMP-0049,Senior Analyst,2007-02-17,Approved,Minor edits requested.
+REV-00778,POL-0207,EMP-0015,Department Supervisor,2014-11-03,Approved,  
+REV-00779,POL-0149,EMP-0046,Policy Reviewer,, Approved ,Update section 3.
+REV-00780,POL-0191,EMP-0031,Compliance Analyst,2025-04-05,Approved,Minor edits requested.
+REV-00781,POL-0155,EMP-0040,Senior Analyst,2023-10-23,Approved,
+REV-00782, POL-0241 ,EMP-0037, Policy Reviewer ,2023-12-09,Approved,
+REV-00783,POL-0175,EMP-0020,Department Supervisor,02/02/2019, Rejected ,Looks good.
+REV-00784,POL-0109,EMP-0017,Department Supervisor,2004-12-28,,Please verify citation.
+REV-00785,POL-0287, EMP-0029 ,Compliance Analyst,2005-01-10,Rejected,Please verify citation.
+REV-00786,POL-0155,EMP-0037,Policy Reviewer,2015-12-03,Approved, Minor edits requested. 
+REV-00787,POL-0285,EMP-0052,Senior Analyst,2017-09-05,Rejected,Update section 3.
+REV-00788,POL-0191,EMP-0013,Department Supervisor,2021-09-19,Approved,Looks good.
+REV-00789,POL-0180,EMP-0036,Senior Analyst,2012-11-07,Approved,Looks good.
+REV-00790,POL-0121,,Department Supervisor,2018-07-08,Approved, Update section 3. 
+REV-00791,POL-0209,EMP-0026,Compliance Analyst,2015-05-15,Rejected,
+REV-00792,POL-0101,EMP-0028,Compliance Analyst,2021-10-24,Approved,Minor edits requested.
+REV-00793,POL-0250, EMP-0032 ,Compliance Analyst,2001-05-28,Rejected,Minor edits requested.
+REV-00794,POL-0293,,Compliance Analyst,06/12/2014,Approved,Update section 3.
+REV-00795,POL-0017,EMP-0025,Compliance Analyst,11/26/2004,Rejected,Looks good.
+REV-00796,POL-0005,EMP-0039,Policy Analyst,2013-12-23,Approved,Minor edits requested.
+REV-00797,POL-0113,EMP-0037,Policy Reviewer,2012-08-01,Approved,Please verify citation.
+REV-00798,POL-0286,EMP-0023,Department Supervisor,2004-07-02,Approved,Update section 3.
+REV-00799,POL-0206,EMP-0037,Policy Reviewer,2009-12-24,Approved,Formatting changes only.
+REV-00800,POL-0132,EMP-0044,Policy Analyst,2022-03-25,Approved,Minor edits requested.
+REV-00801, POL-0199 ,EMP-0043,Policy Reviewer,2003-01-07,Approved,Looks good.
+REV-00802,POL-0251, EMP-0030 ,Compliance Analyst,2003-06-11,Rejected,Formatting changes only.
+REV-00803,POL-0245,EMP-0036,Senior Analyst,"Mar 26, 2023",Approved,Looks good.
+REV-00804,POL-0042,EMP-0047,Policy Reviewer,2024-01-06,Rejected,  
+REV-00805,POL-0287,EMP-0023,Department Supervisor,2008-04-16, Approved ,Looks good.
+REV-00806,POL-0243,EMP-0026,Compliance Analyst,2003-01-31,Approved,  
+REV-00807,POL-0066,EMP-0014,Department Supervisor, 2020-12-21 ,Approved,Minor edits requested.
+REV-00808,POL-0147,,Compliance Analyst,2009-06-06,Approved,Minor edits requested.
+REV-00809,POL-0178,EMP-0043,Policy Reviewer,2021-04-27, Approved ,Update section 3.
+REV-00810,POL-0205,EMP-0054, Senior Analyst ,2006-01-20,Approved,
+REV-00811,POL-0240,EMP-0034,Compliance Analyst,2011-05-08,Approved,Update section 3.
+REV-00812,POL-0198,EMP-0022, Department Supervisor ,,Approved,Update section 3.
+REV-00813, POL-0112 ,EMP-0033, Compliance Analyst ,2025-03-25,Rejected,Minor edits requested.
+REV-00814,POL-0199,EMP-0027,,2007-11-01,Rejected,Formatting changes only.
+REV-00815,POL-0010, EMP-0029 , Compliance Analyst ,2004-07-20,Approved,
+ REV-00816 ,POL-0245,EMP-0014,Department Supervisor,1999-12-31,Approved,Looks good.
+REV-00817,POL-0167,EMP-0025,Compliance Analyst,2010-02-10,Approved,Formatting changes only.
+REV-00818,POL-0133,EMP-0054, Senior Analyst ,2010-08-06,,Looks good.
+REV-00819,POL-0073,EMP-0052,Senior Analyst,2012-07-26, Rejected ,Update section 3.
+REV-00820,POL-0058,EMP-0012, Department Supervisor ,2023-07-10,Approved,Formatting changes only.
+REV-00821,POL-0240,EMP-0041,Policy Reviewer,11/23/2000,Approved,Looks good.
+REV-00822,POL-0300,EMP-0049,Senior Analyst,04/07/2008,Approved,
+REV-00823,POL-0031,EMP-0027,Compliance Analyst,2010-07-15,Approved,Please verify citation.
+REV-00824,POL-0241,EMP-0052,Senior Analyst,"Mar 14, 2014",Approved,Minor edits requested.
+REV-00825,POL-0113,EMP-0035,Senior Analyst,2019-07-05,Approved,Minor edits requested.
+REV-00826,POL-0216,EMP-0027,,2021-02-01,Approved,Looks good.
+REV-00827,POL-0260,,Compliance Analyst, 2021-06-07 ,Approved,Formatting changes only.
+REV-00828,POL-0060,EMP-0050, Policy Reviewer ,2023-11-08,Approved,Update section 3.
+ REV-00829 ,POL-0070, EMP-0011 ,Department Supervisor,,Approved,Please verify citation.
+REV-00830,POL-0096, EMP-0046 ,Policy Reviewer,2017-04-14,Approved,Formatting changes only.
+REV-00831,POL-0271,EMP-0030,Compliance Analyst,2013-03-06,Approved,Formatting changes only.
+REV-00832,POL-0272, EMP-0041 ,Policy Reviewer,2005-05-07,Approved,
+REV-00833,POL-0011,EMP-0028,Compliance Analyst, 2015-08-01 ,Approved,Formatting changes only.
+REV-00834,POL-0283,EMP-0028,Compliance Analyst,2015-01-31, Rejected ,Minor edits requested.
+REV-00835, POL-0262 ,,Department Supervisor,"Nov 25, 2013",Approved,Looks good.
+REV-00836,POL-0154,EMP-0026,Compliance Analyst,2023-09-14,Approved,
+REV-00837,POL-0021,EMP-0053,Senior Analyst,2018-08-16,Approved,Minor edits requested.
+REV-00838,POL-0106,EMP-0012,Department Supervisor, 2006-10-10 ,Approved,Formatting changes only.
+ REV-00839 ,POL-0104, EMP-0029 ,Compliance Analyst,2022-10-22,Approved,Minor edits requested.
+REV-00840,POL-0181, EMP-0036 ,Senior Analyst,2019-04-10,Approved,
+ REV-00841 ,POL-0255,EMP-0048,Policy Reviewer,2002-01-30, Approved ,Formatting changes only.
+REV-00842,POL-0287,EMP-0032,Compliance Analyst,"Jan 06, 2009",Rejected,Formatting changes only.
+REV-00843, POL-0139 ,EMP-0054,Senior Analyst,2010-06-22,Approved,Please verify citation.
+REV-00844,POL-0072,EMP-0053,Senior Analyst,2021-11-02,Approved,Minor edits requested.
+ REV-00845 ,POL-0247,EMP-0030,Compliance Analyst,2023-04-03,Approved,Looks good.
+REV-00846,POL-0131, EMP-0022 ,Department Supervisor,"Jul 16, 2025",Approved,Minor edits requested.
+REV-00847,POL-0092,EMP-0041,Policy Reviewer,16-Nov-2004, Approved ,Looks good.
+REV-00848,POL-0006,EMP-0046,Policy Reviewer,2012-02-06,Approved,Looks good.
+REV-00849,POL-0142,EMP-0052, Senior Analyst ,2015-07-22,Approved,
+REV-00850,POL-0214,EMP-0033,Compliance Analyst,2010-06-20,Approved, Looks good. 
+REV-00851,POL-0044,EMP-0037,Policy Reviewer,10-Apr-2014, Approved , Minor edits requested. 
+REV-00852,POL-0070,EMP-0027,Compliance Analyst,2017-03-03,Approved, Please verify citation. 
+REV-00853,POL-0085,EMP-0040,Senior Analyst,2013-09-08,Approved,
+REV-00854,POL-0217,EMP-0014, Department Supervisor ,2021-08-09,Approved, Formatting changes only. 
+REV-00855,POL-0077,,Policy Reviewer,2003-09-10,Approved,Looks good.
+REV-00856, POL-0174 ,EMP-0018, Department Supervisor ,12/12/2022, Approved , Formatting changes only. 
+ REV-00857 ,POL-0124,,Policy Analyst,, Approved ,Minor edits requested.
+REV-00858,POL-0163,EMP-0014,Department Supervisor,2019-01-11,Approved,Looks good.
+REV-00859,POL-0105,EMP-0023,,2006-08-29,Approved,Minor edits requested.
+REV-00860,POL-0059,EMP-0047,Policy Reviewer,2018-11-08,Approved,Update section 3.
+REV-00861,POL-0200,EMP-0031,Compliance Analyst,"Dec 03, 2006",Approved,Formatting changes only.
+REV-00862, POL-0261 ,EMP-0016,Department Supervisor,2008-08-02,Approved,Update section 3.
+REV-00863,POL-0192,EMP-0051,Policy Analyst,2015-06-02,Approved,Looks good.
+REV-00864, POL-0010 ,EMP-0051,Policy Analyst,2014-07-22,Approved,
+REV-00865,POL-0285,EMP-0039,Policy Analyst,2000-09-16,Approved,Minor edits requested.
+REV-00866,POL-0263,EMP-0021,, 2009-11-21 ,Approved,Please verify citation.
+REV-00867,POL-0058,EMP-0042,Senior Analyst,2007-08-09,Rejected,
+REV-00868,POL-0146,,Policy Reviewer,2006-04-21,Approved,Update section 3.
+REV-00869,POL-0219,EMP-0036,Senior Analyst,2019-10-05,Approved,Update section 3.
+REV-00870,POL-0191,,Senior Analyst,11/29/2021,Approved,
+REV-00871, POL-0148 ,EMP-0045,,2002-03-11,Approved,Looks good.
+REV-00872,POL-0291,EMP-0011,Department Supervisor,2017-03-26,Approved,Minor edits requested.
+REV-00873,POL-0027,EMP-0023, Department Supervisor ,2024-04-26,Approved,
+REV-00874,POL-0040,EMP-0051,Policy Analyst,2000-09-06,Approved,
+REV-00875,POL-0198,EMP-0025,Compliance Analyst,2011-08-29,Approved,Formatting changes only.
+REV-00876,POL-0292,EMP-0030,Compliance Analyst,2015-12-11,Approved,Looks good.
+REV-00877,POL-0226,EMP-0035,Senior Analyst,07-Feb-2005,Rejected,Please verify citation.
+REV-00878,POL-0281,EMP-0021,Department Supervisor, 2014-03-25 ,Approved,
+REV-00879,POL-0297,EMP-0030,Compliance Analyst,2002-07-20,Approved,Minor edits requested.
+REV-00880,POL-0165,EMP-0044,,2020-12-12,Approved,Please verify citation.
+REV-00881, POL-0041 ,EMP-0032,Compliance Analyst,2024-01-04,Approved,Update section 3.
+REV-00882, POL-0059 ,EMP-0032,Compliance Analyst,02-Jul-2006,Approved,Update section 3.
+REV-00883,POL-0273,EMP-0023,Department Supervisor,08/11/2016, Approved ,Looks good.
+REV-00884,POL-0219,EMP-0012,Department Supervisor,,Approved,Looks good.
+REV-00885, POL-0040 ,EMP-0019,Department Supervisor,24-Jul-2010, Approved ,Looks good.
+REV-00886,POL-0275,EMP-0048,Policy Reviewer,2001-06-25,Approved,Please verify citation.
+REV-00887,POL-0273,EMP-0018,Department Supervisor,,Approved,Minor edits requested.
+REV-00888,POL-0133,EMP-0035,Senior Analyst,"Mar 05, 2002",Approved,Formatting changes only.
+REV-00889,POL-0220,EMP-0045,Policy Analyst,2011-12-21,Approved,Please verify citation.
+REV-00890,POL-0024,EMP-0049,Senior Analyst,2002-09-05,Approved,
+REV-00891,POL-0283,EMP-0052,Senior Analyst,2005-05-07,Rejected,
+REV-00892,POL-0132,EMP-0018, Department Supervisor , 2002-08-30 ,Approved,Update section 3.
+REV-00893,POL-0167,EMP-0035,Senior Analyst,2020-06-05,Approved,
+REV-00894,POL-0239,EMP-0027, Compliance Analyst ,01/17/2025,,Update section 3.
+REV-00895, POL-0053 ,EMP-0024,Department Supervisor,2007-05-14,Approved,Formatting changes only.
+REV-00896,POL-0116,EMP-0030,Compliance Analyst,11/30/2000,Approved,Update section 3.
+REV-00897,POL-0017,EMP-0053,,10-Jan-2005,Approved,Please verify citation.
+ REV-00898 ,POL-0119,EMP-0050,Policy Reviewer,08/10/2012,Approved,Please verify citation.
+REV-00899,POL-0155,EMP-0037,Policy Reviewer,2006-08-26,Approved,
+REV-00900,POL-0128,EMP-0050,Policy Reviewer,2023-06-12,Approved,
+REV-00901,POL-0233,EMP-0018,Department Supervisor,,Approved,
+REV-00902,POL-0299,EMP-0023,Department Supervisor,2022-10-28,Approved,Please verify citation.
+REV-00903,POL-0153,,Compliance Analyst,2009-06-16,Approved,Please verify citation.
+REV-00904,POL-0184,EMP-0033,Compliance Analyst,2009-07-18, Approved ,Formatting changes only.
+REV-00905,POL-0145,EMP-0029,,2018-11-17,Approved,Looks good.
+REV-00906,POL-0239,EMP-0046,Policy Reviewer,2002-04-07,Approved,Update section 3.
+REV-00907,POL-0180, EMP-0041 ,,2009-10-24,Approved,Minor edits requested.
+REV-00908,POL-0146,,Department Supervisor,2011-01-07,Approved,  
+REV-00909,POL-0187,EMP-0018,Department Supervisor,2004-06-28,Approved,Please verify citation.
+REV-00910,POL-0293,EMP-0020,Department Supervisor,2022-08-30,Approved,
+REV-00911,POL-0052,EMP-0015,Department Supervisor,2023-06-14,Approved,Formatting changes only.
+REV-00912,POL-0082,,Compliance Analyst,2005-01-15,Approved,Formatting changes only.
+REV-00913,POL-0182,EMP-0040,Senior Analyst,2010-11-13,Approved, Minor edits requested. 
+REV-00914,POL-0299,EMP-0040,Senior Analyst,05/06/2012,Approved,
+REV-00915,POL-0077,EMP-0022,Department Supervisor,2004-12-22,Approved,
+ REV-00916 ,POL-0002,EMP-0034,Compliance Analyst,2013-07-13,Approved,Formatting changes only.
+REV-00917,POL-0259,EMP-0038,Senior Analyst,2014-07-11,Approved,Formatting changes only.
+REV-00918,POL-0165,EMP-0017,Department Supervisor,,Approved,
+REV-00919,POL-0045,EMP-0019,Department Supervisor,12/06/2000,Approved,Formatting changes only.
+REV-00920,POL-0092,EMP-0032,Compliance Analyst,2008-02-23,Approved,Minor edits requested.
+REV-00921,POL-0054,EMP-0050,Policy Reviewer,2020-02-18,Rejected,Minor edits requested.
+REV-00922,POL-0008,EMP-0034,Compliance Analyst,2004-08-31,Approved,Minor edits requested.
+ REV-00923 ,POL-0231,EMP-0018,,2008-09-13,Approved,Update section 3.
+REV-00924,POL-0152,, Senior Analyst ,2018-06-14,Approved,Minor edits requested.
+REV-00925,POL-0008,EMP-0041,Policy Reviewer,2017-10-19,Approved,
+REV-00926,POL-0275,EMP-0018,Department Supervisor,2007-12-24,Approved,Looks good.
+REV-00927,POL-0043,EMP-0021,Department Supervisor,2003-02-16,Approved,
+REV-00928, POL-0039 ,EMP-0048,Policy Reviewer,2019-02-28, Approved ,Update section 3.
+REV-00929,POL-0157,EMP-0022,Department Supervisor,2020-02-25, Approved ,Please verify citation.
+REV-00930,POL-0117,EMP-0033,Compliance Analyst,2017-07-13,Approved,Please verify citation.
+REV-00931,POL-0236,EMP-0054,Senior Analyst,2001-10-16,Rejected,Formatting changes only.
+REV-00932,POL-0101,EMP-0041,Policy Reviewer,"May 11, 2006",Approved,Update section 3.
+REV-00933,POL-0243,EMP-0037,Policy Reviewer,2005-07-25,Rejected,Update section 3.
+ REV-00934 ,POL-0038,EMP-0015,Department Supervisor,"Jul 24, 2002",Approved,Minor edits requested.
+REV-00935,POL-0262,EMP-0011,Department Supervisor,"Aug 05, 2014",Approved,Formatting changes only.
+REV-00936,POL-0230,EMP-0047,Policy Reviewer, 2024-01-15 ,Approved,Formatting changes only.
+REV-00937,POL-0134,EMP-0053,Senior Analyst,2010-07-18,Approved,Minor edits requested.
+REV-00938,POL-0252,EMP-0044,Policy Analyst,10/13/2023,Approved, Formatting changes only. 
+REV-00939, POL-0166 ,EMP-0038,Senior Analyst,2004-10-08,Approved,
+REV-00940,POL-0252,EMP-0041,Policy Reviewer,"Aug 25, 2011", Approved ,Minor edits requested.
+REV-00941,POL-0084,EMP-0020,Department Supervisor,2017-10-05,Approved,Please verify citation.
+REV-00942,POL-0116,EMP-0011,Department Supervisor,,Approved,Formatting changes only.
+REV-00943,POL-0248,EMP-0043,Policy Reviewer,2007-07-16,Rejected,Update section 3.
+ REV-00944 ,POL-0196,EMP-0021,Department Supervisor,2022-09-27,Rejected,
+REV-00945, POL-0079 ,EMP-0031,Compliance Analyst,,Approved,Looks good.
+REV-00946,POL-0045,EMP-0028, Compliance Analyst ,,Approved,
+REV-00947,POL-0048,EMP-0025,Compliance Analyst,2023-03-28,Approved,Please verify citation.
+REV-00948,POL-0264,EMP-0036,Senior Analyst,2017-06-25,Approved,Looks good.
+REV-00949,POL-0151,EMP-0040,Senior Analyst,2004-01-13,Approved,Update section 3.
+REV-00950,POL-0203,EMP-0016, Department Supervisor ,2020-08-06,Approved, Update section 3. 
+REV-00951,POL-0285,EMP-0031,Compliance Analyst,20-Jul-2020,Approved,
+ REV-00952 ,POL-0196,EMP-0052,Senior Analyst,2022-10-22,Approved,
+REV-00953,POL-0052,EMP-0036,Senior Analyst,06-Feb-2005,Rejected,Update section 3.
+REV-00954,POL-0131,EMP-0046,Policy Reviewer,2002-02-08,Approved,Please verify citation.
+REV-00955,POL-0197,, Department Supervisor ,2000-07-03,Approved,
+REV-00956,POL-0013,EMP-0043,Policy Reviewer,2014-02-28,Rejected,Please verify citation.
+REV-00957, POL-0148 ,EMP-0052,Senior Analyst,2009-10-11,Approved,Formatting changes only.
+REV-00958,POL-0043,EMP-0032,Compliance Analyst,2020-12-17,Approved,Minor edits requested.
+REV-00959,POL-0068,EMP-0025, Compliance Analyst ,2002-12-07,Approved,Update section 3.
+REV-00960,POL-0036,EMP-0046,Policy Reviewer,2015-05-23,Rejected,Please verify citation.
+REV-00961,POL-0188,EMP-0053,Senior Analyst,"Sep 20, 2021",Approved,Minor edits requested.
+REV-00962,POL-0202,EMP-0018,Department Supervisor,2020-10-18,Approved,  
+REV-00963,POL-0037, EMP-0011 ,Department Supervisor,2010-06-12,Approved,Minor edits requested.
+REV-00964,POL-0300,EMP-0051,Policy Analyst,2016-06-05,Approved,Minor edits requested.
+REV-00965,POL-0010,EMP-0044,Policy Analyst,,Approved,Minor edits requested.
+REV-00966,POL-0054,EMP-0013,Department Supervisor,2005-04-07,Approved,Looks good.
+REV-00967,POL-0256,EMP-0019,Department Supervisor,2022-08-02,Approved,Formatting changes only.
+REV-00968,POL-0063, EMP-0017 ,Department Supervisor,2018-11-08,Approved,Minor edits requested.
+ REV-00969 ,POL-0176,EMP-0023,Department Supervisor,2009-04-14,Approved,
+REV-00970,POL-0053,EMP-0024,Department Supervisor,"Feb 14, 2018",Approved,Update section 3.
+REV-00971,POL-0138,EMP-0032,Compliance Analyst,"Jan 17, 2009", Approved ,
+REV-00972,POL-0097,EMP-0013,Department Supervisor, 2019-02-02 ,Approved, Formatting changes only. 
+REV-00973,POL-0027,EMP-0039,Policy Analyst, 2006-01-09 ,Approved,Update section 3.
+REV-00974, POL-0168 ,EMP-0019,Department Supervisor,2023-02-11,Approved,Update section 3.
+REV-00975,POL-0006,EMP-0044,Policy Analyst,2000-09-10,Approved,Formatting changes only.
+REV-00976,POL-0102, EMP-0046 ,Policy Reviewer,2002-09-04,Rejected, Update section 3. 
+REV-00977,POL-0130,EMP-0043, Policy Reviewer ,2022-02-28,Approved,
+REV-00978,POL-0117, EMP-0019 ,Department Supervisor,2008-04-15,Approved,
+REV-00979,POL-0053,EMP-0053,Senior Analyst,2017-11-16,Rejected,Please verify citation.
+REV-00980,POL-0096,EMP-0043,Policy Reviewer,2014-12-08,Approved,Update section 3.
+REV-00981,POL-0021,EMP-0049,Senior Analyst,2019-04-12,Approved,Formatting changes only.
+REV-00982, POL-0141 ,EMP-0028,Compliance Analyst,2011-08-20, Approved ,Update section 3.
+REV-00983,POL-0166,EMP-0029,Compliance Analyst,13/40/2024,Approved,Update section 3.
+REV-00984,POL-0178,EMP-0019,Department Supervisor,,Approved,Update section 3.
+REV-00985,POL-0271,EMP-0030,Compliance Analyst,2023-06-24,Approved,Formatting changes only.
+REV-00986, POL-0293 ,EMP-0031,Compliance Analyst,2025-01-26,Approved,Formatting changes only.
+REV-00987,POL-0078,EMP-0051, Policy Analyst ,2025-04-30, Approved ,Looks good.
+ REV-00988 ,POL-0184,EMP-0024,Department Supervisor,05-Jul-2009, Approved ,
+REV-00989,POL-0188,EMP-0054,Senior Analyst,2013-07-13,Approved,Minor edits requested.
+REV-00990,POL-0290,EMP-0052,Senior Analyst,2006-06-13,Approved,Looks good.
+REV-00991,POL-0067,EMP-0045, Policy Analyst ,2023-02-06,Approved,Formatting changes only.
+REV-00992,POL-0088,EMP-0018,Department Supervisor,2014-12-16,Approved,
+REV-00993,POL-0270,EMP-0048, Policy Reviewer ,2022-01-17,Rejected,Please verify citation.
+REV-00994,POL-0026,EMP-0054,Senior Analyst,2019-03-23,Approved,Formatting changes only.
+REV-00995,POL-0279,EMP-0029,Compliance Analyst,12-Jun-2024,Approved,Update section 3.
+REV-00996, POL-0005 ,EMP-0044,Policy Analyst,2001-01-26, Approved ,
+REV-00997,POL-0122,EMP-0035,Senior Analyst,2001-08-19,Approved,Looks good.
+REV-00998,POL-0277,EMP-0053,Senior Analyst,2002-11-17,Approved,
+REV-00999,POL-0142,EMP-0028,Compliance Analyst,19-Jun-2009,Approved, Looks good. 
+REV-01000,POL-0152,EMP-0054,,2013-05-09,Approved,Minor edits requested.
+REV-01001,POL-0180,EMP-0014,Department Supervisor, 2007-01-25 ,Approved,Formatting changes only.
+REV-01002,POL-0261,EMP-0024,Department Supervisor,2013-09-26, Approved ,Please verify citation.
+REV-01003,POL-0026,EMP-0033,Compliance Analyst, 2001-12-12 ,Rejected,Update section 3.
+REV-01004,POL-0036,EMP-0050,Policy Reviewer,2005-02-04,Approved,Formatting changes only.
+ REV-01005 ,POL-0042,EMP-0052,Senior Analyst,2010-07-24,Approved,Please verify citation.
+REV-01006,POL-0293,,Compliance Analyst,2017-12-10,Approved,Please verify citation.
+REV-01007,POL-0044,EMP-0053,Senior Analyst,2013-05-26,Approved,
+REV-01008,POL-0038,EMP-0035, Senior Analyst ,12-Aug-2017,Approved,Update section 3.
+REV-01009,POL-0171,EMP-0046,,2014-07-10,Approved,
+REV-01010,POL-0075,EMP-0027, Compliance Analyst ,2001-01-29,Approved,Looks good.
+REV-01011,POL-0257,EMP-0025,Compliance Analyst,2020-05-16,Rejected,Formatting changes only.
+REV-01012,POL-0119,EMP-0048,Policy Reviewer,2016-12-29, Approved ,Please verify citation.
+REV-01013,POL-0120,EMP-0023, Department Supervisor ,"Apr 23, 2009",Approved,Minor edits requested.
+REV-01014,POL-0221,EMP-0022,Department Supervisor,2020-08-18,,Formatting changes only.
+ REV-01015 ,POL-0200, EMP-0022 ,Department Supervisor,"Nov 03, 2003",Approved,Looks good.
+REV-01016,POL-0153,EMP-0018,Department Supervisor,07/19/2023,Approved,Update section 3.
+REV-01017,POL-0180, EMP-0038 ,,2002-04-27,Approved,
+REV-01018,POL-0185,EMP-0027,Compliance Analyst,2025-06-19,Rejected,Looks good.
+REV-01019,POL-0161,EMP-0048,Policy Reviewer,"Sep 19, 2007",Approved,Minor edits requested.
+REV-01020,POL-0214,EMP-0032,Compliance Analyst,,Approved,Update section 3.
+REV-01021,POL-0163,EMP-0013,Department Supervisor,2007-06-11,Approved,Looks good.
+REV-01022,POL-0271,EMP-0049,Senior Analyst,20-Dec-2014, Approved ,
+REV-01023,POL-0148,EMP-0042,Senior Analyst,2014-01-03,Approved,Please verify citation.
+REV-01024,POL-0129, EMP-0033 , Compliance Analyst ,2025-03-05,Approved,
+REV-01025,POL-0090,,Policy Analyst,2014-10-03,Approved, Looks good. 
+REV-01026,POL-0176,EMP-0044,Policy Analyst,29-Sep-2008,Approved,
+ REV-01027 ,POL-0154,EMP-0021,Department Supervisor,,Approved,Update section 3.
+REV-01028,POL-0091,EMP-0045,,11/09/2024,Approved,Update section 3.
+REV-01029,POL-0188,EMP-0033,Compliance Analyst,2004-08-15,Approved,Looks good.
+REV-01030,POL-0110,EMP-0053,Senior Analyst,2010-01-25, Rejected ,Minor edits requested.
+REV-01031,POL-0293,EMP-0034,Compliance Analyst,2015-05-08,Approved,Minor edits requested.
+REV-01032,POL-0167,EMP-0050, Policy Reviewer ,2010-04-19,Approved,Please verify citation.
+REV-01033,POL-0138,EMP-0046,Policy Reviewer,2021-10-19,Approved,Formatting changes only.
+REV-01034,POL-0084,EMP-0018,Department Supervisor,2000-11-22, Approved ,Formatting changes only.
+REV-01035,POL-0047,EMP-0039,Policy Analyst,07-Jan-2016,, Looks good. 
+REV-01036,POL-0263,EMP-0013,Department Supervisor,2011-06-08,Approved,
+REV-01037,POL-0238,EMP-0035,Senior Analyst,2014-11-23,Approved,
+ REV-01038 ,POL-0278,EMP-0027,Compliance Analyst,2017-10-22,Approved,Please verify citation.
+REV-01039, POL-0148 ,EMP-0012,Department Supervisor, 2013-03-08 ,Approved,Please verify citation.
+ REV-01040 , POL-0142 ,EMP-0043,Policy Reviewer,2017-04-26,Approved,Please verify citation.
+REV-01041, POL-0142 ,EMP-0042,Senior Analyst,2020-06-26,Approved,  
+REV-01042,POL-0201,EMP-0052,Senior Analyst,2013-10-17,Approved,Looks good.
+REV-01043,POL-0076,EMP-0043,Policy Reviewer,2014-11-13,Approved,
+REV-01044,POL-0260,EMP-0021,Department Supervisor,2004-10-20,Approved,Please verify citation.
+ REV-01045 ,POL-0043,EMP-0011,Department Supervisor,01-Jun-2024,Approved,Formatting changes only.
+REV-01046,POL-0262,EMP-0024,Department Supervisor,2003-06-08,Approved,Formatting changes only.
+REV-01047,POL-0130,EMP-0054,Senior Analyst,2010-01-22,Rejected,Update section 3.
+REV-01048,POL-0248,EMP-0024,Department Supervisor,2005-02-27,Approved,
+REV-01049,POL-0096,EMP-0052,Senior Analyst,2020-01-08,Approved,
+REV-01050,POL-0251,EMP-0012,Department Supervisor,2007-05-25,Approved,Update section 3.
+REV-01051,POL-0239,EMP-0013,Department Supervisor,2015-05-18,Approved,
+REV-01052,POL-0165,EMP-0014,Department Supervisor,2003-10-14,Approved,Looks good.
+REV-01053,POL-0018,EMP-0046,Policy Reviewer,2011-10-19,Approved,
+ REV-01054 ,POL-0249,,Compliance Analyst,2010-09-16,Approved,Update section 3.
+REV-01055,POL-0077,EMP-0039,Policy Analyst,2017-11-26,Approved,Formatting changes only.
+REV-01056,POL-0052,EMP-0038,Senior Analyst,2018-08-22,Rejected,Minor edits requested.
+ REV-01057 ,POL-0177,EMP-0035,Senior Analyst,2001-04-03,Approved,Formatting changes only.
+REV-01058,POL-0020,EMP-0045,Policy Analyst,2005-10-21,Approved,
+REV-01059, POL-0099 ,EMP-0048,Policy Reviewer,2003-05-03,Approved,
+REV-01060,POL-0155,EMP-0033,,2003-10-03,Approved,Please verify citation.
+REV-01061,POL-0280,EMP-0029,Compliance Analyst,2005-04-04, Approved ,Formatting changes only.
+REV-01062,POL-0127,EMP-0049,Senior Analyst,2014-01-06,Approved,
+REV-01063,POL-0154,EMP-0039, Policy Analyst ,2013-02-15,Approved,Update section 3.
+REV-01064, POL-0138 ,EMP-0053,Senior Analyst,03/22/2018, Approved ,
+REV-01065,POL-0243,EMP-0021,Department Supervisor,2021-10-04,Approved,Please verify citation.
+REV-01066,POL-0101,EMP-0019,Department Supervisor,"May 12, 2010",Approved,Formatting changes only.
+REV-01067,POL-0126,EMP-0045,Policy Analyst,2018-01-14,Approved,Minor edits requested.
+REV-01068,POL-0201,EMP-0030,Compliance Analyst,2006-12-17,Rejected,Formatting changes only.
+REV-01069,POL-0058,EMP-0011,Department Supervisor,27-Mar-2017,Approved,Please verify citation.
+REV-01070,POL-0123,EMP-0020,Department Supervisor,2025-05-25,Approved,
+REV-01071,POL-0233,EMP-0011,Department Supervisor,2002-05-16,Approved,Please verify citation.
+REV-01072,POL-0108,EMP-0045,Policy Analyst,2018-03-05, Approved , Please verify citation. 
+REV-01073,POL-0159,EMP-0030,Compliance Analyst,2004-04-25,Approved,Looks good.
+REV-01074,POL-0114,EMP-0024,Department Supervisor,,Approved,Update section 3.
+REV-01075,POL-0050,EMP-0020,Department Supervisor,2023-06-28,Approved,Looks good.
+REV-01076,POL-0005,EMP-0025,Compliance Analyst,01-Oct-2008,Approved,Please verify citation.
+REV-01077,POL-0250,EMP-0023,Department Supervisor,2011-11-01,Approved,
+REV-01078,POL-0260,EMP-0053,,2008-08-19,Approved, Please verify citation. 
+REV-01079,POL-0053,EMP-0046,Policy Reviewer,2002-12-09,Approved,Update section 3.
+REV-01080,POL-0202,EMP-0015,Department Supervisor,2025-02-25,Approved,
+REV-01081,POL-0095, EMP-0027 , Compliance Analyst ,2003-07-09,Approved,
+REV-01082,POL-0233,EMP-0048,Policy Reviewer,2009-05-09,Approved,
+REV-01083, POL-0191 ,EMP-0033,Compliance Analyst,,Rejected,Looks good.
+REV-01084, POL-0199 ,EMP-0017, Department Supervisor ,"Jan 07, 2011",Approved,Minor edits requested.
+REV-01085,POL-0229,EMP-0023,Department Supervisor,2003-08-18,Approved,Minor edits requested.
+REV-01086,POL-0116,EMP-0039, Policy Analyst ,2022-04-17,Approved, Minor edits requested. 
+REV-01087,POL-0287,EMP-0048,Policy Reviewer,"Mar 18, 2014",,Looks good.
+REV-01088,POL-0283,EMP-0031,Compliance Analyst,2016-11-05,Approved,Update section 3.
+REV-01089,POL-0281,EMP-0011,Department Supervisor,2008-01-23,Approved,Minor edits requested.
+REV-01090,POL-0167,EMP-0025,Compliance Analyst,2011-07-17,Approved,Formatting changes only.
+REV-01091,POL-0156,EMP-0028,, 2020-01-23 ,Approved,Minor edits requested.
+REV-01092,POL-0141,EMP-0054,Senior Analyst,2006-07-10,Approved,Formatting changes only.
+REV-01093,POL-0103,EMP-0041,Policy Reviewer,2015-05-16,Approved,Update section 3.
+REV-01094,POL-0190,EMP-0033,Compliance Analyst,2020-06-22,Approved, Minor edits requested. 
+REV-01095,POL-0269,EMP-0046,Policy Reviewer,2022-05-05,Approved,
+REV-01096,POL-0265,EMP-0052,Senior Analyst,2008-05-19, Approved ,Please verify citation.
+REV-01097,POL-0131,EMP-0028,Compliance Analyst,2004-03-05,Approved,Looks good.
+REV-01098,POL-0227,EMP-0023,Department Supervisor,2024-08-28,Approved,Minor edits requested.
+REV-01099,POL-0206,EMP-0015,Department Supervisor,2003-12-05,Approved,
+REV-01100,POL-0175, EMP-0051 , Policy Analyst ,2023-04-01,Rejected,
+REV-01101,POL-0100,EMP-0048,Policy Reviewer,,Approved,Looks good.
+REV-01102,POL-0011, EMP-0046 ,Policy Reviewer,2002-02-21,Approved,Minor edits requested.
+REV-01103,POL-0217,EMP-0045,Policy Analyst,"Nov 16, 2024",Approved,Update section 3.
+REV-01104,POL-0072,EMP-0034,Compliance Analyst,03/02/2007,Rejected,Update section 3.
+REV-01105,POL-0229,EMP-0048,Policy Reviewer,2010-07-07,Rejected,Formatting changes only.
+REV-01106,POL-0098,EMP-0019,Department Supervisor,2013-07-20,Rejected,Update section 3.
+REV-01107,POL-0202, EMP-0043 ,Policy Reviewer,2022-12-23,Approved,
+REV-01108,POL-0207, EMP-0034 , Compliance Analyst ,2018-04-18,Approved,
+REV-01109,POL-0095,EMP-0053,Senior Analyst,2000-12-21,Rejected,Looks good.
+REV-01110,POL-0099,EMP-0043,Policy Reviewer,2007-12-09,Approved,Looks good.
+REV-01111,POL-0153,EMP-0021, Department Supervisor ,2020-07-06,Approved, Looks good. 
+ REV-01112 , POL-0252 ,EMP-0041,Policy Reviewer,2007-01-21,Approved,Minor edits requested.
+ REV-01113 ,POL-0143,EMP-0025,Compliance Analyst,2002-04-24,Approved,Update section 3.
+ REV-01114 ,POL-0221,EMP-0015,Department Supervisor,2010-11-22,Approved, Minor edits requested. 
+REV-01115, POL-0296 , EMP-0025 ,Compliance Analyst, 2017-01-25 ,Approved,
+ REV-01116 ,POL-0251,EMP-0044,,09-Oct-2009,Approved,Minor edits requested.
+REV-01117,POL-0023,EMP-0041,Policy Reviewer,27-Nov-2017,Rejected,Update section 3.
+REV-01118,POL-0109,EMP-0013,Department Supervisor, 2002-07-31 , Approved ,Formatting changes only.
+REV-01119,POL-0175, EMP-0017 ,Department Supervisor,2015-01-13,Approved,Formatting changes only.
+REV-01120,POL-0120,EMP-0051,Policy Analyst, 2023-11-20 ,Rejected,Minor edits requested.
+REV-01121,POL-0222,EMP-0048,Policy Reviewer,, Rejected , Please verify citation. 
+REV-01122,POL-0292,EMP-0035,Senior Analyst,2008-04-18,Approved,Formatting changes only.
+ REV-01123 ,POL-0159,,Compliance Analyst,2017-06-23,Approved,
+REV-01124,POL-0282,EMP-0044,Policy Analyst,2003-12-28,Approved,Minor edits requested.
+REV-01125,POL-0233,EMP-0025, Compliance Analyst ,,Approved,Please verify citation.
+REV-01126,POL-0039,EMP-0033,Compliance Analyst,"Sep 14, 2018",,Minor edits requested.
+REV-01127,POL-0211,EMP-0041,Policy Reviewer,2022-05-03,Approved,Please verify citation.
+REV-01128,POL-0117,EMP-0043,Policy Reviewer,10/17/2000,Rejected,Looks good.
+REV-01129,POL-0151,EMP-0021,Department Supervisor,2020-03-25,Approved,Looks good.
+REV-01130,POL-0138,EMP-0043,Policy Reviewer,2003-12-16,Approved,Formatting changes only.
+REV-01131,POL-0280,EMP-0024,Department Supervisor,2013-02-03,Approved,Looks good.
+REV-01132,POL-0088,EMP-0021,Department Supervisor,18-Nov-2008,Approved,
+REV-01133,POL-0288,EMP-0053,Senior Analyst,2005-10-21,Approved,Looks good.
+REV-01134,POL-0300,EMP-0032,Compliance Analyst,,Approved,Formatting changes only.
+ REV-01135 ,POL-0039,EMP-0041,Policy Reviewer,"Jul 31, 2005",Approved,Formatting changes only.
+REV-01136,POL-0072,EMP-0041,Policy Reviewer,2021-12-22,Approved,Looks good.
+REV-01137,POL-0032,EMP-0052,Senior Analyst,2007-09-24,Approved,Update section 3.
+REV-01138,POL-0109,EMP-0026,Compliance Analyst,2001-07-03,Approved,
+REV-01139,POL-0078,EMP-0047,Policy Reviewer,2006-03-27,Approved,Please verify citation.
+REV-01140,POL-0161,EMP-0019,Department Supervisor,2007-09-22,Approved,Formatting changes only.
+ REV-01141 ,POL-0128,EMP-0013,,2023-06-30,Approved,Please verify citation.
+REV-01142,POL-0165,EMP-0014,Department Supervisor,2007-02-01,Approved,Looks good.
+REV-01143,POL-0281,EMP-0022,,2012-01-31,Approved,Please verify citation.
+REV-01144,POL-0016, EMP-0049 ,Senior Analyst,2018-09-07,Approved,Please verify citation.
+REV-01145,POL-0255,EMP-0053,Senior Analyst,2001-05-02, Rejected ,Minor edits requested.
+REV-01146,POL-0028,EMP-0024,Department Supervisor,2004-05-05,Approved, Update section 3. 
+REV-01147,POL-0042,EMP-0041,Policy Reviewer,08/23/2021,Rejected,Looks good.
+REV-01148,POL-0201, EMP-0037 ,Policy Reviewer,05/04/2010,Approved,Please verify citation.
+REV-01149,POL-0164,EMP-0048,Policy Reviewer,2006-11-25, Approved ,Looks good.
+REV-01150,POL-0062,EMP-0027,Compliance Analyst,2023-05-31,Approved,Looks good.
+REV-01151,POL-0040,EMP-0040,Senior Analyst,2015-11-14,Approved,Please verify citation.
+ REV-01152 ,POL-0040,EMP-0025,Compliance Analyst,2003-08-02,Approved,Update section 3.
+REV-01153,POL-0230,EMP-0019,Department Supervisor,,Approved,
+ REV-01154 , POL-0165 ,,Department Supervisor,2001-03-29,Approved,Please verify citation.
+REV-01155,POL-0187,EMP-0054,Senior Analyst,2023-02-14,Approved,Update section 3.
+REV-01156,POL-0267,EMP-0049,Senior Analyst,17-Mar-2007,Approved,
+REV-01157,POL-0126,EMP-0041,Policy Reviewer,2008-06-15,Approved,Please verify citation.
+REV-01158,POL-0074,EMP-0045,Policy Analyst,2002-04-01,Approved,Please verify citation.
+REV-01159,POL-0158,EMP-0016,Department Supervisor,2005-10-08, Approved ,Update section 3.
+REV-01160,POL-0029,EMP-0049,Senior Analyst,2006-05-06,Approved,Please verify citation.
+REV-01161,POL-0206,EMP-0054,Senior Analyst,2000-07-20, Approved ,Formatting changes only.
+REV-01162,POL-0289,EMP-0044,Policy Analyst, 2019-11-08 ,Approved,Update section 3.
+REV-01163, POL-0136 , EMP-0013 ,Department Supervisor,2017-02-10,Approved, Formatting changes only. 
+REV-01164,POL-0150, EMP-0038 ,Senior Analyst,2024-04-06,Approved,Looks good.
+REV-01165,POL-0292,,Senior Analyst,2022-02-15,,Minor edits requested.
+REV-01166,POL-0068,EMP-0038,Senior Analyst,17-Nov-2004,Approved,Looks good.
+REV-01167,POL-0152,EMP-0041,Policy Reviewer,12/01/2011,Approved,Looks good.
+ REV-01168 ,POL-0184,EMP-0029,Compliance Analyst,2004-04-04,Approved,Please verify citation.
+REV-01169, POL-0057 ,EMP-0037,Policy Reviewer,2024-11-20,Approved,
+REV-01170,POL-0138,EMP-0011,Department Supervisor,2008-12-22,Approved,Formatting changes only.
+REV-01171,POL-0258,EMP-0047,,2000-10-25,Approved,Please verify citation.
+REV-01172,POL-0295,EMP-0044,Policy Analyst,10/13/2005,Approved,
+REV-01173,POL-0254,EMP-0052,Senior Analyst,2017-04-27,Approved,Looks good.
+REV-01174,POL-0135,EMP-0037,Policy Reviewer,2014-09-01,Rejected,Minor edits requested.
+REV-01175,POL-0045,EMP-0020,Department Supervisor,, Rejected ,Update section 3.
+REV-01176,POL-0152,EMP-0027,Compliance Analyst,2011-11-16,Rejected,Please verify citation.
+REV-01177,POL-0283,EMP-0047, Policy Reviewer ,2019-07-01, Approved ,Minor edits requested.
+REV-01178,POL-0098,EMP-0054,Senior Analyst,11/09/2012,Approved,
+ REV-01179 ,POL-0243,EMP-0037,Policy Reviewer,2009-08-20,Approved,Please verify citation.
+REV-01180,POL-0109,EMP-0041,Policy Reviewer, 2025-07-05 ,Rejected,Looks good.
+REV-01181,POL-0065,EMP-0046,Policy Reviewer,2017-02-07,Approved,Please verify citation.
+REV-01182,POL-0232,EMP-0027,Compliance Analyst, 2022-03-13 ,Approved,Minor edits requested.
+REV-01183,POL-0238, EMP-0036 ,Senior Analyst,2015-12-11,Approved,Formatting changes only.
+REV-01184,POL-0208,EMP-0053,Senior Analyst,2006-09-10, Approved ,
+REV-01185,POL-0021,EMP-0039,Policy Analyst,2010-10-21, Rejected ,Formatting changes only.
+REV-01186,POL-0217, EMP-0017 ,Department Supervisor,"Oct 03, 2007",Approved,Looks good.
+REV-01187,POL-0107,EMP-0036,Senior Analyst,2023-04-20,Rejected,Minor edits requested.
+REV-01188,POL-0027,EMP-0050,Policy Reviewer,2025-03-12,Approved,Formatting changes only.
+REV-01189,POL-0236,EMP-0021, Department Supervisor ,2002-10-31,Approved,Update section 3.
+REV-01190,POL-0220,EMP-0016,Department Supervisor,2000-09-25,Approved,Looks good.
+ REV-01191 ,POL-0236,EMP-0049,Senior Analyst,2021-08-27,Approved,Update section 3.
+ REV-01192 ,POL-0110,EMP-0015, Department Supervisor ,2004-06-14,Approved,Minor edits requested.
+REV-01193,POL-0255,EMP-0034,Compliance Analyst,2010-06-12, Approved ,
+REV-01194,POL-0130,EMP-0035,Senior Analyst,03/11/2002,Approved,Update section 3.
+REV-01195,POL-0035,EMP-0029,Compliance Analyst,2023-11-14,Approved,Formatting changes only.
+REV-01196,POL-0099,EMP-0022,Department Supervisor,"Jan 28, 2003",Approved,Formatting changes only.
+REV-01197,POL-0170,EMP-0039,Policy Analyst, 2022-09-03 ,Approved,
+REV-01198,POL-0103,EMP-0053,Senior Analyst,07/18/2009,Approved,Please verify citation.
+REV-01199,POL-0075,EMP-0023,Department Supervisor,2013-04-29,Approved,
+ REV-01200 ,POL-0049,EMP-0044,Policy Analyst,2023-05-26,Approved,Formatting changes only.
+REV-01201,POL-0094,EMP-0050,Policy Reviewer,2010-11-21,Rejected,Looks good.
+REV-01202,POL-0091,EMP-0034,Compliance Analyst,2002-02-11,Approved,Looks good.
+REV-01203,POL-0278,EMP-0021,Department Supervisor,2000-07-05,Approved,
+ REV-01204 ,POL-0068,EMP-0036,Senior Analyst,2012-11-15,Approved,Minor edits requested.
+REV-01205,POL-0151,EMP-0036,Senior Analyst,2018-03-23,Approved,Please verify citation.
+REV-01206,POL-0214, EMP-0044 ,Policy Analyst,2009-06-25,Approved,
+ REV-01207 ,POL-0014,,,2003-07-30,Approved,Please verify citation.
+REV-01208,POL-0207,EMP-0046,Policy Reviewer,2013-04-05,Approved,Please verify citation.
+REV-01209,POL-0069,EMP-0033,Compliance Analyst,2016-02-11,Approved,Minor edits requested.
+REV-01210,POL-0267,EMP-0049,Senior Analyst,2010-08-25,Approved,Looks good.
+REV-01211,POL-0109,EMP-0036,Senior Analyst,2020-11-23,Approved,Please verify citation.
+REV-01212,POL-0296,EMP-0027,Compliance Analyst,2000-09-15,Approved,Looks good.
+REV-01213,POL-0092,EMP-0043,Policy Reviewer,2018-10-05,Approved,  
+REV-01214,POL-0142,EMP-0015,Department Supervisor,2025-07-22,Approved,Please verify citation.
+REV-01215,POL-0100,EMP-0032, Compliance Analyst , 2013-09-12 ,Approved,
+REV-01216,POL-0132,EMP-0027,Compliance Analyst,2023-07-10,Approved,Please verify citation.
+REV-01217,POL-0067,EMP-0039,Policy Analyst,2011-09-20,Approved,Update section 3.
+REV-01218,POL-0200,EMP-0026,Compliance Analyst,2022-03-11,Approved,Minor edits requested.
+REV-01219,POL-0174,EMP-0054,Senior Analyst,2021-01-29,Approved,Update section 3.
+REV-01220,POL-0245,EMP-0041,Policy Reviewer,22-Sep-2001,Approved,
+ REV-01221 ,POL-0033,EMP-0015,Department Supervisor,2012-01-24,Approved,Update section 3.
+REV-01222,POL-0114,EMP-0054,Senior Analyst,2010-05-20,Approved,Formatting changes only.
+REV-01223,POL-0106,EMP-0031,Compliance Analyst,2010-10-24, Approved ,Update section 3.
+REV-01224,POL-0252,EMP-0044,Policy Analyst,2016-05-03,Approved,Please verify citation.
+REV-01225,POL-0164,EMP-0027,Compliance Analyst,2000-12-07,Approved,Looks good.
+REV-01226, POL-0283 ,EMP-0016,Department Supervisor,2013-05-20,Approved,Update section 3.
+REV-01227,POL-0292,,Department Supervisor,2015-11-03,Approved,Please verify citation.
+REV-01228,POL-0093,EMP-0041,Policy Reviewer,2008-07-03,Approved,Minor edits requested.
+REV-01229,POL-0083,EMP-0024,Department Supervisor,2016-05-10,Approved,Please verify citation.
+REV-01230,POL-0163,EMP-0022,Department Supervisor,26-Jul-2012,Approved,Formatting changes only.
+ REV-01231 ,POL-0104,EMP-0042,Senior Analyst,2009-01-10,Approved,Formatting changes only.
+REV-01232,POL-0245,EMP-0026, Compliance Analyst ,"Jun 15, 2009",Approved,
+REV-01233,POL-0034,EMP-0027,Compliance Analyst,2011-05-10,Approved,Looks good.
+REV-01234,POL-0130,EMP-0023,Department Supervisor,"Oct 12, 2010",Approved,Looks good.
+REV-01235,POL-0287,EMP-0020,Department Supervisor,2016-06-20,Approved,
+REV-01236,POL-0054,EMP-0016,Department Supervisor,2005-11-16,Approved,Formatting changes only.
+REV-01237,POL-0187,EMP-0050,Policy Reviewer,2022-08-06,Approved,
+REV-01238,POL-0278,EMP-0013, Department Supervisor ,14-Oct-2024,Approved,Update section 3.
+REV-01239,POL-0024,EMP-0050,Policy Reviewer,2017-02-23,Approved,Minor edits requested.
+REV-01240,POL-0228,EMP-0047,Policy Reviewer,01-Aug-2022,Rejected,Minor edits requested.
+REV-01241,POL-0064, EMP-0022 ,Department Supervisor,2022-07-07,Approved,Please verify citation.
+REV-01242,POL-0292,EMP-0036,Senior Analyst,2013-01-25,Approved,Looks good.
+REV-01243,POL-0122,EMP-0014,Department Supervisor,2006-04-02,Approved,Please verify citation.
+REV-01244,POL-0004,EMP-0041,Policy Reviewer,2019-06-25, Approved ,Please verify citation.
+REV-01245,POL-0081,EMP-0043,Policy Reviewer,2001-12-16,Approved,Minor edits requested.
+REV-01246,POL-0003,EMP-0054,Senior Analyst,27-Feb-2018,Approved,Looks good.
+REV-01247,POL-0173,EMP-0018,Department Supervisor,2021-01-02,Approved,Formatting changes only.
+REV-01248,POL-0275,EMP-0040,Senior Analyst,2023-09-29,Approved, Minor edits requested. 
+REV-01249,POL-0068,EMP-0011,Department Supervisor,2000-11-15,Approved,Formatting changes only.
+REV-01250, POL-0219 ,EMP-0035,Senior Analyst,2009-12-13,Approved,Please verify citation.
+REV-01251,POL-0217,EMP-0031,Compliance Analyst,2005-01-06,Approved,Minor edits requested.
+REV-01252,POL-0161,EMP-0022, Department Supervisor ,2012-02-23,Approved,Please verify citation.
+REV-01253,POL-0281,EMP-0026,Compliance Analyst,"Apr 15, 2012",Rejected,Minor edits requested.
+REV-01254,POL-0117,EMP-0050,Policy Reviewer,2021-08-22,Approved,Minor edits requested.
+REV-01255,POL-0058,EMP-0022,Department Supervisor,2016-11-29,Approved,
+REV-01256,POL-0255,EMP-0024,Department Supervisor,07-Jul-2019,Approved,Update section 3.
+REV-01257,POL-0034,EMP-0034, Compliance Analyst ,2017-03-13,Approved,Update section 3.
+REV-01258,POL-0287,,Policy Analyst,2013-01-15,Approved,Looks good.
+REV-01259, POL-0233 ,EMP-0047,Policy Reviewer,2006-05-19,Approved,Formatting changes only.
+REV-01260, POL-0222 ,EMP-0017,Department Supervisor,2010-10-01,Approved,Formatting changes only.
+REV-01261, POL-0055 ,EMP-0026,Compliance Analyst,2012-08-09,Rejected,Please verify citation.
+REV-01262,POL-0107,EMP-0035, Senior Analyst ,2019-11-20,Rejected,Looks good.
+REV-01263,POL-0146,EMP-0020,Department Supervisor,2007-01-15,Approved,Update section 3.
+REV-01264,POL-0154,EMP-0022,Department Supervisor,2000-12-07,Approved,Update section 3.
+REV-01265,POL-0280,EMP-0019,Department Supervisor,2022-11-28,Approved,Formatting changes only.
+REV-01266,POL-0269,EMP-0045,Policy Analyst,2023-09-09,Approved,Formatting changes only.
+ REV-01267 ,POL-0230,EMP-0042,Senior Analyst,2014-08-29,Approved,Minor edits requested.
+ REV-01268 ,POL-0100,EMP-0046, Policy Reviewer ,,Approved,Please verify citation.
+REV-01269,POL-0055, EMP-0036 ,Senior Analyst,"Aug 21, 2002",Approved,  
+REV-01270,POL-0079,EMP-0014,Department Supervisor,2007-10-29,,Looks good.
+REV-01271, POL-0010 ,EMP-0041,Policy Reviewer, 2011-11-27 ,Rejected,Formatting changes only.
+REV-01272,POL-0252,EMP-0039,Policy Analyst,2004-10-25,Approved,Formatting changes only.
+REV-01273,POL-0240,EMP-0027,Compliance Analyst,2015-07-06,Approved,Minor edits requested.
+REV-01274,POL-0031,EMP-0046,Policy Reviewer,2016-08-29,Approved,Please verify citation.
+REV-01275,POL-0061,EMP-0033,Compliance Analyst,2012-01-22,Approved,
+REV-01276,POL-0042,EMP-0018, Department Supervisor ,2018-12-20,Approved,Minor edits requested.
+REV-01277,POL-0272,EMP-0047,Policy Reviewer,2009-06-03,Approved,Please verify citation.
+REV-01278,POL-0176,,Department Supervisor,2024-08-25,Approved,Minor edits requested.
+REV-01279,POL-0282,EMP-0031,Compliance Analyst,05-Jun-2016,,Formatting changes only.
+REV-01280,POL-0215,EMP-0042,Senior Analyst,2023-05-25,Approved, Formatting changes only. 
+REV-01281,POL-0087,EMP-0016,Department Supervisor,2020-07-18,Approved,Update section 3.
+REV-01282,POL-0163,EMP-0040,Senior Analyst,2013-05-08,Approved,Formatting changes only.
+REV-01283,POL-0180,EMP-0021,Department Supervisor,"Dec 30, 2006",Approved,Formatting changes only.
+ REV-01284 ,POL-0293,EMP-0037,Policy Reviewer,2015-08-19,Approved,Formatting changes only.
+REV-01285,POL-0205,EMP-0015,Department Supervisor,27-Aug-2018,Approved,
+REV-01286,POL-0274,EMP-0032,Compliance Analyst,2007-10-07,Approved,Looks good.
+REV-01287,POL-0278,EMP-0031,Compliance Analyst,2014-07-24, Approved ,Formatting changes only.
+REV-01288,POL-0261,EMP-0028,Compliance Analyst,,Approved,Please verify citation.
+ REV-01289 ,POL-0285,EMP-0028,Compliance Analyst,2018-03-28,Approved,Update section 3.
+REV-01290,POL-0186,EMP-0048,Policy Reviewer,2016-10-15,Approved,Please verify citation.
+REV-01291,POL-0016,EMP-0037,Policy Reviewer,"Sep 11, 2020",Rejected,Looks good.
+REV-01292,POL-0086,EMP-0012,Department Supervisor,2008-09-29,,Looks good.
+ REV-01293 ,POL-0229,EMP-0053, Senior Analyst ,2011-01-09,Approved,Minor edits requested.
+REV-01294,POL-0040, EMP-0024 ,Department Supervisor,2004-02-02,Approved,Looks good.
+REV-01295,POL-0042,EMP-0017,Department Supervisor, 2018-04-23 ,Approved,  
+REV-01296,POL-0140,EMP-0041,Policy Reviewer,2003-05-12,Approved,Please verify citation.
+REV-01297,POL-0274, EMP-0012 ,Department Supervisor,2002-11-29,Approved,Update section 3.
+REV-01298,POL-0132, EMP-0016 ,Department Supervisor,,Approved,
+REV-01299,POL-0077,EMP-0050,Policy Reviewer,2012-04-09,Approved,Looks good.
+REV-01300,POL-0257, EMP-0052 ,Senior Analyst,2004-04-12,Approved,
+ REV-01301 ,POL-0055,EMP-0025,Compliance Analyst,2014-05-17,Approved,Looks good.
+REV-01302, POL-0084 ,EMP-0039,Policy Analyst, 2013-03-30 ,Approved,Formatting changes only.
+REV-01303,POL-0104,EMP-0019,Department Supervisor,2006-03-03,Approved,Please verify citation.
+REV-01304,POL-0143,EMP-0012,Department Supervisor,2008-02-25,Approved,
+REV-01305,POL-0072,EMP-0031,Compliance Analyst,2016-07-03,Approved,
+REV-01306, POL-0236 ,EMP-0045,Policy Analyst,2021-06-15,Approved,Minor edits requested.
+ REV-01307 ,POL-0079,,Policy Analyst,2025-02-07,Rejected,Looks good.
+REV-01308,POL-0015,EMP-0022,Department Supervisor,2024-09-08,Approved,Please verify citation.
+ REV-01309 ,POL-0054,EMP-0051,Policy Analyst,,Approved,Formatting changes only.
+REV-01310,POL-0123,,Policy Analyst,2020-01-04,Rejected,Formatting changes only.
+REV-01311,POL-0216, EMP-0030 ,Compliance Analyst,2024-06-10,Approved,
+REV-01312,POL-0158,EMP-0045,Policy Analyst,2022-02-07,Approved,Looks good.
+REV-01313,POL-0191,EMP-0039,Policy Analyst,2004-07-07,Approved,Minor edits requested.
+REV-01314,POL-0158,EMP-0037,Policy Reviewer,2016-11-26,Approved,Minor edits requested.
+REV-01315,POL-0001,EMP-0030,Compliance Analyst,"Jun 26, 2007",Approved,
+REV-01316,POL-0093,EMP-0044,Policy Analyst,2000-07-02,Approved,Looks good.
+REV-01317,POL-0247,EMP-0029, Compliance Analyst ,2015-12-04,Rejected,Update section 3.
+REV-01318,POL-0221,EMP-0011,Department Supervisor,2024-07-02,Approved,Formatting changes only.
+REV-01319,POL-0057,EMP-0041,Policy Reviewer,2022-07-25,Approved,Minor edits requested.
+REV-01320,POL-0149, EMP-0038 ,Senior Analyst,2000-11-27,,Minor edits requested.
+REV-01321,POL-0085,EMP-0011,Department Supervisor,2010-11-14,Approved,Please verify citation.
+REV-01322,POL-0215,EMP-0023,Department Supervisor,2017-04-04,Approved,Update section 3.
+REV-01323,POL-0187,EMP-0038,Senior Analyst,2025-08-23, Rejected ,Update section 3.
+REV-01324,POL-0143,EMP-0021,Department Supervisor, 2011-09-16 ,Approved,Formatting changes only.
+REV-01325,POL-0006,EMP-0035,Senior Analyst,2017-12-24,Rejected,Looks good.
+ REV-01326 ,POL-0117,EMP-0016,Department Supervisor,2012-04-17, Approved , Update section 3. 
+REV-01327,POL-0244,EMP-0044,,2011-03-30,Approved,Please verify citation.
+REV-01328,POL-0061,EMP-0029,Compliance Analyst,2012-09-10,Approved,Formatting changes only.
+REV-01329,POL-0058,EMP-0028,Compliance Analyst,2024-05-11,Approved,Update section 3.
+REV-01330,POL-0025,EMP-0015,Department Supervisor,2008-12-06,Approved,Looks good.
+REV-01331,POL-0111,EMP-0029,Compliance Analyst,2006-08-17,Approved,
+REV-01332,POL-0103,EMP-0050,Policy Reviewer,2020-12-03,Approved,Update section 3.
+REV-01333,POL-0223,EMP-0050,Policy Reviewer,09/14/2012,Approved,Update section 3.
+REV-01334,POL-0032,EMP-0031,Compliance Analyst,"Dec 02, 2008",Approved,
+ REV-01335 , POL-0191 ,EMP-0014,Department Supervisor,28-Apr-2007,Approved,Please verify citation.
+REV-01336,POL-0228, EMP-0022 ,Department Supervisor,2001-06-28,Approved,
+REV-01337,POL-0208,EMP-0028,Compliance Analyst,2013-02-25,Approved,Looks good.
+ REV-01338 , POL-0183 ,EMP-0011,Department Supervisor,03/01/2020,Approved, Looks good. 
+REV-01339,POL-0279, EMP-0020 , Department Supervisor , 2004-07-17 ,Approved,
+REV-01340,POL-0283,,Department Supervisor, 2022-08-21 ,Approved,Minor edits requested.
+REV-01341,POL-0045,EMP-0030,,2019-05-08,Approved,Update section 3.
+REV-01342,POL-0040,EMP-0040,Senior Analyst,2017-02-26,Rejected,Formatting changes only.
+REV-01343,POL-0023,EMP-0032,,2001-12-02,Approved,
+REV-01344,POL-0049,EMP-0014,Department Supervisor,2007-01-19,Approved,Minor edits requested.
+REV-01345,POL-0249,EMP-0015, Department Supervisor ,06-Feb-2018,Approved,Please verify citation.
+REV-01346,POL-0034,EMP-0022,Department Supervisor,2021-08-02, Approved ,Looks good.
+REV-01347,POL-0064,EMP-0035,Senior Analyst,2011-09-19,Approved,
+REV-01348,POL-0013,EMP-0026,Compliance Analyst, 2005-12-20 ,Approved,Update section 3.
+ REV-01349 ,POL-0008,,Compliance Analyst,2020-05-14,Rejected,Formatting changes only.
+REV-01350, POL-0212 ,,Department Supervisor,2002-01-01,Approved,Update section 3.
+REV-01351,POL-0095,EMP-0044,Policy Analyst,2004-09-17,Approved,Formatting changes only.
+REV-01352,POL-0027,EMP-0041,Policy Reviewer, 2009-11-06 ,Approved, Update section 3. 
+REV-01353,POL-0041,EMP-0031,Compliance Analyst,2014-07-01,Approved,Looks good.
+REV-01354, POL-0102 ,EMP-0046,Policy Reviewer,2002-05-23,Approved,Please verify citation.
+REV-01355,POL-0054,EMP-0027,Compliance Analyst,2005-12-23,Approved,Update section 3.
+REV-01356,POL-0235,EMP-0023,Department Supervisor,2013-11-25,Approved,Minor edits requested.
+REV-01357,POL-0255, EMP-0053 ,Senior Analyst,2002-11-01,Approved,Looks good.
+REV-01358,POL-0042,,Compliance Analyst,2005-07-25,Approved, Formatting changes only. 
+REV-01359,POL-0289,,Compliance Analyst,22-Dec-2019,Rejected,
+REV-01360,POL-0124,EMP-0028,Compliance Analyst,2008-01-03,Approved,Please verify citation.
+REV-01361, POL-0129 ,EMP-0036,Senior Analyst, 2005-11-12 ,,Looks good.
+REV-01362,POL-0105,EMP-0013,Department Supervisor,"Nov 24, 2000",Rejected,Please verify citation.
+REV-01363,POL-0001,EMP-0049,Senior Analyst,10/25/2021,Approved,Looks good.
+REV-01364,POL-0281,EMP-0016,Department Supervisor,2017-02-26,Approved,Looks good.
+REV-01365,POL-0130,EMP-0042,Senior Analyst,28-Jul-2007,Approved,
+REV-01366,POL-0032,,Policy Analyst,2015-09-05,Approved,
+REV-01367,POL-0090,EMP-0033, Compliance Analyst ,2003-03-07,Approved,Formatting changes only.
+REV-01368,POL-0040,EMP-0045,Policy Analyst,2007-05-27,Approved,
+REV-01369,POL-0070,,Senior Analyst,2006-02-21,Approved,Looks good.
+REV-01370,POL-0109,,Policy Reviewer,2014-09-15,Approved,
+REV-01371,POL-0049,EMP-0039,,2016-01-29,Approved,Formatting changes only.
+REV-01372,POL-0028,EMP-0012,Department Supervisor,2009-02-25, Approved ,Formatting changes only.
+REV-01373,POL-0206,EMP-0033,Compliance Analyst,2017-06-11,Approved,Formatting changes only.
+REV-01374,POL-0285,EMP-0027,Compliance Analyst,2006-07-17,Approved,
+ REV-01375 ,POL-0204,EMP-0039,Policy Analyst,2022-04-08,Approved,Please verify citation.
+REV-01376,POL-0152,EMP-0045,Policy Analyst,19-Sep-2013,Approved,
+REV-01377,POL-0099,EMP-0023,Department Supervisor,2022-06-25,Approved,Please verify citation.
+REV-01378,POL-0044,EMP-0045,Policy Analyst,2008-11-13,Approved,Minor edits requested.
+REV-01379,POL-0056,EMP-0040,Senior Analyst,07-Jan-2015,Approved,Minor edits requested.
+ REV-01380 ,POL-0244, EMP-0021 ,Department Supervisor,2025-05-16,Approved,
+REV-01381, POL-0270 ,EMP-0020,Department Supervisor,2024-04-28,Approved,Update section 3.
+REV-01382,POL-0222,EMP-0027,Compliance Analyst,2013-10-05,Approved, Please verify citation. 
+REV-01383,POL-0286,EMP-0040,Senior Analyst,,Approved,
+REV-01384,POL-0095,EMP-0035,Senior Analyst,2023-03-12,Approved,Formatting changes only.
+REV-01385,POL-0236,EMP-0012,Department Supervisor,2008-10-26,Rejected,Please verify citation.
+REV-01386,POL-0295,EMP-0050,Policy Reviewer,30-Oct-2016,Approved,Looks good.
+REV-01387,POL-0110,EMP-0015, Department Supervisor ,2014-11-19,Approved,Formatting changes only.
+REV-01388,POL-0232,EMP-0035,Senior Analyst,2024-09-03,,Looks good.
+REV-01389,POL-0276,EMP-0054,Senior Analyst,03-Jan-2024,Approved,Update section 3.
+REV-01390,POL-0170,, Department Supervisor ,2025-03-27,Approved,Please verify citation.
+REV-01391,POL-0004,EMP-0031,Compliance Analyst,2013-03-13,Approved,Update section 3.
+REV-01392,POL-0194,EMP-0018,Department Supervisor, 2014-12-11 ,Approved,
+REV-01393,POL-0181,EMP-0053,Senior Analyst,2023-12-20,Approved,  
+REV-01394,POL-0066,EMP-0019,Department Supervisor, 2002-06-18 ,Approved,Looks good.
+ REV-01395 ,POL-0128, EMP-0023 ,Department Supervisor,2001-11-25,Approved,
+REV-01396,POL-0150,EMP-0023,Department Supervisor,2022-04-09,Approved,
+REV-01397, POL-0143 ,EMP-0047,Policy Reviewer,2001-12-04,Approved,Formatting changes only.
+REV-01398,POL-0227,EMP-0053,Senior Analyst,2017-12-05,Approved,Update section 3.
+REV-01399,POL-0021,EMP-0050,Policy Reviewer,"Feb 01, 2024",Approved,Formatting changes only.
+REV-01400, POL-0126 , EMP-0014 ,Department Supervisor,2011-12-24,Approved,Minor edits requested.
+REV-01401,POL-0248, EMP-0049 ,Senior Analyst,2010-05-26,,Formatting changes only.
+REV-01402,POL-0162,EMP-0011,Department Supervisor,2003-09-05,Approved,
+REV-01403,POL-0246,,Department Supervisor,2022-07-17,Approved,Update section 3.
+REV-01404,POL-0029,EMP-0034, Compliance Analyst ,2003-03-22,Approved,Please verify citation.
+REV-01405,POL-0025,EMP-0034,Compliance Analyst,2019-02-26,Approved,Formatting changes only.
+REV-01406,POL-0224,EMP-0050,Policy Reviewer,2003-02-11,Approved,Minor edits requested.
+REV-01407,POL-0043,EMP-0013,,24-Mar-2024,Approved,Formatting changes only.
+REV-01408, POL-0222 ,EMP-0030,,2003-08-28,Approved,
+ REV-01409 ,POL-0165,EMP-0044,Policy Analyst,2010-03-08,Approved,
+REV-01410,POL-0006,EMP-0025,Compliance Analyst,2005-01-14,Approved,Please verify citation.
+REV-01411,POL-0257,EMP-0023,Department Supervisor,2017-10-13, Approved ,
+REV-01412,POL-0236,EMP-0053,Senior Analyst,2024-02-07, Approved ,Looks good.
+REV-01413,POL-0146,EMP-0046,Policy Reviewer,10-Jul-2008,Approved,
+REV-01414,POL-0041,EMP-0037,Policy Reviewer,"Jul 14, 2025",Approved,Formatting changes only.
+REV-01415,POL-0210,,Policy Analyst,2005-03-25,Approved,Please verify citation.
+REV-01416,POL-0291,EMP-0054,,2016-07-21,Approved,Update section 3.
+REV-01417, POL-0156 ,EMP-0017,Department Supervisor,2019-08-28,Approved,Looks good.
+REV-01418,POL-0058,EMP-0046,Policy Reviewer,2008-08-03,Approved,Update section 3.
+REV-01419,POL-0147,EMP-0032,Compliance Analyst,2023-02-19,Approved,Formatting changes only.
+REV-01420,POL-0157,EMP-0045,Policy Analyst,2007-08-05,Rejected,Please verify citation.
+REV-01421,POL-0112,EMP-0033,Compliance Analyst,2020-05-15,Approved,Minor edits requested.
+ REV-01422 ,POL-0247,EMP-0031,Compliance Analyst,2025-03-04,Approved,Minor edits requested.
+REV-01423,POL-0192,EMP-0051,Policy Analyst,2018-12-29, Approved ,Update section 3.
+REV-01424,POL-0287, EMP-0049 ,Senior Analyst,01/03/2015,Approved,Looks good.
+ REV-01425 ,POL-0154,EMP-0024,Department Supervisor,2024-12-21,Rejected,Update section 3.
+REV-01426,POL-0252,EMP-0027,Compliance Analyst,2025-03-07,Rejected, Minor edits requested. 
+REV-01427,POL-0094,EMP-0039,Policy Analyst,2020-10-16,Approved,Update section 3.
+REV-01428,POL-0010,EMP-0013,Department Supervisor,2000-07-04,Approved,Minor edits requested.
+REV-01429,POL-0116,EMP-0044,Policy Analyst,2001-03-25,Approved,Looks good.
+REV-01430,POL-0264,EMP-0011,Department Supervisor,2014-01-14, Approved ,Minor edits requested.
+REV-01431,POL-0023,EMP-0024,Department Supervisor,14-Jun-2010,Approved,Minor edits requested.
+REV-01432,POL-0288,EMP-0028,Compliance Analyst,2001-06-21,Approved,Please verify citation.
+REV-01433,POL-0175,EMP-0046,Policy Reviewer,2023-06-07,Approved,Please verify citation.
+REV-01434,POL-0004,EMP-0017,Department Supervisor,2007-06-09, Approved ,
+REV-01435,POL-0188,,Compliance Analyst,2021-02-23,Approved,Looks good.
+REV-01436,POL-0260,EMP-0027,,2006-09-15,Rejected,Minor edits requested.
+REV-01437,POL-0126,EMP-0025,Compliance Analyst,,Approved,Minor edits requested.
+REV-01438,POL-0184,EMP-0016,Department Supervisor,2013-12-20,Approved,Please verify citation.
+REV-01439,POL-0214,EMP-0047,Policy Reviewer,2018-06-07,Approved,Looks good.
+REV-01440,POL-0153,EMP-0031,Compliance Analyst,2003-12-17,Approved,Update section 3.
+REV-01441,POL-0246,EMP-0042,Senior Analyst,2008-04-02,Approved,Formatting changes only.
+REV-01442,POL-0279,EMP-0049,Senior Analyst,2004-10-10,Approved,Formatting changes only.
+REV-01443,POL-0272,EMP-0013,Department Supervisor,2013-12-21,Approved,Formatting changes only.
+REV-01444,POL-0002,EMP-0016,Department Supervisor,2017-08-12,Approved,
+REV-01445,POL-0299,EMP-0033,Compliance Analyst,2015-07-01,Approved,Update section 3.
+REV-01446,POL-0142,EMP-0018, Department Supervisor ,2019-03-08,Approved,Looks good.
+REV-01447,POL-0181,EMP-0051,Policy Analyst,01/04/2001,Approved,
+REV-01448,POL-0098,EMP-0014,Department Supervisor,2017-08-27, Approved ,Minor edits requested.
+REV-01449,POL-0134,EMP-0013,Department Supervisor,2024-01-08,Approved,Minor edits requested.
+REV-01450,POL-0176,EMP-0047,Policy Reviewer,2024-09-19,Approved,Looks good.
+ REV-01451 ,POL-0036,EMP-0043,Policy Reviewer,2015-02-27,Approved,Formatting changes only.
+REV-01452,POL-0220, EMP-0020 ,Department Supervisor,2010-05-27,Approved,
+REV-01453, POL-0156 ,EMP-0039,Policy Analyst,2018-02-13,Rejected,Please verify citation.
+REV-01454,POL-0133,EMP-0016,Department Supervisor,2023-02-20,Approved,Looks good.
+REV-01455,POL-0063, EMP-0029 ,Compliance Analyst,2019-11-15, Approved ,Update section 3.
+REV-01456, POL-0188 ,,Department Supervisor,20-Feb-2007,Approved,Minor edits requested.
+REV-01457, POL-0141 ,EMP-0041, Policy Reviewer ,2004-03-14,,Please verify citation.
+REV-01458,POL-0265,EMP-0046,Policy Reviewer,"Sep 16, 2002",Approved,Update section 3.
+REV-01459,POL-0232, EMP-0016 ,Department Supervisor,2012-04-10,Approved,Update section 3.
+REV-01460,POL-0245,EMP-0038,Senior Analyst,2023-01-03,Rejected,Formatting changes only.
+REV-01461,POL-0141,EMP-0019,Department Supervisor,2006-05-07,Approved,Update section 3.
+REV-01462,POL-0085,EMP-0023,Department Supervisor,2025-08-02,Approved,Update section 3.
+REV-01463,POL-0196, EMP-0052 ,Senior Analyst,2018-03-25,Approved,Please verify citation.
+REV-01464,POL-0228,EMP-0046,Policy Reviewer,2009-04-17,Rejected,Please verify citation.
+REV-01465,POL-0132,EMP-0026,Compliance Analyst,2024-01-06,Rejected,Looks good.
+ REV-01466 ,POL-0209,EMP-0028,Compliance Analyst,09/17/2003,Approved,Update section 3.
+REV-01467,POL-0039,EMP-0054,Senior Analyst,2015-01-02,Approved,Please verify citation.
+REV-01468,POL-0277,EMP-0018,Department Supervisor,2004-07-07,Approved,Formatting changes only.
+REV-01469,POL-0093,EMP-0038,Senior Analyst,2019-01-19, Approved ,Minor edits requested.
+REV-01470, POL-0283 ,, Department Supervisor ,2016-02-14,Approved,Minor edits requested.
+REV-01471,POL-0226,EMP-0049,Senior Analyst,2015-12-14,Approved,Formatting changes only.
+REV-01472,POL-0268,EMP-0030,Compliance Analyst,2001-08-01,Approved,Looks good.
+REV-01473,POL-0102,EMP-0050,Policy Reviewer, 2016-03-08 ,Approved,Update section 3.
+REV-01474,POL-0087,EMP-0039,Policy Analyst,2007-01-15,Approved,
+REV-01475,POL-0259,EMP-0023,Department Supervisor,2010-12-21,Approved,Formatting changes only.
+REV-01476,POL-0229,EMP-0020,Department Supervisor,,Approved,Formatting changes only.
+REV-01477,POL-0113,, Department Supervisor ,2004-05-06,Approved,Formatting changes only.
+REV-01478,POL-0097,EMP-0026,Compliance Analyst,2002-12-11,Approved,Please verify citation.
+REV-01479,POL-0046,EMP-0029,Compliance Analyst,2007-02-14,Approved,
+REV-01480,POL-0045,EMP-0018,Department Supervisor, 2015-11-24 ,Approved,Minor edits requested.
+REV-01481, POL-0067 ,EMP-0041,Policy Reviewer,2020-09-07,Approved,  
+REV-01482,POL-0046,EMP-0024,Department Supervisor,2015-05-21,Approved,Formatting changes only.
+REV-01483,POL-0278,EMP-0024,Department Supervisor,2024-08-18,Approved,Looks good.
+REV-01484,POL-0207,EMP-0044,Policy Analyst,2025-01-03,Rejected,Minor edits requested.
+REV-01485,POL-0162,EMP-0041,Policy Reviewer,2025-02-11,Approved,Please verify citation.
+REV-01486,POL-0086,EMP-0053,Senior Analyst,2030-01-01,Rejected,
+REV-01487,POL-0022, EMP-0048 ,Policy Reviewer,2017-05-23,Approved,Formatting changes only.
+REV-01488, POL-0004 ,EMP-0013,Department Supervisor,17-Feb-2024,Approved,Minor edits requested.
+REV-01489,POL-0208,EMP-0014,Department Supervisor,,Rejected,Minor edits requested.
+REV-01490, POL-0129 ,EMP-0050,Policy Reviewer,2009-07-02,Approved,Minor edits requested.
+REV-01491,POL-0118,EMP-0040,,2002-11-17,Approved, Formatting changes only. 
+REV-01492, POL-0274 ,EMP-0015,Department Supervisor,2000-11-14,Approved,Update section 3.
+REV-01493,POL-0052, EMP-0053 ,Senior Analyst,,Approved,Formatting changes only.
+REV-01494,POL-0216,EMP-0017,Department Supervisor,2016-08-27,Approved,
+REV-01495,POL-0054,EMP-0052,Senior Analyst,2013-08-14,Approved, Update section 3. 
+REV-01496,POL-0040,EMP-0035,Senior Analyst,2010-11-13,Approved,Please verify citation.
+REV-01497,POL-0125,EMP-0031,,2004-12-18,Approved,Update section 3.
+ REV-01498 ,POL-0077,EMP-0016,,2024-05-05,Approved,Looks good.
+ REV-01499 ,POL-0218,EMP-0043,Policy Reviewer,"Jun 02, 2009",Approved,Update section 3.
+REV-01500,POL-0174,EMP-0012,Department Supervisor,25-Aug-2025,Approved,
+REV-01501,POL-0140,EMP-0044,Policy Analyst,2011-08-06,Approved,Minor edits requested.
+REV-01502,POL-0102,EMP-0042,Senior Analyst,"Jun 18, 2015",Approved,Update section 3.
+REV-01503,POL-0092,EMP-0012,Department Supervisor, 2007-07-17 ,Approved,Minor edits requested.
+REV-01504,POL-0163,EMP-0033,Compliance Analyst,2016-04-13,Approved,Formatting changes only.
+REV-01505,POL-0156,EMP-0026,Compliance Analyst,2014-01-22,,Please verify citation.
+REV-01506,POL-0277,EMP-0014,Department Supervisor,"Nov 14, 2012",Approved,Formatting changes only.
+REV-01507,POL-0034,EMP-0035,Senior Analyst,2012-01-21,Approved,
+REV-01508,POL-0012,EMP-0028,Compliance Analyst,2025-05-23,Approved,Looks good.
+REV-01509,POL-0142,EMP-0032,Compliance Analyst,2007-04-21,,Update section 3.
+REV-01510,POL-0229,EMP-0016,Department Supervisor,2006-08-27,Approved, Formatting changes only. 
+REV-01511,POL-0021,EMP-0044,Policy Analyst,2017-08-23,Rejected,Formatting changes only.
+REV-01512,POL-0141,EMP-0037,Policy Reviewer,"Sep 13, 2010",Approved,Looks good.
+REV-01513,POL-0279,EMP-0038,Senior Analyst,2007-05-08,Approved,
+REV-01514, POL-0077 ,EMP-0039, Policy Analyst ,2015-04-09,Approved,Please verify citation.
+REV-01515,POL-0061,EMP-0024,,2006-05-29,Approved,Formatting changes only.
+REV-01516,POL-0270,EMP-0048,,09/18/2006,Approved,Please verify citation.
+REV-01517,POL-0019,EMP-0019,Department Supervisor,2009-07-28,Approved,Minor edits requested.
+REV-01518, POL-0075 ,EMP-0019,,2023-12-30,Approved,Update section 3.
+REV-01519,POL-0148,EMP-0052,Senior Analyst,2007-01-04,Rejected,Please verify citation.
+REV-01520,POL-0040,EMP-0031,Compliance Analyst,03-Aug-2007,Approved,
+REV-01521, POL-0065 ,EMP-0045,Policy Analyst,2025-07-01,Approved,Formatting changes only.
+REV-01522,POL-0293,EMP-0022, Department Supervisor ,"Oct 22, 2005",Approved,Minor edits requested.
+REV-01523,POL-0044, EMP-0012 ,Department Supervisor,2007-01-10,Approved,Minor edits requested.
+REV-01524,POL-0203,EMP-0037,Policy Reviewer,2019-01-26,Approved,Minor edits requested.
+REV-01525,POL-0272,EMP-0051,Policy Analyst,2020-05-15,Approved,Formatting changes only.
+REV-01526,POL-0139,EMP-0020,Department Supervisor,2012-10-11,Approved,Looks good.
+REV-01527,POL-0207,EMP-0019,Department Supervisor,2005-04-15,Approved,Looks good.
+REV-01528,POL-0046,EMP-0050,,2001-09-03, Approved ,Please verify citation.
+REV-01529, POL-0165 , EMP-0049 ,Senior Analyst,2012-06-20,Approved,Please verify citation.
+REV-01530,POL-0298,EMP-0049,Senior Analyst,2010-11-09,Approved,Looks good.
+REV-01531,POL-0009,EMP-0054,Senior Analyst,11/09/2010,Approved,
+REV-01532,POL-0060,EMP-0016,Department Supervisor,2016-08-12,Approved, Formatting changes only. 
+REV-01533, POL-0166 ,EMP-0019,,2021-11-16,Approved,
+REV-01534,POL-0149,EMP-0052,Senior Analyst,2021-07-11,Approved,Minor edits requested.
+REV-01535,POL-0224,EMP-0035,Senior Analyst,2008-10-01,Approved,Update section 3.
+REV-01536,POL-0032,EMP-0019,Department Supervisor,2021-10-02,Approved,Looks good.
+REV-01537,POL-0283,EMP-0025,Compliance Analyst,"Mar 02, 2009",Approved,  
+ REV-01538 ,POL-0056,EMP-0011,Department Supervisor,2018-10-29,Approved,Minor edits requested.
+REV-01539,POL-0293,, Compliance Analyst ,2019-01-10,Approved,Formatting changes only.
+REV-01540,POL-0063,EMP-0024,Department Supervisor,"Aug 06, 2009",Approved,
+REV-01541, POL-0130 ,EMP-0039,,2008-06-10,Rejected,Please verify citation.
+REV-01542,POL-0209,EMP-0031, Compliance Analyst ,2022-06-23,Approved,Update section 3.
+REV-01543,POL-0288,EMP-0038,Senior Analyst, 2011-07-27 ,Approved,Update section 3.
+REV-01544,POL-0017,EMP-0049,Senior Analyst, 2002-05-17 ,Approved,Formatting changes only.
+REV-01545,POL-0025,EMP-0031,Compliance Analyst,2017-07-24,,Update section 3.
+REV-01546,POL-0057,EMP-0044,Policy Analyst,"Jul 19, 2024",Approved,Formatting changes only.
+REV-01547,POL-0291, EMP-0044 ,Policy Analyst,2002-03-23,Approved,
+REV-01548,POL-0064,EMP-0040,Senior Analyst,2020-10-03,Approved,
+REV-01549,POL-0128, EMP-0044 ,Policy Analyst,07/09/2011,Approved,Please verify citation.
+REV-01550,POL-0036,EMP-0013,Department Supervisor,2018-03-30,Approved,Please verify citation.
+REV-01551,POL-0008,EMP-0044,Policy Analyst, 2017-11-16 ,Approved,
+REV-01552,POL-0069,,Department Supervisor,,Approved,Minor edits requested.
+REV-01553,POL-0139,EMP-0036,Senior Analyst,03/19/2020,Rejected,Minor edits requested.
+REV-01554,POL-0218, EMP-0040 ,Senior Analyst,04/28/2013,Approved, Looks good. 
+REV-01555, POL-0088 ,EMP-0029, Compliance Analyst ,2019-06-13,Approved, Please verify citation. 
+ REV-01556 ,POL-0095,EMP-0044,Policy Analyst,11-Dec-2002,Rejected,Looks good.
+REV-01557,POL-0087,EMP-0052,Senior Analyst,2021-04-17,Approved,Update section 3.
+REV-01558,POL-0045,EMP-0043,Policy Reviewer,2004-07-21,Approved,
+REV-01559,POL-0218,EMP-0048,Policy Reviewer,2008-07-24,Approved,Formatting changes only.
+REV-01560,POL-0184,,Department Supervisor,2025-01-03,Approved,Update section 3.
+REV-01561,POL-0137,EMP-0031,Compliance Analyst,18-Jan-2019,Approved,Update section 3.
+REV-01562,POL-0147,EMP-0022,Department Supervisor,, Approved ,Update section 3.
+REV-01563,POL-0241, EMP-0040 ,Senior Analyst,2009-07-22,Approved,
+REV-01564,POL-0135,EMP-0031,Compliance Analyst,2011-09-19,Approved,Formatting changes only.
+REV-01565,POL-0205,EMP-0018,Department Supervisor,"Nov 08, 2007", Approved ,
+REV-01566,POL-0177,EMP-0039,Policy Analyst,2005-08-14,,Formatting changes only.
+REV-01567,POL-0224,,Department Supervisor,2016-10-11,Approved,Please verify citation.
+REV-01568,POL-0165,EMP-0043,Policy Reviewer,2017-09-22,Approved,Please verify citation.
+ REV-01569 ,POL-0013,EMP-0035,Senior Analyst,"Sep 02, 2007",Rejected,Please verify citation.
+ REV-01570 ,POL-0181,EMP-0013,Department Supervisor,2017-07-27,Approved,Looks good.
+REV-01571,POL-0176,EMP-0047, Policy Reviewer ,"Jul 14, 2015",Approved,Formatting changes only.
+REV-01572,POL-0033,EMP-0021,,,Approved,Looks good.
+REV-01573,POL-0121,EMP-0014, Department Supervisor ,2008-07-09,Approved,Update section 3.
+REV-01574,POL-0158, EMP-0030 , Compliance Analyst ,"Apr 26, 2014",Approved,Formatting changes only.
+ REV-01575 ,POL-0171,EMP-0029,Compliance Analyst,07/07/2020,Rejected, Formatting changes only. 
+REV-01576,POL-0055,EMP-0018,Department Supervisor,2008-08-08,Approved,Looks good.
+REV-01577,POL-0052,EMP-0011,Department Supervisor,2009-08-06,Approved,Please verify citation.
+REV-01578,POL-0170,EMP-0011,Department Supervisor,07-Nov-2011,Rejected,Update section 3.
+REV-01579,POL-0264,EMP-0042, Senior Analyst ,10/27/2022,Rejected,Please verify citation.
+REV-01580,POL-0062,EMP-0049, Senior Analyst ,03-Oct-2000,Approved,Update section 3.
+REV-01581,POL-0068,EMP-0024,Department Supervisor,2011-03-03,Approved,Please verify citation.
+REV-01582,POL-0251,EMP-0040,Senior Analyst,2021-11-02,Approved,Update section 3.
+REV-01583,POL-0079,EMP-0016, Department Supervisor ,2020-04-26,,Please verify citation.
+REV-01584,POL-0265,EMP-0026,Compliance Analyst,"Oct 16, 2000",Approved,Please verify citation.
+REV-01585,POL-0156,EMP-0050,Policy Reviewer,2012-12-21,Approved,Formatting changes only.
+REV-01586,POL-0271,EMP-0024,Department Supervisor,2025-07-04,Approved,
+ REV-01587 , POL-0262 , EMP-0020 ,Department Supervisor,2008-10-15, Approved ,
+REV-01588, POL-0089 ,EMP-0013,Department Supervisor,2016-02-26,Approved,Looks good.
+REV-01589,POL-0062, EMP-0053 ,Senior Analyst,2001-12-14,Approved,Please verify citation.
+REV-01590,POL-0258,EMP-0032,Compliance Analyst,2013-11-19,Approved,
+REV-01591,POL-0205,EMP-0017,Department Supervisor,"Sep 12, 2002",Rejected,
+REV-01592,POL-0156,EMP-0021,Department Supervisor,2008-06-29,Approved,Formatting changes only.
+REV-01593,POL-0274,EMP-0050,Policy Reviewer,2013-04-03,,Formatting changes only.
+ REV-01594 ,POL-0175,EMP-0040,Senior Analyst, 2008-06-15 ,Approved,
+REV-01595,POL-0055,EMP-0013,Department Supervisor,2016-08-27,Approved,
+REV-01596,POL-0023,EMP-0031,Compliance Analyst,03-Dec-2013,Rejected, Minor edits requested. 
+REV-01597,POL-0242,EMP-0015,Department Supervisor,,Approved,Update section 3.
+REV-01598,POL-0157,EMP-0015,Department Supervisor,2025-03-10,Approved,Minor edits requested.
+REV-01599,POL-0026,EMP-0019,Department Supervisor,2021-08-13, Rejected ,
+REV-01600,POL-0222,EMP-0032,Compliance Analyst,2012-10-22,Approved,Please verify citation.
+REV-01601,POL-0240,EMP-0044,Policy Analyst,2019-01-22,Approved,Looks good.
+REV-01602,POL-0245,EMP-0050, Policy Reviewer ,2009-11-16,Approved,
+REV-01603,POL-0022,EMP-0047,Policy Reviewer,"May 26, 2005",Approved, Formatting changes only. 
+REV-01604,POL-0005,EMP-0016,Department Supervisor,03/23/2024,Rejected,Update section 3.
+REV-01605,POL-0016,EMP-0038,Senior Analyst,"May 19, 2013",Approved,Please verify citation.
+REV-01606, POL-0258 ,,Compliance Analyst,2014-09-11,Approved, Please verify citation. 
+REV-01607,POL-0150,EMP-0019,Department Supervisor,2016-05-15,Approved,Please verify citation.
+REV-01608,POL-0254,EMP-0044,Policy Analyst,2022-10-06,Approved,Formatting changes only.
+REV-01609,POL-0191,EMP-0042, Senior Analyst ,2022-10-28,Approved, Looks good. 
+REV-01610,POL-0152,EMP-0029,Compliance Analyst, 2010-12-08 ,Approved,Looks good.
+REV-01611,POL-0125,EMP-0018,Department Supervisor,2000-07-26,Rejected,  
+REV-01612,POL-0050,EMP-0051,Policy Analyst,2021-05-08,Approved,
+REV-01613,POL-0064,EMP-0050,Policy Reviewer,2009-10-18,Approved,Update section 3.
+REV-01614,POL-0021,EMP-0013, Department Supervisor ,2019-01-26,,Minor edits requested.
+REV-01615,POL-0034,EMP-0046,Policy Reviewer,2016-03-07,Approved,Formatting changes only.
+REV-01616,POL-0255,EMP-0011,Department Supervisor,2010-01-08,Approved,Formatting changes only.
+REV-01617,POL-0038,EMP-0029,Compliance Analyst,2009-07-10,Approved,Minor edits requested.
+REV-01618,POL-0035,EMP-0030,Compliance Analyst,2003-07-17,,Minor edits requested.
+REV-01619,POL-0295,EMP-0046,Policy Reviewer,2023-03-24,Approved, Minor edits requested. 
+REV-01620,POL-0225,EMP-0018,Department Supervisor,2000-10-09,Rejected, Formatting changes only. 
+REV-01621,POL-0227,,Compliance Analyst,2015-06-13,Approved,Update section 3.
+REV-01622,POL-0065,EMP-0022,Department Supervisor,2001-10-21,Approved,Looks good.
+REV-01623,POL-0112,EMP-0032,Compliance Analyst,2015-04-29,Approved,Formatting changes only.
+REV-01624,POL-0073,EMP-0041,Policy Reviewer,2021-12-27,Approved,
+REV-01625,POL-0274,EMP-0041,Policy Reviewer, 2006-08-03 ,,Looks good.
+REV-01626,POL-0099,EMP-0045,Policy Analyst,2021-02-27,Approved,Minor edits requested.
+REV-01627,POL-0045,EMP-0037,Policy Reviewer,2021-03-30,Approved,Formatting changes only.
+REV-01628,POL-0041,EMP-0044,Policy Analyst,2003-01-04,Approved, Minor edits requested. 
+ REV-01629 ,POL-0232,EMP-0046,Policy Reviewer,2014-08-26,Approved,Please verify citation.
+REV-01630,POL-0230,EMP-0024,Department Supervisor,2001-05-03,Approved,Please verify citation.
+REV-01631,POL-0260,EMP-0033,Compliance Analyst,"May 18, 2015",Rejected,
+REV-01632,POL-0096,EMP-0028,Compliance Analyst,2007-03-13,Approved,
+REV-01633,POL-0020,,Senior Analyst,2015-09-17,Approved,Formatting changes only.
+REV-01634,POL-0282,EMP-0021,Department Supervisor,"Jun 18, 2024",Approved,Please verify citation.
+REV-01635,POL-0286,EMP-0022,Department Supervisor,2017-12-21,Approved,Please verify citation.
+REV-01636,POL-0188,,Compliance Analyst,2005-09-27,Approved,Formatting changes only.
+ REV-01637 ,POL-0168,EMP-0013,Department Supervisor,2014-08-09,Approved,Minor edits requested.
+REV-01638,POL-0009,EMP-0016,Department Supervisor,2019-01-23,Approved,Update section 3.
+REV-01639,POL-0246, EMP-0034 ,Compliance Analyst,27-Feb-2011,Approved,Update section 3.
+REV-01640,POL-0054,EMP-0024,Department Supervisor,2014-01-27,Approved,Please verify citation.
+REV-01641,POL-0244,EMP-0022,Department Supervisor,2014-01-22,Approved,
+REV-01642,POL-0057,,Department Supervisor,2017-04-14,Approved,Looks good.
+REV-01643,POL-0051,EMP-0039, Policy Analyst ,,Approved,Please verify citation.
+REV-01644,POL-0060,EMP-0041,Policy Reviewer,2001-08-13,Rejected,Please verify citation.
+REV-01645,POL-0134,EMP-0023,Department Supervisor,2007-05-30,Approved,Minor edits requested.
+REV-01646,POL-0143,EMP-0044,Policy Analyst, 2022-03-09 ,Approved,
+REV-01647,POL-0069,EMP-0020,Department Supervisor,03/08/2015,Approved,  
+REV-01648,POL-0089,EMP-0054,Senior Analyst,2023-08-26,Approved,Looks good.
+REV-01649, POL-0136 ,,Department Supervisor,2009-09-13,Approved, Update section 3. 
+REV-01650, POL-0030 ,EMP-0044,Policy Analyst,11/19/2017,Approved,
+REV-01651,POL-0011,EMP-0030,Compliance Analyst,2000-09-06, Approved ,
+REV-01652,POL-0149,EMP-0032,Compliance Analyst,2004-05-27,Approved,Update section 3.
+REV-01653,POL-0079,EMP-0017,Department Supervisor,2002-07-26,Approved, Please verify citation. 
+REV-01654,POL-0123,EMP-0012,Department Supervisor,2014-07-07,Approved,Please verify citation.
+REV-01655,POL-0128,EMP-0051,Policy Analyst,2014-07-02,Approved,Looks good.
+REV-01656,POL-0177,EMP-0023,Department Supervisor,2014-11-22,Rejected,Looks good.
+REV-01657, POL-0258 ,EMP-0028,Compliance Analyst,05/09/2013,Rejected,Please verify citation.
+REV-01658,POL-0141,EMP-0039,Policy Analyst,2014-10-24,Approved,Formatting changes only.
+ REV-01659 ,POL-0079,,Compliance Analyst, 2005-10-10 ,Approved,Looks good.
+REV-01660,POL-0233,EMP-0028,Compliance Analyst,2007-07-25,Approved,
+REV-01661,POL-0108, EMP-0050 ,Policy Reviewer,2001-03-07,Approved,Please verify citation.
+REV-01662,POL-0286,EMP-0017,Department Supervisor,2023-07-23,Rejected,Looks good.
+REV-01663,POL-0120,EMP-0033,Compliance Analyst,,Approved,Please verify citation.
+REV-01664,POL-0130,EMP-0028,Compliance Analyst,2014-10-14,Approved,Looks good.
+REV-01665,POL-0210,EMP-0047,Policy Reviewer,2013-03-16,Approved,Looks good.
+REV-01666,POL-0055,EMP-0015,,2008-03-07,Approved,Minor edits requested.
+REV-01667,POL-0159,EMP-0045,Policy Analyst,2015-09-10,Rejected,Update section 3.
+REV-01668,POL-0288,EMP-0019,Department Supervisor,"Oct 10, 2002",Approved,
+REV-01669,POL-0241,EMP-0054,Senior Analyst,2021-08-12,,
+REV-01670,POL-0129,EMP-0035,Senior Analyst,2005-04-01,Approved,
+REV-01671,POL-0140,EMP-0038,Senior Analyst,2004-05-11,Approved, Update section 3. 
+REV-01672,POL-0046,EMP-0049,Senior Analyst,2008-07-11,Approved,Please verify citation.
+REV-01673,POL-0281,,Policy Reviewer,2020-06-30,Approved,Minor edits requested.
+REV-01674,POL-0198,EMP-0032,Compliance Analyst,,Approved,Looks good.
+REV-01675,POL-0016,EMP-0016,Department Supervisor,2024-06-05, Approved ,Update section 3.
+REV-01676,POL-0199, EMP-0016 ,Department Supervisor,2006-05-30,Approved,Formatting changes only.
+REV-01677,POL-0136,EMP-0017,Department Supervisor,,Approved,
+REV-01678,POL-0225,EMP-0054,Senior Analyst,2014-06-03,Approved,Formatting changes only.
+REV-01679,POL-0116,EMP-0041,Policy Reviewer,,Rejected,Looks good.
+REV-01680,POL-0028,EMP-0020,Department Supervisor,2010-07-15,Approved,Please verify citation.
+REV-01681,POL-0041,EMP-0034, Compliance Analyst , 2012-01-27 ,Approved,Update section 3.
+REV-01682,POL-0297,EMP-0053,Senior Analyst,2008-09-21,Approved,Minor edits requested.
+REV-01683,POL-0283, EMP-0040 ,Senior Analyst,2015-01-24,Approved, Update section 3. 
+REV-01684,POL-0098,EMP-0015, Department Supervisor ,"Nov 08, 2001",Approved,Update section 3.
+REV-01685,POL-0203,EMP-0033,Compliance Analyst, 2005-07-24 ,Approved,Update section 3.
+ REV-01686 ,POL-0091,EMP-0021,Department Supervisor,09-Mar-2021,Approved,Minor edits requested.
+REV-01687, POL-0237 ,EMP-0049,Senior Analyst,2016-02-19, Approved ,Please verify citation.
+REV-01688,POL-0017,,Policy Reviewer,2006-03-19,Approved,
+REV-01689,POL-0187,EMP-0017,Department Supervisor,11-Sep-2018,Approved,Minor edits requested.
+ REV-01690 ,POL-0099,EMP-0052,Senior Analyst,"Jun 11, 2025",Approved,  
+REV-01691,POL-0252,EMP-0045,Policy Analyst,2014-01-18,Approved,Update section 3.
+REV-01692, POL-0205 ,EMP-0048,Policy Reviewer,2018-06-23,Rejected,Update section 3.
+REV-01693,POL-0287,EMP-0050,Policy Reviewer, 2011-03-14 ,Approved,Looks good.
+REV-01694,POL-0249,EMP-0021,Department Supervisor,2025-01-28,Approved,Update section 3.
+REV-01695,POL-0243,EMP-0015,Department Supervisor,09/18/2017,Approved,Minor edits requested.
+REV-01696,POL-0041,EMP-0048,,2009-11-02,Approved,Update section 3.
+REV-01697,POL-0279, EMP-0047 ,Policy Reviewer, 2020-01-10 ,Approved,Minor edits requested.
+REV-01698,POL-0196,,Compliance Analyst,"Dec 03, 2024",Approved,Looks good.
+ REV-01699 ,POL-0074,EMP-0047,Policy Reviewer,,Approved,Update section 3.
+REV-01700,POL-0102,EMP-0048,Policy Reviewer,2005-08-17,Approved, Please verify citation. 
+REV-01701,POL-0139,EMP-0031,Compliance Analyst,2021-04-06,Approved,Please verify citation.
+REV-01702,POL-0237,EMP-0039,Policy Analyst, 2004-11-16 ,Rejected,Looks good.
+ REV-01703 ,POL-0036,EMP-0036,Senior Analyst,"Apr 25, 2014",Approved,
+REV-01704,POL-0245,EMP-0054,Senior Analyst,2005-05-17,Approved,Please verify citation.
+REV-01705,POL-0204,EMP-0031,Compliance Analyst, 2017-06-30 , Approved ,
+REV-01706,POL-0143,EMP-0016,Department Supervisor,2003-04-04,Approved, Looks good. 
+REV-01707,POL-0035,EMP-0048,Policy Reviewer,2006-09-24,Approved,
+REV-01708,POL-0230,EMP-0020,Department Supervisor,2000-07-04,Approved,Formatting changes only.
+REV-01709,POL-0280,,Policy Analyst,2007-03-11, Approved ,Please verify citation.
+REV-01710,POL-0070,EMP-0035,Senior Analyst,2013-07-28,Approved,Please verify citation.
+REV-01711, POL-0098 ,EMP-0023,Department Supervisor,2020-07-22,Approved,Looks good.
+ REV-01712 ,POL-0226,EMP-0030,Compliance Analyst,2014-09-13,Rejected,Please verify citation.
+REV-01713,POL-0121,EMP-0038,Senior Analyst, 2014-02-27 ,Approved, Formatting changes only. 
+REV-01714, POL-0136 ,EMP-0016,Department Supervisor,2015-12-10,Rejected,
+REV-01715,POL-0147,EMP-0050,Policy Reviewer,2000-11-11,,Please verify citation.
+ REV-01716 ,POL-0144,EMP-0019,, 2018-08-18 ,Rejected,Minor edits requested.
+REV-01717,POL-0258,EMP-0034,Compliance Analyst,2003-04-19,Approved,Please verify citation.
+REV-01718,POL-0088,EMP-0011,Department Supervisor, 2002-11-18 , Approved ,Formatting changes only.
+REV-01719,POL-0017,EMP-0033,Compliance Analyst,08/14/2025,Approved,
+REV-01720,POL-0273,EMP-0012,Department Supervisor,2013-02-26,Approved,Looks good.
+REV-01721,POL-0064,EMP-0048,Policy Reviewer,2019-11-12,Rejected,Update section 3.
+REV-01722,POL-0179,EMP-0035, Senior Analyst ,2014-10-08,,Update section 3.
+REV-01723,POL-0002,EMP-0038,Senior Analyst,"Aug 12, 2017",Rejected,
+REV-01724,POL-0153,EMP-0053,Senior Analyst,2009-12-21,Approved,Looks good.
+REV-01725,POL-0074,EMP-0019,Department Supervisor,2021-10-19,Approved,Looks good.
+REV-01726,POL-0144,EMP-0035,Senior Analyst,2025-05-31,Approved,Minor edits requested.
+REV-01727,POL-0097,,Department Supervisor,2019-03-19,Approved,Minor edits requested.
+REV-01728,POL-0192, EMP-0019 ,Department Supervisor,2006-02-16,Approved,
+ REV-01729 ,POL-0291,EMP-0052,Senior Analyst,2003-09-19,Approved,  
+REV-01730,POL-0212,EMP-0042, Senior Analyst ,2006-12-16,Approved,Formatting changes only.
+REV-01731,POL-0119,, Department Supervisor ,2020-02-02,Approved,
+REV-01732,POL-0008,EMP-0052,Senior Analyst,2006-08-27,Rejected,Update section 3.
+REV-01733,POL-0174,EMP-0049,Senior Analyst,2020-12-14,Approved,Update section 3.
+REV-01734,POL-0101,EMP-0040,Senior Analyst,2008-07-24,Approved,Please verify citation.
+ REV-01735 ,POL-0221,EMP-0046,Policy Reviewer,2019-07-10,Approved,Update section 3.
+REV-01736,POL-0029,EMP-0033,Compliance Analyst,"Oct 03, 2017",Approved,Looks good.
+REV-01737,POL-0221,EMP-0038,Senior Analyst,2008-10-31,Approved,Please verify citation.
+REV-01738,POL-0018,EMP-0047,,10/30/2000,Approved,Update section 3.
+REV-01739, POL-0273 ,EMP-0043,,2011-02-12,Approved,Minor edits requested.
+REV-01740,POL-0245,EMP-0045,Policy Analyst,2018-12-05,Rejected,Please verify citation.
+REV-01741,POL-0052,EMP-0013,Department Supervisor,"Dec 16, 2016",,  
+REV-01742,POL-0129,EMP-0034,Compliance Analyst,2022-03-05,Approved,
+REV-01743, POL-0163 ,EMP-0016, Department Supervisor ,"Feb 05, 2022",Rejected,Looks good.
+REV-01744,POL-0210, EMP-0028 ,Compliance Analyst, 2024-02-10 ,Approved,Update section 3.
+REV-01745,POL-0271, EMP-0016 ,Department Supervisor,09/08/2023,Approved,
+REV-01746,POL-0054,EMP-0026,Compliance Analyst,2004-06-19,Approved,Update section 3.
+REV-01747,POL-0091,EMP-0054,Senior Analyst,2004-01-01,Approved, Formatting changes only. 
+REV-01748,POL-0125,EMP-0048,Policy Reviewer,07-Sep-2024,Approved,Minor edits requested.
+REV-01749,POL-0014,, Compliance Analyst ,"Nov 12, 2002",Rejected, Please verify citation. 
+REV-01750,POL-0083,EMP-0041,Policy Reviewer,"Dec 24, 2000",,Update section 3.
+REV-01751,POL-0165,EMP-0041, Policy Reviewer ,2023-06-30,Approved,Please verify citation.
+REV-01752, POL-0206 ,EMP-0037,Policy Reviewer,2015-05-15,Approved,Minor edits requested.
+REV-01753,POL-0274, EMP-0029 ,Compliance Analyst,2013-09-18,Approved,Looks good.
+REV-01754,POL-0253,EMP-0049,Senior Analyst,2002-01-30,Approved,Formatting changes only.
+REV-01755,POL-0281,EMP-0047,Policy Reviewer,2014-02-19,Approved,Minor edits requested.
+REV-01756,POL-0263,EMP-0051,Policy Analyst,2003-04-03,Approved,Update section 3.
+REV-01757,POL-0101,EMP-0047,Policy Reviewer,2008-01-31, Approved ,
+REV-01758,POL-0111,EMP-0050,Policy Reviewer,2013-08-02,Approved,
+REV-01759,POL-0067,EMP-0042, Senior Analyst ,2013-05-13,Approved,
+REV-01760,POL-0263,EMP-0043,Policy Reviewer,2006-03-09,Approved,
+REV-01761,POL-0240,EMP-0027,Compliance Analyst,2012-12-17,Approved,Looks good.
+REV-01762,POL-0237,EMP-0028,Compliance Analyst,2013-02-06,Approved,Minor edits requested.
+REV-01763,POL-0007,EMP-0018,Department Supervisor,2001-02-18,Approved,Please verify citation.
+REV-01764,POL-0265,EMP-0048,Policy Reviewer,2008-04-30,Approved,Formatting changes only.
+REV-01765,POL-0254,EMP-0053,Senior Analyst,, Approved ,Update section 3.
+REV-01766,POL-0077,EMP-0022,Department Supervisor,2017-01-31,Approved,Minor edits requested.
+REV-01767,POL-0081,EMP-0042,Senior Analyst,2011-02-03,Approved,Looks good.
+REV-01768,POL-0066,EMP-0013,Department Supervisor,2024-02-26,Approved,Minor edits requested.
+REV-01769,POL-0163,EMP-0020,Department Supervisor,2004-04-13,Approved,Please verify citation.
+REV-01770,POL-0149,EMP-0042, Senior Analyst ,2007-05-31,Approved,Update section 3.
+REV-01771,POL-0178,EMP-0026,Compliance Analyst,2017-09-07,Approved,Formatting changes only.
+REV-01772,POL-0063,EMP-0051,Policy Analyst,"Mar 29, 2020",Approved,Looks good.
+REV-01773,POL-0021,EMP-0047,Policy Reviewer,15-Dec-2009,Rejected,Formatting changes only.
+REV-01774,POL-0208,EMP-0014,Department Supervisor,2015-12-23,Approved,Formatting changes only.
+REV-01775,POL-0247,EMP-0018,Department Supervisor,2012-05-10,Approved,
+REV-01776,POL-0246,EMP-0040,Senior Analyst,2008-01-06,Rejected,Update section 3.
+REV-01777,POL-0113,EMP-0030,Compliance Analyst,11/10/2021,Approved,Update section 3.
+REV-01778, POL-0276 ,EMP-0025,Compliance Analyst,2024-05-20,Approved, Update section 3. 
+REV-01779,POL-0112,EMP-0041,Policy Reviewer,2017-12-29,Approved,Minor edits requested.
+ REV-01780 ,POL-0069,EMP-0044,Policy Analyst,2007-01-04,Approved,Update section 3.
+REV-01781,POL-0201,EMP-0029,Compliance Analyst,2001-01-11,Rejected,Update section 3.
+REV-01782,POL-0165,EMP-0054,Senior Analyst,2017-08-19, Rejected ,Minor edits requested.
+REV-01783,POL-0108,EMP-0054,Senior Analyst,"Apr 13, 2024",Approved,
+REV-01784,POL-0126,EMP-0045, Policy Analyst ,2004-11-12,Approved,Formatting changes only.
+REV-01785,POL-0098,EMP-0038,Senior Analyst,2016-05-15,Approved, Please verify citation. 
+REV-01786,POL-0132,EMP-0032,Compliance Analyst,2012-09-22,Approved,Minor edits requested.
+REV-01787,POL-0165,EMP-0017,Department Supervisor,2012-06-23,Approved,Minor edits requested.
+REV-01788,POL-0208,EMP-0040,Senior Analyst,2018-01-16, Approved ,Formatting changes only.
+REV-01789,POL-0268,EMP-0054, Senior Analyst ,2011-05-06,Approved,Please verify citation.
+REV-01790,POL-0056,EMP-0044,Policy Analyst,2009-03-29,Rejected,Minor edits requested.
+REV-01791,POL-0288,EMP-0031,Compliance Analyst,2008-07-26,Rejected,Please verify citation.
+REV-01792,POL-0021,,Senior Analyst, 2000-12-21 ,Approved,
+REV-01793,POL-0101,EMP-0011,Department Supervisor,2003-07-19,Approved,Update section 3.
+REV-01794,POL-0251,EMP-0044,,2004-11-17,Approved,
+REV-01795,POL-0029,EMP-0033,Compliance Analyst,"Jul 02, 2020",Approved,Looks good.
+REV-01796,POL-0159,EMP-0027,Compliance Analyst,2013-03-16,Rejected,Looks good.
+REV-01797,POL-0096,EMP-0012,Department Supervisor,2002-01-09,Approved,Please verify citation.
+REV-01798,POL-0263,EMP-0014,Department Supervisor,2004-08-15,Rejected,Please verify citation.
+REV-01799,POL-0017,EMP-0049,Senior Analyst,2010-03-23,Approved,Formatting changes only.
+REV-01800,POL-0166,EMP-0018,Department Supervisor,,Approved,
+REV-01801,POL-0088,EMP-0035,Senior Analyst,2006-04-29,Approved,Formatting changes only.
+REV-01802,POL-0050,EMP-0018,Department Supervisor,2008-10-14,Approved,Formatting changes only.
+REV-01803,POL-0015,EMP-0027,Compliance Analyst,2008-10-05,Approved,Minor edits requested.
+REV-01804,POL-0033, EMP-0053 ,Senior Analyst,"Jun 11, 2021",,
+REV-01805,POL-0028,EMP-0028,Compliance Analyst,2020-11-02,Approved,Update section 3.
+REV-01806,POL-0007,EMP-0027,Compliance Analyst,2015-01-02,Approved,Looks good.
+REV-01807,POL-0192,EMP-0028,Compliance Analyst,,Approved,
+REV-01808,POL-0007,,Senior Analyst,2017-09-01,Approved,Minor edits requested.
+REV-01809,POL-0254,EMP-0027, Compliance Analyst ,2003-03-12,Approved,Minor edits requested.
+ REV-01810 ,POL-0056,EMP-0039,Policy Analyst,2008-06-24,Approved,
+ REV-01811 ,POL-0001, EMP-0023 ,Department Supervisor,2022-07-22,Approved,Please verify citation.
+REV-01812,POL-0116,EMP-0022,Department Supervisor,2018-02-09,Rejected,Formatting changes only.
+REV-01813,POL-0058,EMP-0017,Department Supervisor, 2022-07-27 ,Approved,Looks good.
+REV-01814,POL-0018,EMP-0038,,2024-09-30,Approved,Looks good.
+REV-01815, POL-0207 ,EMP-0039,Policy Analyst,"Apr 06, 2005",Approved,
+ REV-01816 , POL-0081 ,EMP-0017,Department Supervisor,2012-02-12,Approved,
+REV-01817,POL-0298,EMP-0015,Department Supervisor,"Oct 08, 2003",Approved,Please verify citation.
+REV-01818,POL-0264,EMP-0039,Policy Analyst,2011-09-27, Rejected ,
+REV-01819,POL-0006,EMP-0020,Department Supervisor,2022-10-28,Approved,Formatting changes only.
+REV-01820,POL-0107,EMP-0013,Department Supervisor,2000-07-15,Approved,Formatting changes only.
+REV-01821,POL-0277,EMP-0028,,2018-01-05,Approved,Looks good.
+REV-01822,POL-0038,EMP-0036,Senior Analyst,2015-04-17,Approved,Please verify citation.
+REV-01823,POL-0255,EMP-0043,Policy Reviewer,2000-08-30,Approved,Formatting changes only.
+REV-01824,POL-0046,EMP-0041,Policy Reviewer,07/05/2022,Approved,Update section 3.
+REV-01825,POL-0274,EMP-0015,Department Supervisor,2018-08-13,Approved,Please verify citation.
+REV-01826,POL-0057,EMP-0011,Department Supervisor,2010-08-18, Approved ,Update section 3.
+REV-01827,POL-0222,EMP-0018, Department Supervisor ,2022-02-14,Approved,Please verify citation.
+REV-01828,POL-0008,EMP-0033,Compliance Analyst,2024-07-05, Approved ,Minor edits requested.
+REV-01829,POL-0269,EMP-0036,Senior Analyst,2014-01-30,Approved,
+REV-01830, POL-0038 , EMP-0034 ,Compliance Analyst,"Jul 25, 2004",Approved,Please verify citation.
+REV-01831,POL-0180,EMP-0016,Department Supervisor,2015-10-02, Approved ,Update section 3.
+REV-01832,POL-0196,EMP-0052,Senior Analyst,2013-07-03,Approved,Looks good.
+REV-01833,POL-0295,EMP-0046,Policy Reviewer,2008-06-02,Approved,
+REV-01834,POL-0111,EMP-0053,Senior Analyst,2017-09-24,Approved,Looks good.
+REV-01835,POL-0022,EMP-0035,,2013-11-26,Approved,
+REV-01836,POL-0044,,Senior Analyst,08/12/2016,Approved,
+REV-01837,POL-0218,EMP-0023,Department Supervisor, 2020-02-22 ,Approved,
+REV-01838,POL-0162,EMP-0023,Department Supervisor,2002-02-05,Approved,
+REV-01839,POL-0065,,Senior Analyst,,Approved,Update section 3.
+ REV-01840 ,POL-0129,,Policy Analyst,2003-04-29,Approved,Formatting changes only.
+REV-01841,POL-0160,EMP-0042,,2014-04-20, Rejected ,Please verify citation.
+REV-01842,POL-0163,,,26-Aug-2020,Approved,
+REV-01843,POL-0162,EMP-0014,Department Supervisor,09/19/2015,Approved,Minor edits requested.
+REV-01844,POL-0177,,Senior Analyst,2002-06-02,Approved,
+REV-01845,POL-0253,EMP-0052,Senior Analyst,2009-12-29,Approved,Formatting changes only.
+REV-01846,POL-0264,EMP-0040, Senior Analyst ,2023-12-18,Approved, Formatting changes only. 
+REV-01847,POL-0292,EMP-0020,Department Supervisor,,Rejected,Formatting changes only.
+REV-01848,POL-0074,EMP-0015,Department Supervisor,2010-12-13,Approved,
+REV-01849,POL-0085,EMP-0042,Senior Analyst,2006-11-06,Approved,Formatting changes only.
+REV-01850,POL-0113,EMP-0041,Policy Reviewer, 2001-05-09 ,Approved,Please verify citation.
+REV-01851,POL-0045,EMP-0026,Compliance Analyst,2002-07-21,,Formatting changes only.
+REV-01852,POL-0247,EMP-0011,Department Supervisor,09-May-2006,Approved,Looks good.
+REV-01853,POL-0160,EMP-0030,Compliance Analyst, 2002-09-27 ,Approved,
+ REV-01854 ,POL-0233,EMP-0050,Policy Reviewer,2020-12-17,Approved,Looks good.
+REV-01855,POL-0003,EMP-0017,Department Supervisor,2003-05-14,Approved,  
+REV-01856,POL-0121,EMP-0049,Senior Analyst,2022-10-19,Approved,Please verify citation.
+REV-01857,POL-0170,EMP-0015,Department Supervisor,2010-05-23,Approved,Looks good.
+REV-01858,POL-0098,EMP-0032,Compliance Analyst,2019-08-14, Approved ,Formatting changes only.
+REV-01859,POL-0228,EMP-0031,Compliance Analyst,2018-07-13,Approved,
+REV-01860,POL-0172,EMP-0019,,2024-12-25,Approved,Minor edits requested.
+REV-01861,POL-0167,EMP-0013,Department Supervisor,2010-01-23, Approved ,Please verify citation.
+ REV-01862 ,POL-0175,EMP-0032,Compliance Analyst,2008-04-11,Rejected,
+REV-01863,POL-0212,EMP-0028,Compliance Analyst,11/30/2005,Approved,Looks good.
+REV-01864, POL-0255 ,EMP-0021,Department Supervisor,2019-02-13,Approved,Formatting changes only.
+REV-01865,POL-0115,EMP-0046,Policy Reviewer,2017-02-02,Approved,Looks good.
+REV-01866,POL-0264,EMP-0026,Compliance Analyst,2020-03-05,Approved,Please verify citation.
+REV-01867,POL-0134, EMP-0019 ,Department Supervisor,2002-04-28,Approved,
+REV-01868,POL-0194,EMP-0021,Department Supervisor,15-May-2017,Approved,
+REV-01869,POL-0241,EMP-0016,Department Supervisor,2022-05-05,Approved,
+REV-01870,POL-0210,EMP-0022,Department Supervisor,2000-10-27,Approved,
+REV-01871,POL-0249,EMP-0037,,2013-03-23, Approved ,Formatting changes only.
+REV-01872,POL-0277, EMP-0019 ,Department Supervisor,2021-11-06,Approved,Looks good.
+REV-01873,POL-0030,EMP-0051,Policy Analyst, 2006-12-01 ,Approved,Minor edits requested.
+REV-01874,POL-0271,EMP-0039,Policy Analyst,2023-12-18,Approved,
+REV-01875,POL-0207,EMP-0022,Department Supervisor,2011-03-25,Approved,Please verify citation.
+REV-01876,POL-0074,EMP-0049,Senior Analyst,2002-03-09,Approved, Looks good. 
+REV-01877,POL-0287,,Policy Reviewer,2022-12-03,Approved,
+REV-01878,POL-0299,EMP-0033,Compliance Analyst,2014-01-03,Approved,Update section 3.
+REV-01879,POL-0174,EMP-0046,Policy Reviewer,,Approved,Looks good.
+REV-01880,POL-0170,EMP-0018, Department Supervisor ,2009-02-08,Approved,Please verify citation.
+ REV-01881 ,POL-0187,EMP-0050, Policy Reviewer ,2004-10-15,Approved,Minor edits requested.
+REV-01882,POL-0133,EMP-0043,Policy Reviewer,15-Sep-2024,Approved,Looks good.
+ REV-01883 ,POL-0241,EMP-0051,Policy Analyst,27-Apr-2021,Approved,Formatting changes only.
+REV-01884,POL-0078,EMP-0028,Compliance Analyst,,Approved,
+REV-01885,POL-0012,EMP-0018,Department Supervisor,2009-03-09, Approved ,Looks good.
+REV-01886,POL-0177,EMP-0042,Senior Analyst,10/11/2021,Rejected,Looks good.
+REV-01887,POL-0177,EMP-0053,Senior Analyst,2007-08-31,Approved,  
+REV-01888,POL-0099,EMP-0052,Senior Analyst,2002-12-03,Approved,Minor edits requested.
+REV-01889,POL-0026,EMP-0024,,2013-04-14,Approved, Update section 3. 
+REV-01890,POL-0192,EMP-0032,Compliance Analyst,2011-10-10,Approved,Please verify citation.
+REV-01891,POL-0296,EMP-0013,Department Supervisor,2020-10-28,Approved,
+REV-01892,POL-0119,EMP-0045,Policy Analyst,2002-11-07,Approved,Looks good.
+ REV-01893 , POL-0184 ,EMP-0012,Department Supervisor,2007-08-03,Approved,
+REV-01894,POL-0271, EMP-0018 ,Department Supervisor,2023-08-06,,
+REV-01895, POL-0249 ,EMP-0039,Policy Analyst,2011-01-20,Approved,Please verify citation.
+ REV-01896 ,POL-0104,EMP-0037,Policy Reviewer,2015-02-13,Approved,Looks good.
+REV-01897,POL-0169,EMP-0025,Compliance Analyst,2015-02-09,Approved,
+REV-01898,POL-0238,EMP-0025,Compliance Analyst,"Feb 16, 2015",Approved,
+REV-01899,POL-0167,EMP-0037,Policy Reviewer,02/18/2011, Approved ,Looks good.
+ REV-01900 ,POL-0102,EMP-0025,Compliance Analyst,2017-05-05,Approved,
+REV-01901,POL-0077,EMP-0048,Policy Reviewer,2021-08-16,Rejected, Update section 3. 
+REV-01902, POL-0005 ,EMP-0038,Senior Analyst,2002-12-08,Approved,Looks good.
+REV-01903, POL-0291 ,EMP-0050,Policy Reviewer,2010-03-12,Rejected,Update section 3.
+REV-01904,POL-0249,EMP-0035,Senior Analyst,26-Jun-2008,Approved,Minor edits requested.
+REV-01905,POL-0057,EMP-0040,Senior Analyst,2006-08-13,Approved,Formatting changes only.
+REV-01906,POL-0145,EMP-0051,Policy Analyst, 2009-03-17 ,Approved,Minor edits requested.
+REV-01907,POL-0075,EMP-0023,Department Supervisor,08/05/2012, Approved ,Minor edits requested.
+REV-01908,POL-0151, EMP-0013 ,Department Supervisor,2006-03-16, Rejected ,Formatting changes only.
+REV-01909,POL-0284,EMP-0028,Compliance Analyst,2003-03-05,Approved,Looks good.
+REV-01910,POL-0141,EMP-0040,Senior Analyst,2005-06-25,Approved,Update section 3.
+REV-01911,POL-0067,EMP-0021,Department Supervisor,2019-04-05,Approved,Minor edits requested.
+ REV-01912 ,POL-0119,EMP-0029,Compliance Analyst,2010-05-12,Approved,Please verify citation.
+REV-01913,POL-0024,EMP-0051,Policy Analyst,2007-07-13,,Please verify citation.
+REV-01914,POL-0031,EMP-0047,Policy Reviewer, 2008-02-14 , Approved ,Please verify citation.
+REV-01915,POL-0050,EMP-0016,Department Supervisor,2010-10-20,Approved,Update section 3.
+REV-01916,POL-0100,,Senior Analyst,2023-11-26,Rejected,Looks good.
+REV-01917,POL-0246,EMP-0040,Senior Analyst,2021-09-26,Approved,
+REV-01918,POL-0232,EMP-0038,Senior Analyst,2001-02-23, Approved ,Formatting changes only.
+REV-01919,POL-0133,EMP-0026,Compliance Analyst,2011-07-25,Approved,Minor edits requested.
+REV-01920,POL-0063,EMP-0048,Policy Reviewer,2019-12-23,Approved,Looks good.
+REV-01921,POL-0244,EMP-0047,Policy Reviewer,2007-03-07,Approved,
+REV-01922,POL-0282,EMP-0013,Department Supervisor,2019-03-28,Approved,
+REV-01923,POL-0259,EMP-0043,Policy Reviewer,2021-08-11,Approved,
+REV-01924,POL-0044,EMP-0044,Policy Analyst,2019-08-05,Approved,Update section 3.
+REV-01925,POL-0025,EMP-0017,Department Supervisor,2021-12-30,Approved,Update section 3.
+ REV-01926 ,POL-0202, EMP-0026 ,Compliance Analyst,2022-09-18,Approved,
+REV-01927,POL-0051,EMP-0011,Department Supervisor,2025-07-20,Approved,Formatting changes only.
+REV-01928,POL-0035,,Department Supervisor,2018-09-27,Approved,Looks good.
+REV-01929,POL-0006, EMP-0029 ,Compliance Analyst,2016-07-29,Approved,Looks good.
+REV-01930,POL-0183,EMP-0012,Department Supervisor,26-Jul-2004,Approved,Update section 3.
+REV-01931,POL-0273,EMP-0021,Department Supervisor,2014-03-04,Approved,Formatting changes only.
+REV-01932,POL-0113,EMP-0047,Policy Reviewer,2021-02-05,Approved,Formatting changes only.
+REV-01933,POL-0002,EMP-0040,Senior Analyst,2001-08-04,Approved,Update section 3.
+REV-01934,POL-0095,EMP-0036,Senior Analyst,19-Sep-2006,Rejected,Looks good.
+REV-01935,POL-0231,EMP-0051,Policy Analyst, 2017-02-10 ,Approved,Update section 3.
+REV-01936,POL-0114,EMP-0051,Policy Analyst,23-Jul-2000,Approved,
+REV-01937,POL-0125,EMP-0032,Compliance Analyst,2017-10-05,Approved,Please verify citation.
+REV-01938,POL-0229,EMP-0029,Compliance Analyst,18-Dec-2001,Approved,
+REV-01939,POL-0287,EMP-0050,Policy Reviewer,2012-08-07,Approved,
+REV-01940,POL-0179,EMP-0054,Senior Analyst,2009-10-15,Rejected,
+REV-01941,POL-0224,EMP-0014,Department Supervisor,2015-07-23,Approved,Please verify citation.
+REV-01942,POL-0286,EMP-0014,Department Supervisor,"Oct 28, 2016",Approved,
+REV-01943,POL-0006,EMP-0034,Compliance Analyst,2017-09-04,Approved,Update section 3.
+REV-01944,POL-0196,EMP-0034,Compliance Analyst,2002-05-01, Approved ,Minor edits requested.
+REV-01945, POL-0144 ,EMP-0052,Senior Analyst, 2008-05-11 ,Approved,Please verify citation.
+REV-01946,POL-0234,EMP-0046,Policy Reviewer,2003-07-03,Approved,Formatting changes only.
+REV-01947,POL-0258,EMP-0019,Department Supervisor,2009-09-06,Rejected,Minor edits requested.
+REV-01948,POL-0240,EMP-0045,Policy Analyst,03/15/2011,Approved,
+REV-01949,POL-0193,EMP-0048,Policy Reviewer,,Approved,Formatting changes only.
+REV-01950,POL-0099,EMP-0025,Compliance Analyst,11/28/2009,,Minor edits requested.
+ REV-01951 ,POL-0046,EMP-0028, Compliance Analyst ,2016-04-26,Approved,Please verify citation.
+REV-01952,POL-0052,EMP-0028,Compliance Analyst,2019-06-21,Rejected,
+REV-01953,POL-0190,EMP-0034,Compliance Analyst,2003-05-05,Approved,Minor edits requested.
+REV-01954,POL-0002,EMP-0042,Senior Analyst,"Oct 16, 2020",Rejected,Please verify citation.
+ REV-01955 ,POL-0267,EMP-0018,Department Supervisor,2024-02-15,Rejected,Update section 3.
+REV-01956,POL-0210,EMP-0054,Senior Analyst, 2024-05-10 ,Approved, Please verify citation. 
+REV-01957,POL-0131,EMP-0039,Policy Analyst,2013-08-10,Approved,Please verify citation.
+REV-01958,POL-0055,EMP-0054,Senior Analyst, 2017-01-04 ,Approved,Formatting changes only.
+REV-01959,POL-0199,,Department Supervisor,,Rejected,Update section 3.
+ REV-01960 ,POL-0254,EMP-0016,Department Supervisor,2004-05-31,,Update section 3.
+REV-01961,POL-0105,EMP-0029,Compliance Analyst,2008-07-08,Approved,
+REV-01962,POL-0078,EMP-0021,Department Supervisor,2005-05-27,Approved,
+REV-01963,POL-0130,EMP-0020,Department Supervisor, 2005-07-10 ,Approved,Update section 3.
+REV-01964,POL-0091,,Department Supervisor,2007-04-01,Rejected,Please verify citation.
+REV-01965,POL-0158,,Compliance Analyst,2001-07-07,Approved,Update section 3.
+REV-01966,POL-0113,EMP-0019,Department Supervisor, 2024-10-13 ,Approved,Update section 3.
+REV-01967,POL-0213,EMP-0037,Policy Reviewer, 2016-01-19 ,Approved,Update section 3.
+REV-01968,POL-0140,EMP-0029, Compliance Analyst , 2001-06-17 ,Approved,Looks good.
+REV-01969,POL-0281,EMP-0012,Department Supervisor,04/28/2003,Approved,Looks good.
+ REV-01970 ,POL-0290,EMP-0052,Senior Analyst,10/22/2023,Approved,Minor edits requested.
+REV-01971,POL-0222,EMP-0048,Policy Reviewer,"Dec 19, 2018",Rejected,Minor edits requested.
+REV-01972,POL-0049,EMP-0042,Senior Analyst,2015-02-19,Approved,Please verify citation.
+REV-01973,POL-0200,EMP-0046,Policy Reviewer,2024-04-12,Approved,Update section 3.
+REV-01974,POL-0188,EMP-0030,Compliance Analyst,"Jan 15, 2021",Approved,Please verify citation.
+REV-01975,POL-0168,EMP-0030,Compliance Analyst,2006-06-01,Approved,Looks good.
+REV-01976,POL-0010,EMP-0025,Compliance Analyst,28-Feb-2012,Rejected,Update section 3.
+ REV-01977 ,POL-0134,EMP-0029,Compliance Analyst,2017-03-07,Approved,
+REV-01978,POL-0271,EMP-0033, Compliance Analyst ,2007-02-25,Approved,Minor edits requested.
+ REV-01979 ,POL-0167,EMP-0021,Department Supervisor,2020-12-12,Approved,Please verify citation.
+REV-01980,POL-0136,EMP-0045,Policy Analyst,09/17/2007,Approved,Minor edits requested.
+REV-01981,POL-0231,EMP-0022,Department Supervisor, 2008-09-03 , Approved ,Formatting changes only.
+REV-01982,POL-0266,EMP-0021,Department Supervisor,2007-05-20,Approved,Looks good.
+REV-01983,POL-0144, EMP-0013 ,Department Supervisor,28-Sep-2005,, Minor edits requested. 
+REV-01984,POL-0275,EMP-0039,Policy Analyst,2006-03-04, Approved ,Minor edits requested.
+REV-01985, POL-0024 ,EMP-0022,Department Supervisor,, Rejected ,Looks good.
+REV-01986,POL-0242,EMP-0053,Senior Analyst,2002-01-20,Approved,Minor edits requested.
+REV-01987,POL-0268,EMP-0020,Department Supervisor,2015-12-03,Approved,Minor edits requested.
+REV-01988,POL-0127,EMP-0045,Policy Analyst,2020-08-12,Approved,Looks good.
+REV-01989,POL-0056,EMP-0030, Compliance Analyst ,2024-06-08,Approved,
+REV-01990,POL-0169,EMP-0036,Senior Analyst,2001-08-13,Approved,Update section 3.
+REV-01991,POL-0222,EMP-0040,,2007-01-07,Approved,Minor edits requested.
+REV-01992,POL-0202,EMP-0011,Department Supervisor,2007-07-01,Approved,Formatting changes only.
+ REV-01993 ,POL-0025,EMP-0043,Policy Reviewer,30-Dec-2024,,
+REV-01994,POL-0239,EMP-0041,,2013-10-03,Approved,Minor edits requested.
+REV-01995, POL-0137 ,EMP-0047,Policy Reviewer,2007-02-04,Approved,Formatting changes only.
+REV-01996,POL-0200,EMP-0032,Compliance Analyst,2020-04-30,Rejected,
+REV-01997,POL-0103,EMP-0041,Policy Reviewer,2005-07-15,Approved,
+REV-01998,POL-0185,EMP-0054,Senior Analyst,2006-10-02,Approved,Please verify citation.
+REV-01999,POL-0057,EMP-0030,Compliance Analyst,2005-09-27,Approved,
+REV-02000,POL-0074,EMP-0050,,2018-07-07,Approved,Looks good.
+ REV-00675 ,POL-0169,EMP-0050,Policy Reviewer,2002-01-19, Rejected ,Please verify citation.
+REV-01700,POL-0102,EMP-0048,Policy Reviewer,2005-08-17,Approved, Please verify citation. 
+REV-01283,POL-0180,EMP-0021,Department Supervisor,2006-12-30,Approved,Formatting changes only.
+REV-01316,POL-0093,EMP-0044,Policy Analyst,"Jul 02, 2000",Approved,Looks good.
+REV-01211,POL-0109,EMP-0036,Senior Analyst,2020-11-23,Approved,Please verify citation.
+ REV-01637 ,POL-0168,EMP-0013,Department Supervisor,2014-08-09,Approved,Minor edits requested.
+REV-00614,POL-0118,EMP-0031, Compliance Analyst ,2010-07-27,Approved,Looks good.
+REV-00448,POL-0044,EMP-0020,Department Supervisor,12/12/2022,Rejected, Minor edits requested. 
+REV-01132,POL-0088,EMP-0021,Department Supervisor,2008-11-18,Approved,
+REV-00809,POL-0178,EMP-0043,Policy Reviewer,2021-04-27, Approved ,Update section 3.
+REV-01497,POL-0125,EMP-0031,,2004-12-18,Approved,Update section 3.
+REV-01469,POL-0093,EMP-0038,Senior Analyst,2019-01-19, Approved ,Minor edits requested.
+REV-01683,POL-0283, EMP-0040 ,Senior Analyst,2015-01-24,Approved, Update section 3. 
+REV-01150,POL-0062,EMP-0027,Compliance Analyst,2023-05-31,Approved,Looks good.
+REV-00443,POL-0047,EMP-0011,Department Supervisor,2005-04-01,Approved,
+REV-01814,POL-0018,EMP-0038,,2024-09-30,Approved,Looks good.
+REV-00655,POL-0005,EMP-0033,Compliance Analyst,2011-08-19, Approved ,Update section 3.
+REV-01265,POL-0280,EMP-0019,Department Supervisor,2022-11-28,Approved,Formatting changes only.
+REV-00859,POL-0105,EMP-0023,,2006-08-29,Approved,Minor edits requested.
+REV-01483,POL-0278,EMP-0024,Department Supervisor,2024-08-18,Approved,Looks good.
+REV-00232,POL-0226,EMP-0052,Senior Analyst,"Nov 17, 2020",Approved,Please verify citation.
+REV-01822,POL-0038,EMP-0036,Senior Analyst,2015-04-17,Approved,Please verify citation.
+REV-01927,POL-0051,EMP-0011,Department Supervisor,"Jul 20, 2025",Approved,Formatting changes only.
+REV-00882, POL-0059 ,EMP-0032,Compliance Analyst,2006-07-02,Approved,Update section 3.
+REV-00632,POL-0045,EMP-0044,Policy Analyst,2009-09-13,Approved,Looks good.
+REV-00376,POL-0093,EMP-0045,Policy Analyst,2013-01-27,Approved,Please verify citation.
+REV-01961,POL-0105,EMP-0029,Compliance Analyst,2008-07-08,Approved,
+REV-00368,POL-0025,EMP-0035, Senior Analyst ,2017-07-05,Approved,Please verify citation.
+REV-00559,POL-0210,EMP-0051,Policy Analyst,2010-01-20,Approved,
+REV-00276,POL-0066,EMP-0041,Policy Reviewer,2003-08-05,Approved,
+REV-01978,POL-0271,EMP-0033, Compliance Analyst ,2007-02-25,Approved,Minor edits requested.
+REV-00875,POL-0198,EMP-0025,Compliance Analyst,2011-08-29,Approved,Formatting changes only.
+REV-01679,POL-0116,EMP-0041,Policy Reviewer,,Rejected,Looks good.
+REV-00731,POL-0283,EMP-0035,,"Dec 28, 2024",,
+REV-00574,POL-0176,EMP-0044,Policy Analyst,2003-09-07,Rejected,
+REV-00719,POL-0175,EMP-0050,Policy Reviewer,2014-10-09,Approved,Looks good.
+REV-00578,POL-0125,EMP-0041,Policy Reviewer,"Mar 31, 2008",Approved,
+REV-00057,POL-0016,EMP-0054,,2008-05-08,Approved,Update section 3.
+REV-00869,POL-0219,EMP-0036,Senior Analyst,2019-10-05,Approved,Update section 3.
+ REV-01729 ,POL-0291,EMP-0052,Senior Analyst,2003-09-19,Approved,  
