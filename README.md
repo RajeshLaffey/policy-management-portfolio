@@ -16,7 +16,7 @@ The dataset is synthetic but modeled after a real organizational environment wit
 - **Policies** (~300)  
 - **Reviews** (~3,000 from date ranges 1/2/2019 - 12/31/2024)  
 - **Departments** (15 across divisions)  
-- **Employees** (10 in Compliance, plus division chiefs and supervisors)  
+- **Employees** (10 in Compliance, plus policy authors/reviewers, division chiefs and supervisors)  
 
 The project demonstrates the steps a Data Analyst takes to move from messy, raw data → clean datasets → dashboards → SQL insights.  
 
