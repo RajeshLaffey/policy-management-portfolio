@@ -40,6 +40,7 @@ The project demonstrates the steps a Data Analyst takes to move from messy, raw 
 - **2025-09-01**: Created project folder structure (`data/`, `powerbi/`, `sql/`) and uploaded both raw (uncleaned) and clean CSV files into the `data/` folder.
 - **2025-09-06**: Created project folder structure (`productowner/`) and uploaded Product Vision Board into the `productowner/` folder
 - **2025-09-07**: Uploaded clean csv files to `data/`
+- **2025-09-11**: Uploaded Persona Template to `productowner/`
 
 📖 For a detailed history of updates, see the [CHANGELOG](analysis/CHANGELOG.md).
 
