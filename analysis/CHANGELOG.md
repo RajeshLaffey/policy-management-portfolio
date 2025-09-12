@@ -5,6 +5,13 @@ Entries are listed in reverse chronological order (newest first).
 
 ---
 
+## [2025-09-07] – Initial Setup v04
+### Added
+- Uploaded **Persona Template** into `productowner/`.
+  
+---
+---
+
 ## [2025-09-07] – Initial Setup v03
 ### Added
 - Uploaded clean csv files to `data/`
