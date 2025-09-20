@@ -13,7 +13,7 @@ The dashboards will be developed in stages. The first completed view, **Board of
 “Are we keeping policies up to date, and which departments are falling behind?”
 
 ### Dashboard Preview
-![Policy Review Dashboard]([photo directory])
+![Policy Review Dashboard](Policy-Review-Summary.png)
 
 **Key Features**
 - **KPI Cards**
@@ -60,18 +60,18 @@ Based on the current visualization:
 
 ---
 
-## Data Model
-The dashboards are supported by four cleaned datasets:
-- **Policies** (`pm_policies_clean`)
-- **Reviews** (`clean_reviews`)
-- **Departments** (`pm_departments_clean`)
-- **Employees** (`pm_employees_clean`)
+## Data Model  
+The dashboards are supported by four cleaned datasets located in the `data/` folder:  
+- **Policies** [`pm_policies_clean.csv`](data/pm_policies_clean.csv)  
+- **Reviews** [`clean_reviews.csv`](data/clean_reviews.csv)  
+- **Departments** [`pm_departments_clean.csv`](data/pm_departments_clean.csv)  
+- **Employees** [`pm_employees_clean.csv`](data/pm_employees_clean.csv)  
 
 ### Schema View
-![Schema]([schema])
+![Schema](PBI-Schema.png) 
 
 ### Relationships
-![Relationships]([relationships])
+![Relationships](Schema-Relationships.png)
 
 **Relationships established:**
 - **Policies and Reviews**: One to Many  
@@ -109,10 +109,3 @@ The dashboards are designed to provide stakeholders with:
   Focus on review process performance, reviewer timeliness, and outcomes.
 - **Supervisor or Policy Owner Dashboard**  
   Focus on workload, upcoming deadlines, and department level accountability.
-
----
-
-## Repository Contents
-- `README.md` – Documentation and project overview
-- `.png` screenshots – Dashboards, schema, and relationship model
-- `PolicyDashboard.pbix` – Power BI file with visuals and model (optional to include)
