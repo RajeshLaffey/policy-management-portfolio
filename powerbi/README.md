@@ -53,6 +53,7 @@ Based on the current visualization:
    - Review activity averages roughly 70 to 100 reviews per quarter.
    - Quarter 1 of 2019 shows the highest spike, exceeding 100 reviews, which may represent a catch up period or a cycle of policy expirations.
    - Periodic dips, for example late 2020 and early 2023, suggest seasonal or cyclical fluctuations in review activity.
+   - The lower review volume in 2020 could plausibly reflect operational disruptions during the COVID-19 pandemic, when many organizations delayed or deprioritized policy reviews.
 
 4. **Lowest Performing Departments Table**
    - Risk Management and Investment Operations fall below the 90 percent threshold.
