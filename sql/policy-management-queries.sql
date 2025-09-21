@@ -196,7 +196,7 @@ GROUP BY cd.DepartmentID
 	This metric helps leadership prioritize the most critical gaps by 	focusing on departments where overdue policies remain unaddressed 	for extended periods, posing higher compliance and operational 	risks.
    =========================================================*/
 /* =========================================================
-   Q8: What is each department’s review throughput (reviews per active employee) in 2022?
+   Q8: What is each department’s review throughput (reviews per active employee) in 2022?*/
 
 WITH active_employee AS(
 SELECT
