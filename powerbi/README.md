@@ -13,7 +13,7 @@ The dashboards will be developed in stages. The first completed view, **Board of
 “Are we keeping policies up to date, and which departments are falling behind?”
 
 ### Dashboard Preview
-![Policy Review Dashboard](Policy-Review-Summary.png)
+
 
 **Key Features**
 - **KPI Cards**
