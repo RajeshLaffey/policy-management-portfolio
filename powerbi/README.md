@@ -13,7 +13,7 @@ The dashboards will be developed in stages. The first completed view, **Board of
 “Are we keeping policies up to date, and which departments are falling behind?”
 
 ### Dashboard Preview
-
+![Policy Review Dashboard](Policy-Review-Summary3.png)
 
 **Key Features**
 - **KPI Cards**
@@ -60,12 +60,14 @@ Based on the current visualization:
 
 ---
 
-## Data Model  
-The dashboards are supported by four cleaned datasets located in the `data/` folder:  
-- **Policies** [`pm_policies_clean.csv`](data/pm_policies_clean.csv)  
-- **Reviews** [`pm_reviews_clean.csv`](data/pm_reviews_clean.csv)  
-- **Departments** [`pm_departments_clean.csv`](data/pm_departments_clean.csv)  
-- **Employees** [`pm_employees_clean.csv`](data/pm_employees_clean.csv)  
+## Data Model
+
+The dashboards are supported by four cleaned datasets located in the `data/` folder:
+
+- **Policies** [pm_policies_clean.csv](../data/pm_policies_clean.csv)
+- **Reviews** [pm_reviews_clean.csv](../data/pm_reviews_clean.csv)
+- **Departments** [pm_departments_clean.csv](../data/pm_departments_clean.csv)
+- **Employees** [pm_employees_clean.csv](../data/pm_employees_clean.csv) 
 
 ### Schema View
 ![Schema](PBI-Schema.png) 
