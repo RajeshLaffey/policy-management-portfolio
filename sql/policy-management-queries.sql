@@ -28,7 +28,7 @@ ORDER BY count(status) DESC
 	- This breakdown gives leadership a clear picture of where policies sit in their lifecycle and highlights areas (Draft/Under Review) that may need 	extra attention to keep compliance obligations current.
    ========================================================= */
 /* =========================================================
-   Q2: How many reviews were completed in December 2024
+   Q2: How many reviews were completed in December 2024*/
 
 SELECT 
 count(cr.PolicyID) as 'December 2024 Count'
