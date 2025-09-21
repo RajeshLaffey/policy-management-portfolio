@@ -63,7 +63,7 @@ Based on the current visualization:
 ## Data Model  
 The dashboards are supported by four cleaned datasets located in the `data/` folder:  
 - **Policies** [`pm_policies_clean.csv`](data/pm_policies_clean.csv)  
-- **Reviews** [`clean_reviews.csv`](data/clean_reviews.csv)  
+- **Reviews** [`pm_reviews_clean.csv`](data/pm_reviews_clean.csv)  
 - **Departments** [`pm_departments_clean.csv`](data/pm_departments_clean.csv)  
 - **Employees** [`pm_employees_clean.csv`](data/pm_employees_clean.csv)  
 
