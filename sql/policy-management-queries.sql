@@ -20,14 +20,12 @@ GROUP BY Status
 
 ORDER BY count(status) DESC 
 
-
 /* 
    Analysis:
-	The majority of policies (169) are in an "Approved" state, which indicates 	that most of the portfolio has been formally reviewed and authorized. 
-
-	However, there are still 48 policies currently "Under Review" and 31 in 	"Draft" status, showing ongoing development and review activity. 	Additionally, 52 policies have been "Retired," which is expected in a 		mature policy environment but should be monitored to ensure no gaps are 	left unaddressed.
-
-	This breakdown gives leadership a clear picture of where policies sit in 	their lifecycle and highlights areas (Draft/Under Review) that may need 	extra attention to keep compliance obligations current.
+	- The majority of policies (169) are in an "Approved" state, which indicates 	that most of the portfolio has been formally reviewed and authorized. 
+	- However, there are still 48 policies currently "Under Review" and 31 in "Draft" status, showing ongoing development and review activity. 	
+    - Additionally, 52 policies have been "Retired," which is expected in a mature policy environment but should be monitored to ensure no gaps are 	left unaddressed.
+	- This breakdown gives leadership a clear picture of where policies sit in their lifecycle and highlights areas (Draft/Under Review) that may need 	extra attention to keep compliance obligations current.
    ========================================================= */
 /* =========================================================
    Q2: How many reviews were completed in December 2024
@@ -45,9 +43,9 @@ date(cr.ReviewDate) BETWEEN '2024-12-01' AND '2024-12-31'
 
 /* 
    Analysis:
-	In December 2024, a total of 36 policy reviews were completed. This number 	provides a point-in-time view of review activity and can be compared 	against expected review volumes for that month. If December typically 	aligns with scheduled review cycles, this output can confirm whether teams 	are meeting compliance expectations. 
-
-	Leadership can use this to assess whether review cadence is consistent 	throughout the year or if activity is clustered at certain times, which 	may indicate resourcing or planning issues.
+    - In December 2024, a total of 36 policy reviews were completed. This number provides a point-in-time view of review activity and can be compared against expected review volumes for that month. 
+    - If December typically aligns with scheduled review cycles, this output can confirm whether teams 	are meeting compliance expectations. 
+    - Leadership can use this to assess whether review cadence is consistent throughout the year or if activity is clustered at certain times, which may indicate resourcing or planning issues.
    ========================================================= */
 /* =========================================================
    Q3: Which Top 5 active employees are responsible for the most reviews? */
