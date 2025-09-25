@@ -1,4 +1,4 @@
-# 📊 Policy Management Portfolio Project
+# Policy Management Portfolio Project
 
 This is my first portfolio project as a Data Analyst.  
 The goal is to practice the full analytics workflow using a synthetic dataset:
@@ -11,7 +11,7 @@ I’ll be updating this repository as I learn and make progress.
 
 ---
 
-## 📘 Project Overview
+## Project Overview
 The dataset is synthetic but modeled after a real organizational environment with:  
 - **Policies** (~300)  
 - **Reviews** (~3,000 from date ranges 1/2/2019 - 12/31/2024)  
@@ -22,7 +22,7 @@ The project demonstrates the steps a Data Analyst takes to move from messy, raw 
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
     policy-management-portfolio/
     │
@@ -36,17 +36,17 @@ The project demonstrates the steps a Data Analyst takes to move from messy, raw 
 
 ---
 
-## 📅 Progress Log
+## Progress Log
 - **2025-09-01**: Created project folder structure (`data/`, `powerbi/`, `sql/`) and uploaded both raw (uncleaned) and clean CSV files into the `data/` folder.
 - **2025-09-06**: Created project folder structure (`productowner/`) and uploaded Product Vision Board into the `productowner/` folder
 - **2025-09-07**: Uploaded clean csv files to `data/`
 - **2025-09-11**: Uploaded Persona Template to `productowner/`
 
-📖 For a detailed history of updates, see the [CHANGELOG](analysis/CHANGELOG.md).
+For a detailed history of updates, see the [CHANGELOG](analysis/CHANGELOG.md).
 
 ---
 
-## 🔧 Tools & Technologies
+## Tools & Technologies
 - **Excel** – data profiling, cleaning, normalization  
 - **Power BI** – modeling, DAX measures, dashboards  
 - **SQLite (DBLite)** – schema creation, data loading, queries  
